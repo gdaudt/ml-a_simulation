@@ -35,8 +35,6 @@ por exemplo:
 
 - v b     : muda modos de visualização
 
-- m       : tira um screenshot, que fica salvo na pasta imgs/
-
 - espaço  : pausa/despausa a simulação
 
 - n       : quando pausada, executa a próxima iteração da simulação (passo-a-passo)
