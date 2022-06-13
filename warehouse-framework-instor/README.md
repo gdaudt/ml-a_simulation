@@ -18,13 +18,13 @@ o programa vai ser compilado em uma pasta build/ (dentro da pasta 'warehouse-fra
 
 Para rodar digite:
 ```console
-./build/program -m NOMEDOMAPA.txt 
+./build/program -m NOMEDOMAPA.txt wave.txt
 ```
 onde NOMEDOMAPA.txt é um mapa existente na pasta maps/ 
 
 por exemplo:  
 ```console
-./build/program -m map2.txt
+./build/program -m ml_a.txt wave.txt
 ```
 
 # Controles do framework
