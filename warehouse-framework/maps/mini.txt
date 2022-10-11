@@ -1,0 +1,21 @@
+10 20
+XXXXXXXXXX
+X--------X
+X--EEE---X
+X---EEE--X
+X----EEE-X
+X--------X
+X--S-S---X
+X--------X
+X---G-S--X
+X--------X
+X--S-----X
+X--------X
+X--EEE---X
+X---EEE--X
+X----EEE-X
+X--------X
+X--S-S---X
+X--------X
+X--------X
+XXXXXXXXXX

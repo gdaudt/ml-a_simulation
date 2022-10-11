@@ -1,0 +1,7526 @@
+Grid: map1.txt
+map.width 65 map.height 114
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X--------EEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEEGGGEE--------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X--------SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS--------X
+X--------SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS--------X
+X--------SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS--------X
+X--------SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS--------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+X---------------------------------------------------------------X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+cell 0,0 is an obstacle
+cell 1,0 is an obstacle
+cell 2,0 is an obstacle
+cell 3,0 is an obstacle
+cell 4,0 is an obstacle
+cell 5,0 is an obstacle
+cell 6,0 is an obstacle
+cell 7,0 is an obstacle
+cell 8,0 is an obstacle
+cell 9,0 is an obstacle
+cell 10,0 is an obstacle
+cell 11,0 is an obstacle
+cell 12,0 is an obstacle
+cell 13,0 is an obstacle
+cell 14,0 is an obstacle
+cell 15,0 is an obstacle
+cell 16,0 is an obstacle
+cell 17,0 is an obstacle
+cell 18,0 is an obstacle
+cell 19,0 is an obstacle
+cell 20,0 is an obstacle
+cell 21,0 is an obstacle
+cell 22,0 is an obstacle
+cell 23,0 is an obstacle
+cell 24,0 is an obstacle
+cell 25,0 is an obstacle
+cell 26,0 is an obstacle
+cell 27,0 is an obstacle
+cell 28,0 is an obstacle
+cell 29,0 is an obstacle
+cell 30,0 is an obstacle
+cell 31,0 is an obstacle
+cell 32,0 is an obstacle
+cell 33,0 is an obstacle
+cell 34,0 is an obstacle
+cell 35,0 is an obstacle
+cell 36,0 is an obstacle
+cell 37,0 is an obstacle
+cell 38,0 is an obstacle
+cell 39,0 is an obstacle
+cell 40,0 is an obstacle
+cell 41,0 is an obstacle
+cell 42,0 is an obstacle
+cell 43,0 is an obstacle
+cell 44,0 is an obstacle
+cell 45,0 is an obstacle
+cell 46,0 is an obstacle
+cell 47,0 is an obstacle
+cell 48,0 is an obstacle
+cell 49,0 is an obstacle
+cell 50,0 is an obstacle
+cell 51,0 is an obstacle
+cell 52,0 is an obstacle
+cell 53,0 is an obstacle
+cell 54,0 is an obstacle
+cell 55,0 is an obstacle
+cell 56,0 is an obstacle
+cell 57,0 is an obstacle
+cell 58,0 is an obstacle
+cell 59,0 is an obstacle
+cell 60,0 is an obstacle
+cell 61,0 is an obstacle
+cell 62,0 is an obstacle
+cell 63,0 is an obstacle
+cell 64,0 is an obstacle
+cell 0,1 is an obstacle
+cell 1,1 is valid
+cell 2,1 is valid
+cell 3,1 is valid
+cell 4,1 is valid
+cell 5,1 is valid
+cell 6,1 is valid
+cell 7,1 is valid
+cell 8,1 is valid
+cell 9,1 is valid
+cell 10,1 is valid
+cell 11,1 is valid
+cell 12,1 is valid
+cell 13,1 is valid
+cell 14,1 is valid
+cell 15,1 is valid
+cell 16,1 is valid
+cell 17,1 is valid
+cell 18,1 is valid
+cell 19,1 is valid
+cell 20,1 is valid
+cell 21,1 is valid
+cell 22,1 is valid
+cell 23,1 is valid
+cell 24,1 is valid
+cell 25,1 is valid
+cell 26,1 is valid
+cell 27,1 is valid
+cell 28,1 is valid
+cell 29,1 is valid
+cell 30,1 is valid
+cell 31,1 is valid
+cell 32,1 is valid
+cell 33,1 is valid
+cell 34,1 is valid
+cell 35,1 is valid
+cell 36,1 is valid
+cell 37,1 is valid
+cell 38,1 is valid
+cell 39,1 is valid
+cell 40,1 is valid
+cell 41,1 is valid
+cell 42,1 is valid
+cell 43,1 is valid
+cell 44,1 is valid
+cell 45,1 is valid
+cell 46,1 is valid
+cell 47,1 is valid
+cell 48,1 is valid
+cell 49,1 is valid
+cell 50,1 is valid
+cell 51,1 is valid
+cell 52,1 is valid
+cell 53,1 is valid
+cell 54,1 is valid
+cell 55,1 is valid
+cell 56,1 is valid
+cell 57,1 is valid
+cell 58,1 is valid
+cell 59,1 is valid
+cell 60,1 is valid
+cell 61,1 is valid
+cell 62,1 is valid
+cell 63,1 is valid
+cell 64,1 is an obstacle
+cell 0,2 is an obstacle
+cell 1,2 is valid
+cell 2,2 is valid
+cell 3,2 is valid
+cell 4,2 is valid
+cell 5,2 is valid
+cell 6,2 is valid
+cell 7,2 is valid
+cell 8,2 is valid
+cell 9,2 is valid
+cell 10,2 is valid
+cell 11,2 is valid
+cell 12,2 is valid
+cell 13,2 is valid
+cell 14,2 is valid
+cell 15,2 is valid
+cell 16,2 is valid
+cell 17,2 is valid
+cell 18,2 is valid
+cell 19,2 is valid
+cell 20,2 is valid
+cell 21,2 is valid
+cell 22,2 is valid
+cell 23,2 is valid
+cell 24,2 is valid
+cell 25,2 is valid
+cell 26,2 is valid
+cell 27,2 is valid
+cell 28,2 is valid
+cell 29,2 is valid
+cell 30,2 is valid
+cell 31,2 is valid
+cell 32,2 is valid
+cell 33,2 is valid
+cell 34,2 is valid
+cell 35,2 is valid
+cell 36,2 is valid
+cell 37,2 is valid
+cell 38,2 is valid
+cell 39,2 is valid
+cell 40,2 is valid
+cell 41,2 is valid
+cell 42,2 is valid
+cell 43,2 is valid
+cell 44,2 is valid
+cell 45,2 is valid
+cell 46,2 is valid
+cell 47,2 is valid
+cell 48,2 is valid
+cell 49,2 is valid
+cell 50,2 is valid
+cell 51,2 is valid
+cell 52,2 is valid
+cell 53,2 is valid
+cell 54,2 is valid
+cell 55,2 is valid
+cell 56,2 is valid
+cell 57,2 is valid
+cell 58,2 is valid
+cell 59,2 is valid
+cell 60,2 is valid
+cell 61,2 is valid
+cell 62,2 is valid
+cell 63,2 is valid
+cell 64,2 is an obstacle
+cell 0,3 is an obstacle
+cell 1,3 is valid
+cell 2,3 is valid
+cell 3,3 is valid
+cell 4,3 is valid
+cell 5,3 is valid
+cell 6,3 is valid
+cell 7,3 is valid
+cell 8,3 is valid
+cell 9,3 is valid
+cell 10,3 is valid
+cell 11,3 is valid
+cell 12,3 is valid
+cell 13,3 is valid
+cell 14,3 is valid
+cell 15,3 is valid
+cell 16,3 is valid
+cell 17,3 is valid
+cell 18,3 is valid
+cell 19,3 is valid
+cell 20,3 is valid
+cell 21,3 is valid
+cell 22,3 is valid
+cell 23,3 is valid
+cell 24,3 is valid
+cell 25,3 is valid
+cell 26,3 is valid
+cell 27,3 is valid
+cell 28,3 is valid
+cell 29,3 is valid
+cell 30,3 is valid
+cell 31,3 is valid
+cell 32,3 is valid
+cell 33,3 is valid
+cell 34,3 is valid
+cell 35,3 is valid
+cell 36,3 is valid
+cell 37,3 is valid
+cell 38,3 is valid
+cell 39,3 is valid
+cell 40,3 is valid
+cell 41,3 is valid
+cell 42,3 is valid
+cell 43,3 is valid
+cell 44,3 is valid
+cell 45,3 is valid
+cell 46,3 is valid
+cell 47,3 is valid
+cell 48,3 is valid
+cell 49,3 is valid
+cell 50,3 is valid
+cell 51,3 is valid
+cell 52,3 is valid
+cell 53,3 is valid
+cell 54,3 is valid
+cell 55,3 is valid
+cell 56,3 is valid
+cell 57,3 is valid
+cell 58,3 is valid
+cell 59,3 is valid
+cell 60,3 is valid
+cell 61,3 is valid
+cell 62,3 is valid
+cell 63,3 is valid
+cell 64,3 is an obstacle
+cell 0,4 is an obstacle
+cell 1,4 is valid
+cell 2,4 is valid
+cell 3,4 is valid
+cell 4,4 is valid
+cell 5,4 is valid
+cell 6,4 is valid
+cell 7,4 is valid
+cell 8,4 is valid
+cell 9,4 is valid
+cell 10,4 is valid
+cell 11,4 is valid
+cell 12,4 is valid
+cell 13,4 is valid
+cell 14,4 is valid
+cell 15,4 is valid
+cell 16,4 is valid
+cell 17,4 is valid
+cell 18,4 is valid
+cell 19,4 is valid
+cell 20,4 is valid
+cell 21,4 is valid
+cell 22,4 is valid
+cell 23,4 is valid
+cell 24,4 is valid
+cell 25,4 is valid
+cell 26,4 is valid
+cell 27,4 is valid
+cell 28,4 is valid
+cell 29,4 is valid
+cell 30,4 is valid
+cell 31,4 is valid
+cell 32,4 is valid
+cell 33,4 is valid
+cell 34,4 is valid
+cell 35,4 is valid
+cell 36,4 is valid
+cell 37,4 is valid
+cell 38,4 is valid
+cell 39,4 is valid
+cell 40,4 is valid
+cell 41,4 is valid
+cell 42,4 is valid
+cell 43,4 is valid
+cell 44,4 is valid
+cell 45,4 is valid
+cell 46,4 is valid
+cell 47,4 is valid
+cell 48,4 is valid
+cell 49,4 is valid
+cell 50,4 is valid
+cell 51,4 is valid
+cell 52,4 is valid
+cell 53,4 is valid
+cell 54,4 is valid
+cell 55,4 is valid
+cell 56,4 is valid
+cell 57,4 is valid
+cell 58,4 is valid
+cell 59,4 is valid
+cell 60,4 is valid
+cell 61,4 is valid
+cell 62,4 is valid
+cell 63,4 is valid
+cell 64,4 is an obstacle
+cell 0,5 is an obstacle
+cell 1,5 is valid
+cell 2,5 is valid
+cell 3,5 is valid
+cell 4,5 is valid
+cell 5,5 is valid
+cell 6,5 is valid
+cell 7,5 is valid
+cell 8,5 is valid
+cell 9,5 is valid
+cell 10,5 is valid
+cell 11,5 is valid
+cell 12,5 is valid
+cell 13,5 is valid
+cell 14,5 is valid
+cell 15,5 is valid
+cell 16,5 is valid
+cell 17,5 is valid
+cell 18,5 is valid
+cell 19,5 is valid
+cell 20,5 is valid
+cell 21,5 is valid
+cell 22,5 is valid
+cell 23,5 is valid
+cell 24,5 is valid
+cell 25,5 is valid
+cell 26,5 is valid
+cell 27,5 is valid
+cell 28,5 is valid
+cell 29,5 is valid
+cell 30,5 is valid
+cell 31,5 is valid
+cell 32,5 is valid
+cell 33,5 is valid
+cell 34,5 is valid
+cell 35,5 is valid
+cell 36,5 is valid
+cell 37,5 is valid
+cell 38,5 is valid
+cell 39,5 is valid
+cell 40,5 is valid
+cell 41,5 is valid
+cell 42,5 is valid
+cell 43,5 is valid
+cell 44,5 is valid
+cell 45,5 is valid
+cell 46,5 is valid
+cell 47,5 is valid
+cell 48,5 is valid
+cell 49,5 is valid
+cell 50,5 is valid
+cell 51,5 is valid
+cell 52,5 is valid
+cell 53,5 is valid
+cell 54,5 is valid
+cell 55,5 is valid
+cell 56,5 is valid
+cell 57,5 is valid
+cell 58,5 is valid
+cell 59,5 is valid
+cell 60,5 is valid
+cell 61,5 is valid
+cell 62,5 is valid
+cell 63,5 is valid
+cell 64,5 is an obstacle
+cell 0,6 is an obstacle
+cell 1,6 is valid
+cell 2,6 is valid
+cell 3,6 is valid
+cell 4,6 is valid
+cell 5,6 is valid
+cell 6,6 is valid
+cell 7,6 is valid
+cell 8,6 is valid
+cell 9,6 is valid
+cell 10,6 is valid
+cell 11,6 is valid
+cell 12,6 is valid
+cell 13,6 is valid
+cell 14,6 is valid
+cell 15,6 is valid
+cell 16,6 is valid
+cell 17,6 is valid
+cell 18,6 is valid
+cell 19,6 is valid
+cell 20,6 is valid
+cell 21,6 is valid
+cell 22,6 is valid
+cell 23,6 is valid
+cell 24,6 is valid
+cell 25,6 is valid
+cell 26,6 is valid
+cell 27,6 is valid
+cell 28,6 is valid
+cell 29,6 is valid
+cell 30,6 is valid
+cell 31,6 is valid
+cell 32,6 is valid
+cell 33,6 is valid
+cell 34,6 is valid
+cell 35,6 is valid
+cell 36,6 is valid
+cell 37,6 is valid
+cell 38,6 is valid
+cell 39,6 is valid
+cell 40,6 is valid
+cell 41,6 is valid
+cell 42,6 is valid
+cell 43,6 is valid
+cell 44,6 is valid
+cell 45,6 is valid
+cell 46,6 is valid
+cell 47,6 is valid
+cell 48,6 is valid
+cell 49,6 is valid
+cell 50,6 is valid
+cell 51,6 is valid
+cell 52,6 is valid
+cell 53,6 is valid
+cell 54,6 is valid
+cell 55,6 is valid
+cell 56,6 is valid
+cell 57,6 is valid
+cell 58,6 is valid
+cell 59,6 is valid
+cell 60,6 is valid
+cell 61,6 is valid
+cell 62,6 is valid
+cell 63,6 is valid
+cell 64,6 is an obstacle
+cell 0,7 is an obstacle
+cell 1,7 is valid
+cell 2,7 is valid
+cell 3,7 is valid
+cell 4,7 is valid
+cell 5,7 is valid
+cell 6,7 is valid
+cell 7,7 is valid
+cell 8,7 is valid
+cell 9,7 is valid
+cell 10,7 is valid
+cell 11,7 is valid
+cell 12,7 is valid
+cell 13,7 is valid
+cell 14,7 is valid
+cell 15,7 is valid
+cell 16,7 is valid
+cell 17,7 is valid
+cell 18,7 is valid
+cell 19,7 is valid
+cell 20,7 is valid
+cell 21,7 is valid
+cell 22,7 is valid
+cell 23,7 is valid
+cell 24,7 is valid
+cell 25,7 is valid
+cell 26,7 is valid
+cell 27,7 is valid
+cell 28,7 is valid
+cell 29,7 is valid
+cell 30,7 is valid
+cell 31,7 is valid
+cell 32,7 is valid
+cell 33,7 is valid
+cell 34,7 is valid
+cell 35,7 is valid
+cell 36,7 is valid
+cell 37,7 is valid
+cell 38,7 is valid
+cell 39,7 is valid
+cell 40,7 is valid
+cell 41,7 is valid
+cell 42,7 is valid
+cell 43,7 is valid
+cell 44,7 is valid
+cell 45,7 is valid
+cell 46,7 is valid
+cell 47,7 is valid
+cell 48,7 is valid
+cell 49,7 is valid
+cell 50,7 is valid
+cell 51,7 is valid
+cell 52,7 is valid
+cell 53,7 is valid
+cell 54,7 is valid
+cell 55,7 is valid
+cell 56,7 is valid
+cell 57,7 is valid
+cell 58,7 is valid
+cell 59,7 is valid
+cell 60,7 is valid
+cell 61,7 is valid
+cell 62,7 is valid
+cell 63,7 is valid
+cell 64,7 is an obstacle
+cell 0,8 is an obstacle
+cell 1,8 is valid
+cell 2,8 is valid
+cell 3,8 is valid
+cell 4,8 is valid
+cell 5,8 is valid
+cell 6,8 is valid
+cell 7,8 is valid
+cell 8,8 is valid
+cell 9,8 is valid
+cell 10,8 is valid
+cell 11,8 is valid
+cell 12,8 is valid
+cell 13,8 is valid
+cell 14,8 is valid
+cell 15,8 is valid
+cell 16,8 is valid
+cell 17,8 is valid
+cell 18,8 is valid
+cell 19,8 is valid
+cell 20,8 is valid
+cell 21,8 is valid
+cell 22,8 is valid
+cell 23,8 is valid
+cell 24,8 is valid
+cell 25,8 is valid
+cell 26,8 is valid
+cell 27,8 is valid
+cell 28,8 is valid
+cell 29,8 is valid
+cell 30,8 is valid
+cell 31,8 is valid
+cell 32,8 is valid
+cell 33,8 is valid
+cell 34,8 is valid
+cell 35,8 is valid
+cell 36,8 is valid
+cell 37,8 is valid
+cell 38,8 is valid
+cell 39,8 is valid
+cell 40,8 is valid
+cell 41,8 is valid
+cell 42,8 is valid
+cell 43,8 is valid
+cell 44,8 is valid
+cell 45,8 is valid
+cell 46,8 is valid
+cell 47,8 is valid
+cell 48,8 is valid
+cell 49,8 is valid
+cell 50,8 is valid
+cell 51,8 is valid
+cell 52,8 is valid
+cell 53,8 is valid
+cell 54,8 is valid
+cell 55,8 is valid
+cell 56,8 is valid
+cell 57,8 is valid
+cell 58,8 is valid
+cell 59,8 is valid
+cell 60,8 is valid
+cell 61,8 is valid
+cell 62,8 is valid
+cell 63,8 is valid
+cell 64,8 is an obstacle
+cell 0,9 is an obstacle
+cell 1,9 is valid
+cell 2,9 is valid
+cell 3,9 is valid
+cell 4,9 is valid
+cell 5,9 is valid
+cell 6,9 is valid
+cell 7,9 is valid
+cell 8,9 is valid
+cell 9,9 is an obstacle
+cell 10,9 is an obstacle
+cell 11,9 is valid
+cell 12,9 is valid
+cell 13,9 is valid
+cell 14,9 is an obstacle
+cell 15,9 is an obstacle
+cell 16,9 is valid
+cell 17,9 is valid
+cell 18,9 is valid
+cell 19,9 is an obstacle
+cell 20,9 is an obstacle
+cell 21,9 is valid
+cell 22,9 is valid
+cell 23,9 is valid
+cell 24,9 is an obstacle
+cell 25,9 is an obstacle
+cell 26,9 is valid
+cell 27,9 is valid
+cell 28,9 is valid
+cell 29,9 is an obstacle
+cell 30,9 is an obstacle
+cell 31,9 is valid
+cell 32,9 is valid
+cell 33,9 is valid
+cell 34,9 is an obstacle
+cell 35,9 is an obstacle
+cell 36,9 is valid
+cell 37,9 is valid
+cell 38,9 is valid
+cell 39,9 is an obstacle
+cell 40,9 is an obstacle
+cell 41,9 is valid
+cell 42,9 is valid
+cell 43,9 is valid
+cell 44,9 is an obstacle
+cell 45,9 is an obstacle
+cell 46,9 is valid
+cell 47,9 is valid
+cell 48,9 is valid
+cell 49,9 is an obstacle
+cell 50,9 is an obstacle
+cell 51,9 is valid
+cell 52,9 is valid
+cell 53,9 is valid
+cell 54,9 is an obstacle
+cell 55,9 is an obstacle
+cell 56,9 is valid
+cell 57,9 is valid
+cell 58,9 is valid
+cell 59,9 is valid
+cell 60,9 is valid
+cell 61,9 is valid
+cell 62,9 is valid
+cell 63,9 is valid
+cell 64,9 is an obstacle
+cell 0,10 is an obstacle
+cell 1,10 is valid
+cell 2,10 is valid
+cell 3,10 is valid
+cell 4,10 is valid
+cell 5,10 is valid
+cell 6,10 is valid
+cell 7,10 is valid
+cell 8,10 is valid
+cell 9,10 is an obstacle
+cell 10,10 is an obstacle
+cell 11,10 is valid
+cell 12,10 is valid
+cell 13,10 is valid
+cell 14,10 is an obstacle
+cell 15,10 is an obstacle
+cell 16,10 is valid
+cell 17,10 is valid
+cell 18,10 is valid
+cell 19,10 is an obstacle
+cell 20,10 is an obstacle
+cell 21,10 is valid
+cell 22,10 is valid
+cell 23,10 is valid
+cell 24,10 is an obstacle
+cell 25,10 is an obstacle
+cell 26,10 is valid
+cell 27,10 is valid
+cell 28,10 is valid
+cell 29,10 is an obstacle
+cell 30,10 is an obstacle
+cell 31,10 is valid
+cell 32,10 is valid
+cell 33,10 is valid
+cell 34,10 is an obstacle
+cell 35,10 is an obstacle
+cell 36,10 is valid
+cell 37,10 is valid
+cell 38,10 is valid
+cell 39,10 is an obstacle
+cell 40,10 is an obstacle
+cell 41,10 is valid
+cell 42,10 is valid
+cell 43,10 is valid
+cell 44,10 is an obstacle
+cell 45,10 is an obstacle
+cell 46,10 is valid
+cell 47,10 is valid
+cell 48,10 is valid
+cell 49,10 is an obstacle
+cell 50,10 is an obstacle
+cell 51,10 is valid
+cell 52,10 is valid
+cell 53,10 is valid
+cell 54,10 is an obstacle
+cell 55,10 is an obstacle
+cell 56,10 is valid
+cell 57,10 is valid
+cell 58,10 is valid
+cell 59,10 is valid
+cell 60,10 is valid
+cell 61,10 is valid
+cell 62,10 is valid
+cell 63,10 is valid
+cell 64,10 is an obstacle
+cell 0,11 is an obstacle
+cell 1,11 is valid
+cell 2,11 is valid
+cell 3,11 is valid
+cell 4,11 is valid
+cell 5,11 is valid
+cell 6,11 is valid
+cell 7,11 is valid
+cell 8,11 is valid
+cell 9,11 is an obstacle
+cell 10,11 is an obstacle
+cell 11,11 is valid
+cell 12,11 is valid
+cell 13,11 is valid
+cell 14,11 is an obstacle
+cell 15,11 is an obstacle
+cell 16,11 is valid
+cell 17,11 is valid
+cell 18,11 is valid
+cell 19,11 is an obstacle
+cell 20,11 is an obstacle
+cell 21,11 is valid
+cell 22,11 is valid
+cell 23,11 is valid
+cell 24,11 is an obstacle
+cell 25,11 is an obstacle
+cell 26,11 is valid
+cell 27,11 is valid
+cell 28,11 is valid
+cell 29,11 is an obstacle
+cell 30,11 is an obstacle
+cell 31,11 is valid
+cell 32,11 is valid
+cell 33,11 is valid
+cell 34,11 is an obstacle
+cell 35,11 is an obstacle
+cell 36,11 is valid
+cell 37,11 is valid
+cell 38,11 is valid
+cell 39,11 is an obstacle
+cell 40,11 is an obstacle
+cell 41,11 is valid
+cell 42,11 is valid
+cell 43,11 is valid
+cell 44,11 is an obstacle
+cell 45,11 is an obstacle
+cell 46,11 is valid
+cell 47,11 is valid
+cell 48,11 is valid
+cell 49,11 is an obstacle
+cell 50,11 is an obstacle
+cell 51,11 is valid
+cell 52,11 is valid
+cell 53,11 is valid
+cell 54,11 is an obstacle
+cell 55,11 is an obstacle
+cell 56,11 is valid
+cell 57,11 is valid
+cell 58,11 is valid
+cell 59,11 is valid
+cell 60,11 is valid
+cell 61,11 is valid
+cell 62,11 is valid
+cell 63,11 is valid
+cell 64,11 is an obstacle
+cell 0,12 is an obstacle
+cell 1,12 is valid
+cell 2,12 is valid
+cell 3,12 is valid
+cell 4,12 is valid
+cell 5,12 is valid
+cell 6,12 is valid
+cell 7,12 is valid
+cell 8,12 is valid
+cell 9,12 is an obstacle
+cell 10,12 is an obstacle
+cell 11,12 is valid
+cell 12,12 is valid
+cell 13,12 is valid
+cell 14,12 is an obstacle
+cell 15,12 is an obstacle
+cell 16,12 is valid
+cell 17,12 is valid
+cell 18,12 is valid
+cell 19,12 is an obstacle
+cell 20,12 is an obstacle
+cell 21,12 is valid
+cell 22,12 is valid
+cell 23,12 is valid
+cell 24,12 is an obstacle
+cell 25,12 is an obstacle
+cell 26,12 is valid
+cell 27,12 is valid
+cell 28,12 is valid
+cell 29,12 is an obstacle
+cell 30,12 is an obstacle
+cell 31,12 is valid
+cell 32,12 is valid
+cell 33,12 is valid
+cell 34,12 is an obstacle
+cell 35,12 is an obstacle
+cell 36,12 is valid
+cell 37,12 is valid
+cell 38,12 is valid
+cell 39,12 is an obstacle
+cell 40,12 is an obstacle
+cell 41,12 is valid
+cell 42,12 is valid
+cell 43,12 is valid
+cell 44,12 is an obstacle
+cell 45,12 is an obstacle
+cell 46,12 is valid
+cell 47,12 is valid
+cell 48,12 is valid
+cell 49,12 is an obstacle
+cell 50,12 is an obstacle
+cell 51,12 is valid
+cell 52,12 is valid
+cell 53,12 is valid
+cell 54,12 is an obstacle
+cell 55,12 is an obstacle
+cell 56,12 is valid
+cell 57,12 is valid
+cell 58,12 is valid
+cell 59,12 is valid
+cell 60,12 is valid
+cell 61,12 is valid
+cell 62,12 is valid
+cell 63,12 is valid
+cell 64,12 is an obstacle
+cell 0,13 is an obstacle
+cell 1,13 is valid
+cell 2,13 is valid
+cell 3,13 is valid
+cell 4,13 is valid
+cell 5,13 is valid
+cell 6,13 is valid
+cell 7,13 is valid
+cell 8,13 is valid
+cell 9,13 is an obstacle
+cell 10,13 is an obstacle
+cell 11,13 is valid
+cell 12,13 is valid
+cell 13,13 is valid
+cell 14,13 is an obstacle
+cell 15,13 is an obstacle
+cell 16,13 is valid
+cell 17,13 is valid
+cell 18,13 is valid
+cell 19,13 is an obstacle
+cell 20,13 is an obstacle
+cell 21,13 is valid
+cell 22,13 is valid
+cell 23,13 is valid
+cell 24,13 is an obstacle
+cell 25,13 is an obstacle
+cell 26,13 is valid
+cell 27,13 is valid
+cell 28,13 is valid
+cell 29,13 is an obstacle
+cell 30,13 is an obstacle
+cell 31,13 is valid
+cell 32,13 is valid
+cell 33,13 is valid
+cell 34,13 is an obstacle
+cell 35,13 is an obstacle
+cell 36,13 is valid
+cell 37,13 is valid
+cell 38,13 is valid
+cell 39,13 is an obstacle
+cell 40,13 is an obstacle
+cell 41,13 is valid
+cell 42,13 is valid
+cell 43,13 is valid
+cell 44,13 is an obstacle
+cell 45,13 is an obstacle
+cell 46,13 is valid
+cell 47,13 is valid
+cell 48,13 is valid
+cell 49,13 is an obstacle
+cell 50,13 is an obstacle
+cell 51,13 is valid
+cell 52,13 is valid
+cell 53,13 is valid
+cell 54,13 is an obstacle
+cell 55,13 is an obstacle
+cell 56,13 is valid
+cell 57,13 is valid
+cell 58,13 is valid
+cell 59,13 is valid
+cell 60,13 is valid
+cell 61,13 is valid
+cell 62,13 is valid
+cell 63,13 is valid
+cell 64,13 is an obstacle
+cell 0,14 is an obstacle
+cell 1,14 is valid
+cell 2,14 is valid
+cell 3,14 is valid
+cell 4,14 is valid
+cell 5,14 is valid
+cell 6,14 is valid
+cell 7,14 is valid
+cell 8,14 is valid
+cell 9,14 is an obstacle
+cell 10,14 is an obstacle
+cell 11,14 is valid
+cell 12,14 is valid
+cell 13,14 is valid
+cell 14,14 is an obstacle
+cell 15,14 is an obstacle
+cell 16,14 is valid
+cell 17,14 is valid
+cell 18,14 is valid
+cell 19,14 is an obstacle
+cell 20,14 is an obstacle
+cell 21,14 is valid
+cell 22,14 is valid
+cell 23,14 is valid
+cell 24,14 is an obstacle
+cell 25,14 is an obstacle
+cell 26,14 is valid
+cell 27,14 is valid
+cell 28,14 is valid
+cell 29,14 is an obstacle
+cell 30,14 is an obstacle
+cell 31,14 is valid
+cell 32,14 is valid
+cell 33,14 is valid
+cell 34,14 is an obstacle
+cell 35,14 is an obstacle
+cell 36,14 is valid
+cell 37,14 is valid
+cell 38,14 is valid
+cell 39,14 is an obstacle
+cell 40,14 is an obstacle
+cell 41,14 is valid
+cell 42,14 is valid
+cell 43,14 is valid
+cell 44,14 is an obstacle
+cell 45,14 is an obstacle
+cell 46,14 is valid
+cell 47,14 is valid
+cell 48,14 is valid
+cell 49,14 is an obstacle
+cell 50,14 is an obstacle
+cell 51,14 is valid
+cell 52,14 is valid
+cell 53,14 is valid
+cell 54,14 is an obstacle
+cell 55,14 is an obstacle
+cell 56,14 is valid
+cell 57,14 is valid
+cell 58,14 is valid
+cell 59,14 is valid
+cell 60,14 is valid
+cell 61,14 is valid
+cell 62,14 is valid
+cell 63,14 is valid
+cell 64,14 is an obstacle
+cell 0,15 is an obstacle
+cell 1,15 is valid
+cell 2,15 is valid
+cell 3,15 is valid
+cell 4,15 is valid
+cell 5,15 is valid
+cell 6,15 is valid
+cell 7,15 is valid
+cell 8,15 is valid
+cell 9,15 is an obstacle
+cell 10,15 is an obstacle
+cell 11,15 is valid
+cell 12,15 is valid
+cell 13,15 is valid
+cell 14,15 is an obstacle
+cell 15,15 is an obstacle
+cell 16,15 is valid
+cell 17,15 is valid
+cell 18,15 is valid
+cell 19,15 is an obstacle
+cell 20,15 is an obstacle
+cell 21,15 is valid
+cell 22,15 is valid
+cell 23,15 is valid
+cell 24,15 is an obstacle
+cell 25,15 is an obstacle
+cell 26,15 is valid
+cell 27,15 is valid
+cell 28,15 is valid
+cell 29,15 is an obstacle
+cell 30,15 is an obstacle
+cell 31,15 is valid
+cell 32,15 is valid
+cell 33,15 is valid
+cell 34,15 is an obstacle
+cell 35,15 is an obstacle
+cell 36,15 is valid
+cell 37,15 is valid
+cell 38,15 is valid
+cell 39,15 is an obstacle
+cell 40,15 is an obstacle
+cell 41,15 is valid
+cell 42,15 is valid
+cell 43,15 is valid
+cell 44,15 is an obstacle
+cell 45,15 is an obstacle
+cell 46,15 is valid
+cell 47,15 is valid
+cell 48,15 is valid
+cell 49,15 is an obstacle
+cell 50,15 is an obstacle
+cell 51,15 is valid
+cell 52,15 is valid
+cell 53,15 is valid
+cell 54,15 is an obstacle
+cell 55,15 is an obstacle
+cell 56,15 is valid
+cell 57,15 is valid
+cell 58,15 is valid
+cell 59,15 is valid
+cell 60,15 is valid
+cell 61,15 is valid
+cell 62,15 is valid
+cell 63,15 is valid
+cell 64,15 is an obstacle
+cell 0,16 is an obstacle
+cell 1,16 is valid
+cell 2,16 is valid
+cell 3,16 is valid
+cell 4,16 is valid
+cell 5,16 is valid
+cell 6,16 is valid
+cell 7,16 is valid
+cell 8,16 is valid
+cell 9,16 is an obstacle
+cell 10,16 is an obstacle
+cell 11,16 is valid
+cell 12,16 is valid
+cell 13,16 is valid
+cell 14,16 is an obstacle
+cell 15,16 is an obstacle
+cell 16,16 is valid
+cell 17,16 is valid
+cell 18,16 is valid
+cell 19,16 is an obstacle
+cell 20,16 is an obstacle
+cell 21,16 is valid
+cell 22,16 is valid
+cell 23,16 is valid
+cell 24,16 is an obstacle
+cell 25,16 is an obstacle
+cell 26,16 is valid
+cell 27,16 is valid
+cell 28,16 is valid
+cell 29,16 is an obstacle
+cell 30,16 is an obstacle
+cell 31,16 is valid
+cell 32,16 is valid
+cell 33,16 is valid
+cell 34,16 is an obstacle
+cell 35,16 is an obstacle
+cell 36,16 is valid
+cell 37,16 is valid
+cell 38,16 is valid
+cell 39,16 is an obstacle
+cell 40,16 is an obstacle
+cell 41,16 is valid
+cell 42,16 is valid
+cell 43,16 is valid
+cell 44,16 is an obstacle
+cell 45,16 is an obstacle
+cell 46,16 is valid
+cell 47,16 is valid
+cell 48,16 is valid
+cell 49,16 is an obstacle
+cell 50,16 is an obstacle
+cell 51,16 is valid
+cell 52,16 is valid
+cell 53,16 is valid
+cell 54,16 is an obstacle
+cell 55,16 is an obstacle
+cell 56,16 is valid
+cell 57,16 is valid
+cell 58,16 is valid
+cell 59,16 is valid
+cell 60,16 is valid
+cell 61,16 is valid
+cell 62,16 is valid
+cell 63,16 is valid
+cell 64,16 is an obstacle
+cell 0,17 is an obstacle
+cell 1,17 is valid
+cell 2,17 is valid
+cell 3,17 is valid
+cell 4,17 is valid
+cell 5,17 is valid
+cell 6,17 is valid
+cell 7,17 is valid
+cell 8,17 is valid
+cell 9,17 is an obstacle
+cell 10,17 is an obstacle
+cell 11,17 is valid
+cell 12,17 is valid
+cell 13,17 is valid
+cell 14,17 is an obstacle
+cell 15,17 is an obstacle
+cell 16,17 is valid
+cell 17,17 is valid
+cell 18,17 is valid
+cell 19,17 is an obstacle
+cell 20,17 is an obstacle
+cell 21,17 is valid
+cell 22,17 is valid
+cell 23,17 is valid
+cell 24,17 is an obstacle
+cell 25,17 is an obstacle
+cell 26,17 is valid
+cell 27,17 is valid
+cell 28,17 is valid
+cell 29,17 is an obstacle
+cell 30,17 is an obstacle
+cell 31,17 is valid
+cell 32,17 is valid
+cell 33,17 is valid
+cell 34,17 is an obstacle
+cell 35,17 is an obstacle
+cell 36,17 is valid
+cell 37,17 is valid
+cell 38,17 is valid
+cell 39,17 is an obstacle
+cell 40,17 is an obstacle
+cell 41,17 is valid
+cell 42,17 is valid
+cell 43,17 is valid
+cell 44,17 is an obstacle
+cell 45,17 is an obstacle
+cell 46,17 is valid
+cell 47,17 is valid
+cell 48,17 is valid
+cell 49,17 is an obstacle
+cell 50,17 is an obstacle
+cell 51,17 is valid
+cell 52,17 is valid
+cell 53,17 is valid
+cell 54,17 is an obstacle
+cell 55,17 is an obstacle
+cell 56,17 is valid
+cell 57,17 is valid
+cell 58,17 is valid
+cell 59,17 is valid
+cell 60,17 is valid
+cell 61,17 is valid
+cell 62,17 is valid
+cell 63,17 is valid
+cell 64,17 is an obstacle
+cell 0,18 is an obstacle
+cell 1,18 is valid
+cell 2,18 is valid
+cell 3,18 is valid
+cell 4,18 is valid
+cell 5,18 is valid
+cell 6,18 is valid
+cell 7,18 is valid
+cell 8,18 is valid
+cell 9,18 is an obstacle
+cell 10,18 is an obstacle
+cell 11,18 is valid
+cell 12,18 is valid
+cell 13,18 is valid
+cell 14,18 is an obstacle
+cell 15,18 is an obstacle
+cell 16,18 is valid
+cell 17,18 is valid
+cell 18,18 is valid
+cell 19,18 is an obstacle
+cell 20,18 is an obstacle
+cell 21,18 is valid
+cell 22,18 is valid
+cell 23,18 is valid
+cell 24,18 is an obstacle
+cell 25,18 is an obstacle
+cell 26,18 is valid
+cell 27,18 is valid
+cell 28,18 is valid
+cell 29,18 is an obstacle
+cell 30,18 is an obstacle
+cell 31,18 is valid
+cell 32,18 is valid
+cell 33,18 is valid
+cell 34,18 is an obstacle
+cell 35,18 is an obstacle
+cell 36,18 is valid
+cell 37,18 is valid
+cell 38,18 is valid
+cell 39,18 is an obstacle
+cell 40,18 is an obstacle
+cell 41,18 is valid
+cell 42,18 is valid
+cell 43,18 is valid
+cell 44,18 is an obstacle
+cell 45,18 is an obstacle
+cell 46,18 is valid
+cell 47,18 is valid
+cell 48,18 is valid
+cell 49,18 is an obstacle
+cell 50,18 is an obstacle
+cell 51,18 is valid
+cell 52,18 is valid
+cell 53,18 is valid
+cell 54,18 is an obstacle
+cell 55,18 is an obstacle
+cell 56,18 is valid
+cell 57,18 is valid
+cell 58,18 is valid
+cell 59,18 is valid
+cell 60,18 is valid
+cell 61,18 is valid
+cell 62,18 is valid
+cell 63,18 is valid
+cell 64,18 is an obstacle
+cell 0,19 is an obstacle
+cell 1,19 is valid
+cell 2,19 is valid
+cell 3,19 is valid
+cell 4,19 is valid
+cell 5,19 is valid
+cell 6,19 is valid
+cell 7,19 is valid
+cell 8,19 is valid
+cell 9,19 is an obstacle
+cell 10,19 is an obstacle
+cell 11,19 is valid
+cell 12,19 is valid
+cell 13,19 is valid
+cell 14,19 is an obstacle
+cell 15,19 is an obstacle
+cell 16,19 is valid
+cell 17,19 is valid
+cell 18,19 is valid
+cell 19,19 is an obstacle
+cell 20,19 is an obstacle
+cell 21,19 is valid
+cell 22,19 is valid
+cell 23,19 is valid
+cell 24,19 is an obstacle
+cell 25,19 is an obstacle
+cell 26,19 is valid
+cell 27,19 is valid
+cell 28,19 is valid
+cell 29,19 is an obstacle
+cell 30,19 is an obstacle
+cell 31,19 is valid
+cell 32,19 is valid
+cell 33,19 is valid
+cell 34,19 is an obstacle
+cell 35,19 is an obstacle
+cell 36,19 is valid
+cell 37,19 is valid
+cell 38,19 is valid
+cell 39,19 is an obstacle
+cell 40,19 is an obstacle
+cell 41,19 is valid
+cell 42,19 is valid
+cell 43,19 is valid
+cell 44,19 is an obstacle
+cell 45,19 is an obstacle
+cell 46,19 is valid
+cell 47,19 is valid
+cell 48,19 is valid
+cell 49,19 is an obstacle
+cell 50,19 is an obstacle
+cell 51,19 is valid
+cell 52,19 is valid
+cell 53,19 is valid
+cell 54,19 is an obstacle
+cell 55,19 is an obstacle
+cell 56,19 is valid
+cell 57,19 is valid
+cell 58,19 is valid
+cell 59,19 is valid
+cell 60,19 is valid
+cell 61,19 is valid
+cell 62,19 is valid
+cell 63,19 is valid
+cell 64,19 is an obstacle
+cell 0,20 is an obstacle
+cell 1,20 is valid
+cell 2,20 is valid
+cell 3,20 is valid
+cell 4,20 is valid
+cell 5,20 is valid
+cell 6,20 is valid
+cell 7,20 is valid
+cell 8,20 is valid
+cell 9,20 is an obstacle
+cell 10,20 is an obstacle
+cell 11,20 is valid
+cell 12,20 is valid
+cell 13,20 is valid
+cell 14,20 is an obstacle
+cell 15,20 is an obstacle
+cell 16,20 is valid
+cell 17,20 is valid
+cell 18,20 is valid
+cell 19,20 is an obstacle
+cell 20,20 is an obstacle
+cell 21,20 is valid
+cell 22,20 is valid
+cell 23,20 is valid
+cell 24,20 is an obstacle
+cell 25,20 is an obstacle
+cell 26,20 is valid
+cell 27,20 is valid
+cell 28,20 is valid
+cell 29,20 is an obstacle
+cell 30,20 is an obstacle
+cell 31,20 is valid
+cell 32,20 is valid
+cell 33,20 is valid
+cell 34,20 is an obstacle
+cell 35,20 is an obstacle
+cell 36,20 is valid
+cell 37,20 is valid
+cell 38,20 is valid
+cell 39,20 is an obstacle
+cell 40,20 is an obstacle
+cell 41,20 is valid
+cell 42,20 is valid
+cell 43,20 is valid
+cell 44,20 is an obstacle
+cell 45,20 is an obstacle
+cell 46,20 is valid
+cell 47,20 is valid
+cell 48,20 is valid
+cell 49,20 is an obstacle
+cell 50,20 is an obstacle
+cell 51,20 is valid
+cell 52,20 is valid
+cell 53,20 is valid
+cell 54,20 is an obstacle
+cell 55,20 is an obstacle
+cell 56,20 is valid
+cell 57,20 is valid
+cell 58,20 is valid
+cell 59,20 is valid
+cell 60,20 is valid
+cell 61,20 is valid
+cell 62,20 is valid
+cell 63,20 is valid
+cell 64,20 is an obstacle
+cell 0,21 is an obstacle
+cell 1,21 is valid
+cell 2,21 is valid
+cell 3,21 is valid
+cell 4,21 is valid
+cell 5,21 is valid
+cell 6,21 is valid
+cell 7,21 is valid
+cell 8,21 is valid
+cell 9,21 is an obstacle
+cell 10,21 is an obstacle
+cell 11,21 is valid
+cell 12,21 is valid
+cell 13,21 is valid
+cell 14,21 is an obstacle
+cell 15,21 is an obstacle
+cell 16,21 is valid
+cell 17,21 is valid
+cell 18,21 is valid
+cell 19,21 is an obstacle
+cell 20,21 is an obstacle
+cell 21,21 is valid
+cell 22,21 is valid
+cell 23,21 is valid
+cell 24,21 is an obstacle
+cell 25,21 is an obstacle
+cell 26,21 is valid
+cell 27,21 is valid
+cell 28,21 is valid
+cell 29,21 is an obstacle
+cell 30,21 is an obstacle
+cell 31,21 is valid
+cell 32,21 is valid
+cell 33,21 is valid
+cell 34,21 is an obstacle
+cell 35,21 is an obstacle
+cell 36,21 is valid
+cell 37,21 is valid
+cell 38,21 is valid
+cell 39,21 is an obstacle
+cell 40,21 is an obstacle
+cell 41,21 is valid
+cell 42,21 is valid
+cell 43,21 is valid
+cell 44,21 is an obstacle
+cell 45,21 is an obstacle
+cell 46,21 is valid
+cell 47,21 is valid
+cell 48,21 is valid
+cell 49,21 is an obstacle
+cell 50,21 is an obstacle
+cell 51,21 is valid
+cell 52,21 is valid
+cell 53,21 is valid
+cell 54,21 is an obstacle
+cell 55,21 is an obstacle
+cell 56,21 is valid
+cell 57,21 is valid
+cell 58,21 is valid
+cell 59,21 is valid
+cell 60,21 is valid
+cell 61,21 is valid
+cell 62,21 is valid
+cell 63,21 is valid
+cell 64,21 is an obstacle
+cell 0,22 is an obstacle
+cell 1,22 is valid
+cell 2,22 is valid
+cell 3,22 is valid
+cell 4,22 is valid
+cell 5,22 is valid
+cell 6,22 is valid
+cell 7,22 is valid
+cell 8,22 is valid
+cell 9,22 is an obstacle
+cell 10,22 is an obstacle
+cell 11,22 is valid
+cell 12,22 is valid
+cell 13,22 is valid
+cell 14,22 is an obstacle
+cell 15,22 is an obstacle
+cell 16,22 is valid
+cell 17,22 is valid
+cell 18,22 is valid
+cell 19,22 is an obstacle
+cell 20,22 is an obstacle
+cell 21,22 is valid
+cell 22,22 is valid
+cell 23,22 is valid
+cell 24,22 is an obstacle
+cell 25,22 is an obstacle
+cell 26,22 is valid
+cell 27,22 is valid
+cell 28,22 is valid
+cell 29,22 is an obstacle
+cell 30,22 is an obstacle
+cell 31,22 is valid
+cell 32,22 is valid
+cell 33,22 is valid
+cell 34,22 is an obstacle
+cell 35,22 is an obstacle
+cell 36,22 is valid
+cell 37,22 is valid
+cell 38,22 is valid
+cell 39,22 is an obstacle
+cell 40,22 is an obstacle
+cell 41,22 is valid
+cell 42,22 is valid
+cell 43,22 is valid
+cell 44,22 is an obstacle
+cell 45,22 is an obstacle
+cell 46,22 is valid
+cell 47,22 is valid
+cell 48,22 is valid
+cell 49,22 is an obstacle
+cell 50,22 is an obstacle
+cell 51,22 is valid
+cell 52,22 is valid
+cell 53,22 is valid
+cell 54,22 is an obstacle
+cell 55,22 is an obstacle
+cell 56,22 is valid
+cell 57,22 is valid
+cell 58,22 is valid
+cell 59,22 is valid
+cell 60,22 is valid
+cell 61,22 is valid
+cell 62,22 is valid
+cell 63,22 is valid
+cell 64,22 is an obstacle
+cell 0,23 is an obstacle
+cell 1,23 is valid
+cell 2,23 is valid
+cell 3,23 is valid
+cell 4,23 is valid
+cell 5,23 is valid
+cell 6,23 is valid
+cell 7,23 is valid
+cell 8,23 is valid
+cell 9,23 is an obstacle
+cell 10,23 is an obstacle
+cell 11,23 is valid
+cell 12,23 is valid
+cell 13,23 is valid
+cell 14,23 is an obstacle
+cell 15,23 is an obstacle
+cell 16,23 is valid
+cell 17,23 is valid
+cell 18,23 is valid
+cell 19,23 is an obstacle
+cell 20,23 is an obstacle
+cell 21,23 is valid
+cell 22,23 is valid
+cell 23,23 is valid
+cell 24,23 is an obstacle
+cell 25,23 is an obstacle
+cell 26,23 is valid
+cell 27,23 is valid
+cell 28,23 is valid
+cell 29,23 is an obstacle
+cell 30,23 is an obstacle
+cell 31,23 is valid
+cell 32,23 is valid
+cell 33,23 is valid
+cell 34,23 is an obstacle
+cell 35,23 is an obstacle
+cell 36,23 is valid
+cell 37,23 is valid
+cell 38,23 is valid
+cell 39,23 is an obstacle
+cell 40,23 is an obstacle
+cell 41,23 is valid
+cell 42,23 is valid
+cell 43,23 is valid
+cell 44,23 is an obstacle
+cell 45,23 is an obstacle
+cell 46,23 is valid
+cell 47,23 is valid
+cell 48,23 is valid
+cell 49,23 is an obstacle
+cell 50,23 is an obstacle
+cell 51,23 is valid
+cell 52,23 is valid
+cell 53,23 is valid
+cell 54,23 is an obstacle
+cell 55,23 is an obstacle
+cell 56,23 is valid
+cell 57,23 is valid
+cell 58,23 is valid
+cell 59,23 is valid
+cell 60,23 is valid
+cell 61,23 is valid
+cell 62,23 is valid
+cell 63,23 is valid
+cell 64,23 is an obstacle
+cell 0,24 is an obstacle
+cell 1,24 is valid
+cell 2,24 is valid
+cell 3,24 is valid
+cell 4,24 is valid
+cell 5,24 is valid
+cell 6,24 is valid
+cell 7,24 is valid
+cell 8,24 is valid
+cell 9,24 is an obstacle
+cell 10,24 is an obstacle
+cell 11,24 is valid
+cell 12,24 is valid
+cell 13,24 is valid
+cell 14,24 is an obstacle
+cell 15,24 is an obstacle
+cell 16,24 is valid
+cell 17,24 is valid
+cell 18,24 is valid
+cell 19,24 is an obstacle
+cell 20,24 is an obstacle
+cell 21,24 is valid
+cell 22,24 is valid
+cell 23,24 is valid
+cell 24,24 is an obstacle
+cell 25,24 is an obstacle
+cell 26,24 is valid
+cell 27,24 is valid
+cell 28,24 is valid
+cell 29,24 is an obstacle
+cell 30,24 is an obstacle
+cell 31,24 is valid
+cell 32,24 is valid
+cell 33,24 is valid
+cell 34,24 is an obstacle
+cell 35,24 is an obstacle
+cell 36,24 is valid
+cell 37,24 is valid
+cell 38,24 is valid
+cell 39,24 is an obstacle
+cell 40,24 is an obstacle
+cell 41,24 is valid
+cell 42,24 is valid
+cell 43,24 is valid
+cell 44,24 is an obstacle
+cell 45,24 is an obstacle
+cell 46,24 is valid
+cell 47,24 is valid
+cell 48,24 is valid
+cell 49,24 is an obstacle
+cell 50,24 is an obstacle
+cell 51,24 is valid
+cell 52,24 is valid
+cell 53,24 is valid
+cell 54,24 is an obstacle
+cell 55,24 is an obstacle
+cell 56,24 is valid
+cell 57,24 is valid
+cell 58,24 is valid
+cell 59,24 is valid
+cell 60,24 is valid
+cell 61,24 is valid
+cell 62,24 is valid
+cell 63,24 is valid
+cell 64,24 is an obstacle
+cell 0,25 is an obstacle
+cell 1,25 is valid
+cell 2,25 is valid
+cell 3,25 is valid
+cell 4,25 is valid
+cell 5,25 is valid
+cell 6,25 is valid
+cell 7,25 is valid
+cell 8,25 is valid
+cell 9,25 is an obstacle
+cell 10,25 is an obstacle
+cell 11,25 is valid
+cell 12,25 is valid
+cell 13,25 is valid
+cell 14,25 is an obstacle
+cell 15,25 is an obstacle
+cell 16,25 is valid
+cell 17,25 is valid
+cell 18,25 is valid
+cell 19,25 is an obstacle
+cell 20,25 is an obstacle
+cell 21,25 is valid
+cell 22,25 is valid
+cell 23,25 is valid
+cell 24,25 is an obstacle
+cell 25,25 is an obstacle
+cell 26,25 is valid
+cell 27,25 is valid
+cell 28,25 is valid
+cell 29,25 is an obstacle
+cell 30,25 is an obstacle
+cell 31,25 is valid
+cell 32,25 is valid
+cell 33,25 is valid
+cell 34,25 is an obstacle
+cell 35,25 is an obstacle
+cell 36,25 is valid
+cell 37,25 is valid
+cell 38,25 is valid
+cell 39,25 is an obstacle
+cell 40,25 is an obstacle
+cell 41,25 is valid
+cell 42,25 is valid
+cell 43,25 is valid
+cell 44,25 is an obstacle
+cell 45,25 is an obstacle
+cell 46,25 is valid
+cell 47,25 is valid
+cell 48,25 is valid
+cell 49,25 is an obstacle
+cell 50,25 is an obstacle
+cell 51,25 is valid
+cell 52,25 is valid
+cell 53,25 is valid
+cell 54,25 is an obstacle
+cell 55,25 is an obstacle
+cell 56,25 is valid
+cell 57,25 is valid
+cell 58,25 is valid
+cell 59,25 is valid
+cell 60,25 is valid
+cell 61,25 is valid
+cell 62,25 is valid
+cell 63,25 is valid
+cell 64,25 is an obstacle
+cell 0,26 is an obstacle
+cell 1,26 is valid
+cell 2,26 is valid
+cell 3,26 is valid
+cell 4,26 is valid
+cell 5,26 is valid
+cell 6,26 is valid
+cell 7,26 is valid
+cell 8,26 is valid
+cell 9,26 is an obstacle
+cell 10,26 is an obstacle
+cell 11,26 is valid
+cell 12,26 is valid
+cell 13,26 is valid
+cell 14,26 is an obstacle
+cell 15,26 is an obstacle
+cell 16,26 is valid
+cell 17,26 is valid
+cell 18,26 is valid
+cell 19,26 is an obstacle
+cell 20,26 is an obstacle
+cell 21,26 is valid
+cell 22,26 is valid
+cell 23,26 is valid
+cell 24,26 is an obstacle
+cell 25,26 is an obstacle
+cell 26,26 is valid
+cell 27,26 is valid
+cell 28,26 is valid
+cell 29,26 is an obstacle
+cell 30,26 is an obstacle
+cell 31,26 is valid
+cell 32,26 is valid
+cell 33,26 is valid
+cell 34,26 is an obstacle
+cell 35,26 is an obstacle
+cell 36,26 is valid
+cell 37,26 is valid
+cell 38,26 is valid
+cell 39,26 is an obstacle
+cell 40,26 is an obstacle
+cell 41,26 is valid
+cell 42,26 is valid
+cell 43,26 is valid
+cell 44,26 is an obstacle
+cell 45,26 is an obstacle
+cell 46,26 is valid
+cell 47,26 is valid
+cell 48,26 is valid
+cell 49,26 is an obstacle
+cell 50,26 is an obstacle
+cell 51,26 is valid
+cell 52,26 is valid
+cell 53,26 is valid
+cell 54,26 is an obstacle
+cell 55,26 is an obstacle
+cell 56,26 is valid
+cell 57,26 is valid
+cell 58,26 is valid
+cell 59,26 is valid
+cell 60,26 is valid
+cell 61,26 is valid
+cell 62,26 is valid
+cell 63,26 is valid
+cell 64,26 is an obstacle
+cell 0,27 is an obstacle
+cell 1,27 is valid
+cell 2,27 is valid
+cell 3,27 is valid
+cell 4,27 is valid
+cell 5,27 is valid
+cell 6,27 is valid
+cell 7,27 is valid
+cell 8,27 is valid
+cell 9,27 is an obstacle
+cell 10,27 is an obstacle
+cell 11,27 is valid
+cell 12,27 is valid
+cell 13,27 is valid
+cell 14,27 is an obstacle
+cell 15,27 is an obstacle
+cell 16,27 is valid
+cell 17,27 is valid
+cell 18,27 is valid
+cell 19,27 is an obstacle
+cell 20,27 is an obstacle
+cell 21,27 is valid
+cell 22,27 is valid
+cell 23,27 is valid
+cell 24,27 is an obstacle
+cell 25,27 is an obstacle
+cell 26,27 is valid
+cell 27,27 is valid
+cell 28,27 is valid
+cell 29,27 is an obstacle
+cell 30,27 is an obstacle
+cell 31,27 is valid
+cell 32,27 is valid
+cell 33,27 is valid
+cell 34,27 is an obstacle
+cell 35,27 is an obstacle
+cell 36,27 is valid
+cell 37,27 is valid
+cell 38,27 is valid
+cell 39,27 is an obstacle
+cell 40,27 is an obstacle
+cell 41,27 is valid
+cell 42,27 is valid
+cell 43,27 is valid
+cell 44,27 is an obstacle
+cell 45,27 is an obstacle
+cell 46,27 is valid
+cell 47,27 is valid
+cell 48,27 is valid
+cell 49,27 is an obstacle
+cell 50,27 is an obstacle
+cell 51,27 is valid
+cell 52,27 is valid
+cell 53,27 is valid
+cell 54,27 is an obstacle
+cell 55,27 is an obstacle
+cell 56,27 is valid
+cell 57,27 is valid
+cell 58,27 is valid
+cell 59,27 is valid
+cell 60,27 is valid
+cell 61,27 is valid
+cell 62,27 is valid
+cell 63,27 is valid
+cell 64,27 is an obstacle
+cell 0,28 is an obstacle
+cell 1,28 is valid
+cell 2,28 is valid
+cell 3,28 is valid
+cell 4,28 is valid
+cell 5,28 is valid
+cell 6,28 is valid
+cell 7,28 is valid
+cell 8,28 is valid
+cell 9,28 is an obstacle
+cell 10,28 is an obstacle
+cell 11,28 is valid
+cell 12,28 is valid
+cell 13,28 is valid
+cell 14,28 is an obstacle
+cell 15,28 is an obstacle
+cell 16,28 is valid
+cell 17,28 is valid
+cell 18,28 is valid
+cell 19,28 is an obstacle
+cell 20,28 is an obstacle
+cell 21,28 is valid
+cell 22,28 is valid
+cell 23,28 is valid
+cell 24,28 is an obstacle
+cell 25,28 is an obstacle
+cell 26,28 is valid
+cell 27,28 is valid
+cell 28,28 is valid
+cell 29,28 is an obstacle
+cell 30,28 is an obstacle
+cell 31,28 is valid
+cell 32,28 is valid
+cell 33,28 is valid
+cell 34,28 is an obstacle
+cell 35,28 is an obstacle
+cell 36,28 is valid
+cell 37,28 is valid
+cell 38,28 is valid
+cell 39,28 is an obstacle
+cell 40,28 is an obstacle
+cell 41,28 is valid
+cell 42,28 is valid
+cell 43,28 is valid
+cell 44,28 is an obstacle
+cell 45,28 is an obstacle
+cell 46,28 is valid
+cell 47,28 is valid
+cell 48,28 is valid
+cell 49,28 is an obstacle
+cell 50,28 is an obstacle
+cell 51,28 is valid
+cell 52,28 is valid
+cell 53,28 is valid
+cell 54,28 is an obstacle
+cell 55,28 is an obstacle
+cell 56,28 is valid
+cell 57,28 is valid
+cell 58,28 is valid
+cell 59,28 is valid
+cell 60,28 is valid
+cell 61,28 is valid
+cell 62,28 is valid
+cell 63,28 is valid
+cell 64,28 is an obstacle
+cell 0,29 is an obstacle
+cell 1,29 is valid
+cell 2,29 is valid
+cell 3,29 is valid
+cell 4,29 is valid
+cell 5,29 is valid
+cell 6,29 is valid
+cell 7,29 is valid
+cell 8,29 is valid
+cell 9,29 is an obstacle
+cell 10,29 is an obstacle
+cell 11,29 is valid
+cell 12,29 is valid
+cell 13,29 is valid
+cell 14,29 is an obstacle
+cell 15,29 is an obstacle
+cell 16,29 is valid
+cell 17,29 is valid
+cell 18,29 is valid
+cell 19,29 is an obstacle
+cell 20,29 is an obstacle
+cell 21,29 is valid
+cell 22,29 is valid
+cell 23,29 is valid
+cell 24,29 is an obstacle
+cell 25,29 is an obstacle
+cell 26,29 is valid
+cell 27,29 is valid
+cell 28,29 is valid
+cell 29,29 is an obstacle
+cell 30,29 is an obstacle
+cell 31,29 is valid
+cell 32,29 is valid
+cell 33,29 is valid
+cell 34,29 is an obstacle
+cell 35,29 is an obstacle
+cell 36,29 is valid
+cell 37,29 is valid
+cell 38,29 is valid
+cell 39,29 is an obstacle
+cell 40,29 is an obstacle
+cell 41,29 is valid
+cell 42,29 is valid
+cell 43,29 is valid
+cell 44,29 is an obstacle
+cell 45,29 is an obstacle
+cell 46,29 is valid
+cell 47,29 is valid
+cell 48,29 is valid
+cell 49,29 is an obstacle
+cell 50,29 is an obstacle
+cell 51,29 is valid
+cell 52,29 is valid
+cell 53,29 is valid
+cell 54,29 is an obstacle
+cell 55,29 is an obstacle
+cell 56,29 is valid
+cell 57,29 is valid
+cell 58,29 is valid
+cell 59,29 is valid
+cell 60,29 is valid
+cell 61,29 is valid
+cell 62,29 is valid
+cell 63,29 is valid
+cell 64,29 is an obstacle
+cell 0,30 is an obstacle
+cell 1,30 is valid
+cell 2,30 is valid
+cell 3,30 is valid
+cell 4,30 is valid
+cell 5,30 is valid
+cell 6,30 is valid
+cell 7,30 is valid
+cell 8,30 is valid
+cell 9,30 is an obstacle
+cell 10,30 is an obstacle
+cell 11,30 is valid
+cell 12,30 is valid
+cell 13,30 is valid
+cell 14,30 is an obstacle
+cell 15,30 is an obstacle
+cell 16,30 is valid
+cell 17,30 is valid
+cell 18,30 is valid
+cell 19,30 is an obstacle
+cell 20,30 is an obstacle
+cell 21,30 is valid
+cell 22,30 is valid
+cell 23,30 is valid
+cell 24,30 is an obstacle
+cell 25,30 is an obstacle
+cell 26,30 is valid
+cell 27,30 is valid
+cell 28,30 is valid
+cell 29,30 is an obstacle
+cell 30,30 is an obstacle
+cell 31,30 is valid
+cell 32,30 is valid
+cell 33,30 is valid
+cell 34,30 is an obstacle
+cell 35,30 is an obstacle
+cell 36,30 is valid
+cell 37,30 is valid
+cell 38,30 is valid
+cell 39,30 is an obstacle
+cell 40,30 is an obstacle
+cell 41,30 is valid
+cell 42,30 is valid
+cell 43,30 is valid
+cell 44,30 is an obstacle
+cell 45,30 is an obstacle
+cell 46,30 is valid
+cell 47,30 is valid
+cell 48,30 is valid
+cell 49,30 is an obstacle
+cell 50,30 is an obstacle
+cell 51,30 is valid
+cell 52,30 is valid
+cell 53,30 is valid
+cell 54,30 is an obstacle
+cell 55,30 is an obstacle
+cell 56,30 is valid
+cell 57,30 is valid
+cell 58,30 is valid
+cell 59,30 is valid
+cell 60,30 is valid
+cell 61,30 is valid
+cell 62,30 is valid
+cell 63,30 is valid
+cell 64,30 is an obstacle
+cell 0,31 is an obstacle
+cell 1,31 is valid
+cell 2,31 is valid
+cell 3,31 is valid
+cell 4,31 is valid
+cell 5,31 is valid
+cell 6,31 is valid
+cell 7,31 is valid
+cell 8,31 is valid
+cell 9,31 is an obstacle
+cell 10,31 is an obstacle
+cell 11,31 is valid
+cell 12,31 is valid
+cell 13,31 is valid
+cell 14,31 is an obstacle
+cell 15,31 is an obstacle
+cell 16,31 is valid
+cell 17,31 is valid
+cell 18,31 is valid
+cell 19,31 is an obstacle
+cell 20,31 is an obstacle
+cell 21,31 is valid
+cell 22,31 is valid
+cell 23,31 is valid
+cell 24,31 is an obstacle
+cell 25,31 is an obstacle
+cell 26,31 is valid
+cell 27,31 is valid
+cell 28,31 is valid
+cell 29,31 is an obstacle
+cell 30,31 is an obstacle
+cell 31,31 is valid
+cell 32,31 is valid
+cell 33,31 is valid
+cell 34,31 is an obstacle
+cell 35,31 is an obstacle
+cell 36,31 is valid
+cell 37,31 is valid
+cell 38,31 is valid
+cell 39,31 is an obstacle
+cell 40,31 is an obstacle
+cell 41,31 is valid
+cell 42,31 is valid
+cell 43,31 is valid
+cell 44,31 is an obstacle
+cell 45,31 is an obstacle
+cell 46,31 is valid
+cell 47,31 is valid
+cell 48,31 is valid
+cell 49,31 is an obstacle
+cell 50,31 is an obstacle
+cell 51,31 is valid
+cell 52,31 is valid
+cell 53,31 is valid
+cell 54,31 is an obstacle
+cell 55,31 is an obstacle
+cell 56,31 is valid
+cell 57,31 is valid
+cell 58,31 is valid
+cell 59,31 is valid
+cell 60,31 is valid
+cell 61,31 is valid
+cell 62,31 is valid
+cell 63,31 is valid
+cell 64,31 is an obstacle
+cell 0,32 is an obstacle
+cell 1,32 is valid
+cell 2,32 is valid
+cell 3,32 is valid
+cell 4,32 is valid
+cell 5,32 is valid
+cell 6,32 is valid
+cell 7,32 is valid
+cell 8,32 is valid
+cell 9,32 is an obstacle
+cell 10,32 is an obstacle
+cell 11,32 is valid
+cell 12,32 is valid
+cell 13,32 is valid
+cell 14,32 is an obstacle
+cell 15,32 is an obstacle
+cell 16,32 is valid
+cell 17,32 is valid
+cell 18,32 is valid
+cell 19,32 is an obstacle
+cell 20,32 is an obstacle
+cell 21,32 is valid
+cell 22,32 is valid
+cell 23,32 is valid
+cell 24,32 is an obstacle
+cell 25,32 is an obstacle
+cell 26,32 is valid
+cell 27,32 is valid
+cell 28,32 is valid
+cell 29,32 is an obstacle
+cell 30,32 is an obstacle
+cell 31,32 is valid
+cell 32,32 is valid
+cell 33,32 is valid
+cell 34,32 is an obstacle
+cell 35,32 is an obstacle
+cell 36,32 is valid
+cell 37,32 is valid
+cell 38,32 is valid
+cell 39,32 is an obstacle
+cell 40,32 is an obstacle
+cell 41,32 is valid
+cell 42,32 is valid
+cell 43,32 is valid
+cell 44,32 is an obstacle
+cell 45,32 is an obstacle
+cell 46,32 is valid
+cell 47,32 is valid
+cell 48,32 is valid
+cell 49,32 is an obstacle
+cell 50,32 is an obstacle
+cell 51,32 is valid
+cell 52,32 is valid
+cell 53,32 is valid
+cell 54,32 is an obstacle
+cell 55,32 is an obstacle
+cell 56,32 is valid
+cell 57,32 is valid
+cell 58,32 is valid
+cell 59,32 is valid
+cell 60,32 is valid
+cell 61,32 is valid
+cell 62,32 is valid
+cell 63,32 is valid
+cell 64,32 is an obstacle
+cell 0,33 is an obstacle
+cell 1,33 is valid
+cell 2,33 is valid
+cell 3,33 is valid
+cell 4,33 is valid
+cell 5,33 is valid
+cell 6,33 is valid
+cell 7,33 is valid
+cell 8,33 is valid
+cell 9,33 is an obstacle
+cell 10,33 is an obstacle
+cell 11,33 is valid
+cell 12,33 is valid
+cell 13,33 is valid
+cell 14,33 is an obstacle
+cell 15,33 is an obstacle
+cell 16,33 is valid
+cell 17,33 is valid
+cell 18,33 is valid
+cell 19,33 is an obstacle
+cell 20,33 is an obstacle
+cell 21,33 is valid
+cell 22,33 is valid
+cell 23,33 is valid
+cell 24,33 is an obstacle
+cell 25,33 is an obstacle
+cell 26,33 is valid
+cell 27,33 is valid
+cell 28,33 is valid
+cell 29,33 is an obstacle
+cell 30,33 is an obstacle
+cell 31,33 is valid
+cell 32,33 is valid
+cell 33,33 is valid
+cell 34,33 is an obstacle
+cell 35,33 is an obstacle
+cell 36,33 is valid
+cell 37,33 is valid
+cell 38,33 is valid
+cell 39,33 is an obstacle
+cell 40,33 is an obstacle
+cell 41,33 is valid
+cell 42,33 is valid
+cell 43,33 is valid
+cell 44,33 is an obstacle
+cell 45,33 is an obstacle
+cell 46,33 is valid
+cell 47,33 is valid
+cell 48,33 is valid
+cell 49,33 is an obstacle
+cell 50,33 is an obstacle
+cell 51,33 is valid
+cell 52,33 is valid
+cell 53,33 is valid
+cell 54,33 is an obstacle
+cell 55,33 is an obstacle
+cell 56,33 is valid
+cell 57,33 is valid
+cell 58,33 is valid
+cell 59,33 is valid
+cell 60,33 is valid
+cell 61,33 is valid
+cell 62,33 is valid
+cell 63,33 is valid
+cell 64,33 is an obstacle
+cell 0,34 is an obstacle
+cell 1,34 is valid
+cell 2,34 is valid
+cell 3,34 is valid
+cell 4,34 is valid
+cell 5,34 is valid
+cell 6,34 is valid
+cell 7,34 is valid
+cell 8,34 is valid
+cell 9,34 is an obstacle
+cell 10,34 is an obstacle
+cell 11,34 is valid
+cell 12,34 is valid
+cell 13,34 is valid
+cell 14,34 is an obstacle
+cell 15,34 is an obstacle
+cell 16,34 is valid
+cell 17,34 is valid
+cell 18,34 is valid
+cell 19,34 is an obstacle
+cell 20,34 is an obstacle
+cell 21,34 is valid
+cell 22,34 is valid
+cell 23,34 is valid
+cell 24,34 is an obstacle
+cell 25,34 is an obstacle
+cell 26,34 is valid
+cell 27,34 is valid
+cell 28,34 is valid
+cell 29,34 is an obstacle
+cell 30,34 is an obstacle
+cell 31,34 is valid
+cell 32,34 is valid
+cell 33,34 is valid
+cell 34,34 is an obstacle
+cell 35,34 is an obstacle
+cell 36,34 is valid
+cell 37,34 is valid
+cell 38,34 is valid
+cell 39,34 is an obstacle
+cell 40,34 is an obstacle
+cell 41,34 is valid
+cell 42,34 is valid
+cell 43,34 is valid
+cell 44,34 is an obstacle
+cell 45,34 is an obstacle
+cell 46,34 is valid
+cell 47,34 is valid
+cell 48,34 is valid
+cell 49,34 is an obstacle
+cell 50,34 is an obstacle
+cell 51,34 is valid
+cell 52,34 is valid
+cell 53,34 is valid
+cell 54,34 is an obstacle
+cell 55,34 is an obstacle
+cell 56,34 is valid
+cell 57,34 is valid
+cell 58,34 is valid
+cell 59,34 is valid
+cell 60,34 is valid
+cell 61,34 is valid
+cell 62,34 is valid
+cell 63,34 is valid
+cell 64,34 is an obstacle
+cell 0,35 is an obstacle
+cell 1,35 is valid
+cell 2,35 is valid
+cell 3,35 is valid
+cell 4,35 is valid
+cell 5,35 is valid
+cell 6,35 is valid
+cell 7,35 is valid
+cell 8,35 is valid
+cell 9,35 is an obstacle
+cell 10,35 is an obstacle
+cell 11,35 is valid
+cell 12,35 is valid
+cell 13,35 is valid
+cell 14,35 is an obstacle
+cell 15,35 is an obstacle
+cell 16,35 is valid
+cell 17,35 is valid
+cell 18,35 is valid
+cell 19,35 is an obstacle
+cell 20,35 is an obstacle
+cell 21,35 is valid
+cell 22,35 is valid
+cell 23,35 is valid
+cell 24,35 is an obstacle
+cell 25,35 is an obstacle
+cell 26,35 is valid
+cell 27,35 is valid
+cell 28,35 is valid
+cell 29,35 is an obstacle
+cell 30,35 is an obstacle
+cell 31,35 is valid
+cell 32,35 is valid
+cell 33,35 is valid
+cell 34,35 is an obstacle
+cell 35,35 is an obstacle
+cell 36,35 is valid
+cell 37,35 is valid
+cell 38,35 is valid
+cell 39,35 is an obstacle
+cell 40,35 is an obstacle
+cell 41,35 is valid
+cell 42,35 is valid
+cell 43,35 is valid
+cell 44,35 is an obstacle
+cell 45,35 is an obstacle
+cell 46,35 is valid
+cell 47,35 is valid
+cell 48,35 is valid
+cell 49,35 is an obstacle
+cell 50,35 is an obstacle
+cell 51,35 is valid
+cell 52,35 is valid
+cell 53,35 is valid
+cell 54,35 is an obstacle
+cell 55,35 is an obstacle
+cell 56,35 is valid
+cell 57,35 is valid
+cell 58,35 is valid
+cell 59,35 is valid
+cell 60,35 is valid
+cell 61,35 is valid
+cell 62,35 is valid
+cell 63,35 is valid
+cell 64,35 is an obstacle
+cell 0,36 is an obstacle
+cell 1,36 is valid
+cell 2,36 is valid
+cell 3,36 is valid
+cell 4,36 is valid
+cell 5,36 is valid
+cell 6,36 is valid
+cell 7,36 is valid
+cell 8,36 is valid
+cell 9,36 is an obstacle
+cell 10,36 is an obstacle
+cell 11,36 is valid
+cell 12,36 is valid
+cell 13,36 is valid
+cell 14,36 is an obstacle
+cell 15,36 is an obstacle
+cell 16,36 is valid
+cell 17,36 is valid
+cell 18,36 is valid
+cell 19,36 is an obstacle
+cell 20,36 is an obstacle
+cell 21,36 is valid
+cell 22,36 is valid
+cell 23,36 is valid
+cell 24,36 is an obstacle
+cell 25,36 is an obstacle
+cell 26,36 is valid
+cell 27,36 is valid
+cell 28,36 is valid
+cell 29,36 is an obstacle
+cell 30,36 is an obstacle
+cell 31,36 is valid
+cell 32,36 is valid
+cell 33,36 is valid
+cell 34,36 is an obstacle
+cell 35,36 is an obstacle
+cell 36,36 is valid
+cell 37,36 is valid
+cell 38,36 is valid
+cell 39,36 is an obstacle
+cell 40,36 is an obstacle
+cell 41,36 is valid
+cell 42,36 is valid
+cell 43,36 is valid
+cell 44,36 is an obstacle
+cell 45,36 is an obstacle
+cell 46,36 is valid
+cell 47,36 is valid
+cell 48,36 is valid
+cell 49,36 is an obstacle
+cell 50,36 is an obstacle
+cell 51,36 is valid
+cell 52,36 is valid
+cell 53,36 is valid
+cell 54,36 is an obstacle
+cell 55,36 is an obstacle
+cell 56,36 is valid
+cell 57,36 is valid
+cell 58,36 is valid
+cell 59,36 is valid
+cell 60,36 is valid
+cell 61,36 is valid
+cell 62,36 is valid
+cell 63,36 is valid
+cell 64,36 is an obstacle
+cell 0,37 is an obstacle
+cell 1,37 is valid
+cell 2,37 is valid
+cell 3,37 is valid
+cell 4,37 is valid
+cell 5,37 is valid
+cell 6,37 is valid
+cell 7,37 is valid
+cell 8,37 is valid
+cell 9,37 is an obstacle
+cell 10,37 is an obstacle
+cell 11,37 is valid
+cell 12,37 is valid
+cell 13,37 is valid
+cell 14,37 is an obstacle
+cell 15,37 is an obstacle
+cell 16,37 is valid
+cell 17,37 is valid
+cell 18,37 is valid
+cell 19,37 is an obstacle
+cell 20,37 is an obstacle
+cell 21,37 is valid
+cell 22,37 is valid
+cell 23,37 is valid
+cell 24,37 is an obstacle
+cell 25,37 is an obstacle
+cell 26,37 is valid
+cell 27,37 is valid
+cell 28,37 is valid
+cell 29,37 is an obstacle
+cell 30,37 is an obstacle
+cell 31,37 is valid
+cell 32,37 is valid
+cell 33,37 is valid
+cell 34,37 is an obstacle
+cell 35,37 is an obstacle
+cell 36,37 is valid
+cell 37,37 is valid
+cell 38,37 is valid
+cell 39,37 is an obstacle
+cell 40,37 is an obstacle
+cell 41,37 is valid
+cell 42,37 is valid
+cell 43,37 is valid
+cell 44,37 is an obstacle
+cell 45,37 is an obstacle
+cell 46,37 is valid
+cell 47,37 is valid
+cell 48,37 is valid
+cell 49,37 is an obstacle
+cell 50,37 is an obstacle
+cell 51,37 is valid
+cell 52,37 is valid
+cell 53,37 is valid
+cell 54,37 is an obstacle
+cell 55,37 is an obstacle
+cell 56,37 is valid
+cell 57,37 is valid
+cell 58,37 is valid
+cell 59,37 is valid
+cell 60,37 is valid
+cell 61,37 is valid
+cell 62,37 is valid
+cell 63,37 is valid
+cell 64,37 is an obstacle
+cell 0,38 is an obstacle
+cell 1,38 is valid
+cell 2,38 is valid
+cell 3,38 is valid
+cell 4,38 is valid
+cell 5,38 is valid
+cell 6,38 is valid
+cell 7,38 is valid
+cell 8,38 is valid
+cell 9,38 is an obstacle
+cell 10,38 is an obstacle
+cell 11,38 is valid
+cell 12,38 is valid
+cell 13,38 is valid
+cell 14,38 is an obstacle
+cell 15,38 is an obstacle
+cell 16,38 is valid
+cell 17,38 is valid
+cell 18,38 is valid
+cell 19,38 is an obstacle
+cell 20,38 is an obstacle
+cell 21,38 is valid
+cell 22,38 is valid
+cell 23,38 is valid
+cell 24,38 is an obstacle
+cell 25,38 is an obstacle
+cell 26,38 is valid
+cell 27,38 is valid
+cell 28,38 is valid
+cell 29,38 is an obstacle
+cell 30,38 is an obstacle
+cell 31,38 is valid
+cell 32,38 is valid
+cell 33,38 is valid
+cell 34,38 is an obstacle
+cell 35,38 is an obstacle
+cell 36,38 is valid
+cell 37,38 is valid
+cell 38,38 is valid
+cell 39,38 is an obstacle
+cell 40,38 is an obstacle
+cell 41,38 is valid
+cell 42,38 is valid
+cell 43,38 is valid
+cell 44,38 is an obstacle
+cell 45,38 is an obstacle
+cell 46,38 is valid
+cell 47,38 is valid
+cell 48,38 is valid
+cell 49,38 is an obstacle
+cell 50,38 is an obstacle
+cell 51,38 is valid
+cell 52,38 is valid
+cell 53,38 is valid
+cell 54,38 is an obstacle
+cell 55,38 is an obstacle
+cell 56,38 is valid
+cell 57,38 is valid
+cell 58,38 is valid
+cell 59,38 is valid
+cell 60,38 is valid
+cell 61,38 is valid
+cell 62,38 is valid
+cell 63,38 is valid
+cell 64,38 is an obstacle
+cell 0,39 is an obstacle
+cell 1,39 is valid
+cell 2,39 is valid
+cell 3,39 is valid
+cell 4,39 is valid
+cell 5,39 is valid
+cell 6,39 is valid
+cell 7,39 is valid
+cell 8,39 is valid
+cell 9,39 is an obstacle
+cell 10,39 is an obstacle
+cell 11,39 is valid
+cell 12,39 is valid
+cell 13,39 is valid
+cell 14,39 is an obstacle
+cell 15,39 is an obstacle
+cell 16,39 is valid
+cell 17,39 is valid
+cell 18,39 is valid
+cell 19,39 is an obstacle
+cell 20,39 is an obstacle
+cell 21,39 is valid
+cell 22,39 is valid
+cell 23,39 is valid
+cell 24,39 is an obstacle
+cell 25,39 is an obstacle
+cell 26,39 is valid
+cell 27,39 is valid
+cell 28,39 is valid
+cell 29,39 is an obstacle
+cell 30,39 is an obstacle
+cell 31,39 is valid
+cell 32,39 is valid
+cell 33,39 is valid
+cell 34,39 is an obstacle
+cell 35,39 is an obstacle
+cell 36,39 is valid
+cell 37,39 is valid
+cell 38,39 is valid
+cell 39,39 is an obstacle
+cell 40,39 is an obstacle
+cell 41,39 is valid
+cell 42,39 is valid
+cell 43,39 is valid
+cell 44,39 is an obstacle
+cell 45,39 is an obstacle
+cell 46,39 is valid
+cell 47,39 is valid
+cell 48,39 is valid
+cell 49,39 is an obstacle
+cell 50,39 is an obstacle
+cell 51,39 is valid
+cell 52,39 is valid
+cell 53,39 is valid
+cell 54,39 is an obstacle
+cell 55,39 is an obstacle
+cell 56,39 is valid
+cell 57,39 is valid
+cell 58,39 is valid
+cell 59,39 is valid
+cell 60,39 is valid
+cell 61,39 is valid
+cell 62,39 is valid
+cell 63,39 is valid
+cell 64,39 is an obstacle
+cell 0,40 is an obstacle
+cell 1,40 is valid
+cell 2,40 is valid
+cell 3,40 is valid
+cell 4,40 is valid
+cell 5,40 is valid
+cell 6,40 is valid
+cell 7,40 is valid
+cell 8,40 is valid
+cell 9,40 is an obstacle
+cell 10,40 is an obstacle
+cell 11,40 is valid
+cell 12,40 is valid
+cell 13,40 is valid
+cell 14,40 is an obstacle
+cell 15,40 is an obstacle
+cell 16,40 is valid
+cell 17,40 is valid
+cell 18,40 is valid
+cell 19,40 is an obstacle
+cell 20,40 is an obstacle
+cell 21,40 is valid
+cell 22,40 is valid
+cell 23,40 is valid
+cell 24,40 is an obstacle
+cell 25,40 is an obstacle
+cell 26,40 is valid
+cell 27,40 is valid
+cell 28,40 is valid
+cell 29,40 is an obstacle
+cell 30,40 is an obstacle
+cell 31,40 is valid
+cell 32,40 is valid
+cell 33,40 is valid
+cell 34,40 is an obstacle
+cell 35,40 is an obstacle
+cell 36,40 is valid
+cell 37,40 is valid
+cell 38,40 is valid
+cell 39,40 is an obstacle
+cell 40,40 is an obstacle
+cell 41,40 is valid
+cell 42,40 is valid
+cell 43,40 is valid
+cell 44,40 is an obstacle
+cell 45,40 is an obstacle
+cell 46,40 is valid
+cell 47,40 is valid
+cell 48,40 is valid
+cell 49,40 is an obstacle
+cell 50,40 is an obstacle
+cell 51,40 is valid
+cell 52,40 is valid
+cell 53,40 is valid
+cell 54,40 is an obstacle
+cell 55,40 is an obstacle
+cell 56,40 is valid
+cell 57,40 is valid
+cell 58,40 is valid
+cell 59,40 is valid
+cell 60,40 is valid
+cell 61,40 is valid
+cell 62,40 is valid
+cell 63,40 is valid
+cell 64,40 is an obstacle
+cell 0,41 is an obstacle
+cell 1,41 is valid
+cell 2,41 is valid
+cell 3,41 is valid
+cell 4,41 is valid
+cell 5,41 is valid
+cell 6,41 is valid
+cell 7,41 is valid
+cell 8,41 is valid
+cell 9,41 is an obstacle
+cell 10,41 is an obstacle
+cell 11,41 is valid
+cell 12,41 is valid
+cell 13,41 is valid
+cell 14,41 is an obstacle
+cell 15,41 is an obstacle
+cell 16,41 is valid
+cell 17,41 is valid
+cell 18,41 is valid
+cell 19,41 is an obstacle
+cell 20,41 is an obstacle
+cell 21,41 is valid
+cell 22,41 is valid
+cell 23,41 is valid
+cell 24,41 is an obstacle
+cell 25,41 is an obstacle
+cell 26,41 is valid
+cell 27,41 is valid
+cell 28,41 is valid
+cell 29,41 is an obstacle
+cell 30,41 is an obstacle
+cell 31,41 is valid
+cell 32,41 is valid
+cell 33,41 is valid
+cell 34,41 is an obstacle
+cell 35,41 is an obstacle
+cell 36,41 is valid
+cell 37,41 is valid
+cell 38,41 is valid
+cell 39,41 is an obstacle
+cell 40,41 is an obstacle
+cell 41,41 is valid
+cell 42,41 is valid
+cell 43,41 is valid
+cell 44,41 is an obstacle
+cell 45,41 is an obstacle
+cell 46,41 is valid
+cell 47,41 is valid
+cell 48,41 is valid
+cell 49,41 is an obstacle
+cell 50,41 is an obstacle
+cell 51,41 is valid
+cell 52,41 is valid
+cell 53,41 is valid
+cell 54,41 is an obstacle
+cell 55,41 is an obstacle
+cell 56,41 is valid
+cell 57,41 is valid
+cell 58,41 is valid
+cell 59,41 is valid
+cell 60,41 is valid
+cell 61,41 is valid
+cell 62,41 is valid
+cell 63,41 is valid
+cell 64,41 is an obstacle
+cell 0,42 is an obstacle
+cell 1,42 is valid
+cell 2,42 is valid
+cell 3,42 is valid
+cell 4,42 is valid
+cell 5,42 is valid
+cell 6,42 is valid
+cell 7,42 is valid
+cell 8,42 is valid
+cell 9,42 is an obstacle
+cell 10,42 is an obstacle
+cell 11,42 is valid
+cell 12,42 is valid
+cell 13,42 is valid
+cell 14,42 is an obstacle
+cell 15,42 is an obstacle
+cell 16,42 is valid
+cell 17,42 is valid
+cell 18,42 is valid
+cell 19,42 is an obstacle
+cell 20,42 is an obstacle
+cell 21,42 is valid
+cell 22,42 is valid
+cell 23,42 is valid
+cell 24,42 is an obstacle
+cell 25,42 is an obstacle
+cell 26,42 is valid
+cell 27,42 is valid
+cell 28,42 is valid
+cell 29,42 is an obstacle
+cell 30,42 is an obstacle
+cell 31,42 is valid
+cell 32,42 is valid
+cell 33,42 is valid
+cell 34,42 is an obstacle
+cell 35,42 is an obstacle
+cell 36,42 is valid
+cell 37,42 is valid
+cell 38,42 is valid
+cell 39,42 is an obstacle
+cell 40,42 is an obstacle
+cell 41,42 is valid
+cell 42,42 is valid
+cell 43,42 is valid
+cell 44,42 is an obstacle
+cell 45,42 is an obstacle
+cell 46,42 is valid
+cell 47,42 is valid
+cell 48,42 is valid
+cell 49,42 is an obstacle
+cell 50,42 is an obstacle
+cell 51,42 is valid
+cell 52,42 is valid
+cell 53,42 is valid
+cell 54,42 is an obstacle
+cell 55,42 is an obstacle
+cell 56,42 is valid
+cell 57,42 is valid
+cell 58,42 is valid
+cell 59,42 is valid
+cell 60,42 is valid
+cell 61,42 is valid
+cell 62,42 is valid
+cell 63,42 is valid
+cell 64,42 is an obstacle
+cell 0,43 is an obstacle
+cell 1,43 is valid
+cell 2,43 is valid
+cell 3,43 is valid
+cell 4,43 is valid
+cell 5,43 is valid
+cell 6,43 is valid
+cell 7,43 is valid
+cell 8,43 is valid
+cell 9,43 is an obstacle
+cell 10,43 is an obstacle
+cell 11,43 is valid
+cell 12,43 is valid
+cell 13,43 is valid
+cell 14,43 is an obstacle
+cell 15,43 is an obstacle
+cell 16,43 is valid
+cell 17,43 is valid
+cell 18,43 is valid
+cell 19,43 is an obstacle
+cell 20,43 is an obstacle
+cell 21,43 is valid
+cell 22,43 is valid
+cell 23,43 is valid
+cell 24,43 is an obstacle
+cell 25,43 is an obstacle
+cell 26,43 is valid
+cell 27,43 is valid
+cell 28,43 is valid
+cell 29,43 is an obstacle
+cell 30,43 is an obstacle
+cell 31,43 is valid
+cell 32,43 is valid
+cell 33,43 is valid
+cell 34,43 is an obstacle
+cell 35,43 is an obstacle
+cell 36,43 is valid
+cell 37,43 is valid
+cell 38,43 is valid
+cell 39,43 is an obstacle
+cell 40,43 is an obstacle
+cell 41,43 is valid
+cell 42,43 is valid
+cell 43,43 is valid
+cell 44,43 is an obstacle
+cell 45,43 is an obstacle
+cell 46,43 is valid
+cell 47,43 is valid
+cell 48,43 is valid
+cell 49,43 is an obstacle
+cell 50,43 is an obstacle
+cell 51,43 is valid
+cell 52,43 is valid
+cell 53,43 is valid
+cell 54,43 is an obstacle
+cell 55,43 is an obstacle
+cell 56,43 is valid
+cell 57,43 is valid
+cell 58,43 is valid
+cell 59,43 is valid
+cell 60,43 is valid
+cell 61,43 is valid
+cell 62,43 is valid
+cell 63,43 is valid
+cell 64,43 is an obstacle
+cell 0,44 is an obstacle
+cell 1,44 is valid
+cell 2,44 is valid
+cell 3,44 is valid
+cell 4,44 is valid
+cell 5,44 is valid
+cell 6,44 is valid
+cell 7,44 is valid
+cell 8,44 is valid
+cell 9,44 is an obstacle
+cell 10,44 is an obstacle
+cell 11,44 is valid
+cell 12,44 is valid
+cell 13,44 is valid
+cell 14,44 is an obstacle
+cell 15,44 is an obstacle
+cell 16,44 is valid
+cell 17,44 is valid
+cell 18,44 is valid
+cell 19,44 is an obstacle
+cell 20,44 is an obstacle
+cell 21,44 is valid
+cell 22,44 is valid
+cell 23,44 is valid
+cell 24,44 is an obstacle
+cell 25,44 is an obstacle
+cell 26,44 is valid
+cell 27,44 is valid
+cell 28,44 is valid
+cell 29,44 is an obstacle
+cell 30,44 is an obstacle
+cell 31,44 is valid
+cell 32,44 is valid
+cell 33,44 is valid
+cell 34,44 is an obstacle
+cell 35,44 is an obstacle
+cell 36,44 is valid
+cell 37,44 is valid
+cell 38,44 is valid
+cell 39,44 is an obstacle
+cell 40,44 is an obstacle
+cell 41,44 is valid
+cell 42,44 is valid
+cell 43,44 is valid
+cell 44,44 is an obstacle
+cell 45,44 is an obstacle
+cell 46,44 is valid
+cell 47,44 is valid
+cell 48,44 is valid
+cell 49,44 is an obstacle
+cell 50,44 is an obstacle
+cell 51,44 is valid
+cell 52,44 is valid
+cell 53,44 is valid
+cell 54,44 is an obstacle
+cell 55,44 is an obstacle
+cell 56,44 is valid
+cell 57,44 is valid
+cell 58,44 is valid
+cell 59,44 is valid
+cell 60,44 is valid
+cell 61,44 is valid
+cell 62,44 is valid
+cell 63,44 is valid
+cell 64,44 is an obstacle
+cell 0,45 is an obstacle
+cell 1,45 is valid
+cell 2,45 is valid
+cell 3,45 is valid
+cell 4,45 is valid
+cell 5,45 is valid
+cell 6,45 is valid
+cell 7,45 is valid
+cell 8,45 is valid
+cell 9,45 is an obstacle
+cell 10,45 is an obstacle
+cell 11,45 is valid
+cell 12,45 is valid
+cell 13,45 is valid
+cell 14,45 is an obstacle
+cell 15,45 is an obstacle
+cell 16,45 is valid
+cell 17,45 is valid
+cell 18,45 is valid
+cell 19,45 is an obstacle
+cell 20,45 is an obstacle
+cell 21,45 is valid
+cell 22,45 is valid
+cell 23,45 is valid
+cell 24,45 is an obstacle
+cell 25,45 is an obstacle
+cell 26,45 is valid
+cell 27,45 is valid
+cell 28,45 is valid
+cell 29,45 is an obstacle
+cell 30,45 is an obstacle
+cell 31,45 is valid
+cell 32,45 is valid
+cell 33,45 is valid
+cell 34,45 is an obstacle
+cell 35,45 is an obstacle
+cell 36,45 is valid
+cell 37,45 is valid
+cell 38,45 is valid
+cell 39,45 is an obstacle
+cell 40,45 is an obstacle
+cell 41,45 is valid
+cell 42,45 is valid
+cell 43,45 is valid
+cell 44,45 is an obstacle
+cell 45,45 is an obstacle
+cell 46,45 is valid
+cell 47,45 is valid
+cell 48,45 is valid
+cell 49,45 is an obstacle
+cell 50,45 is an obstacle
+cell 51,45 is valid
+cell 52,45 is valid
+cell 53,45 is valid
+cell 54,45 is an obstacle
+cell 55,45 is an obstacle
+cell 56,45 is valid
+cell 57,45 is valid
+cell 58,45 is valid
+cell 59,45 is valid
+cell 60,45 is valid
+cell 61,45 is valid
+cell 62,45 is valid
+cell 63,45 is valid
+cell 64,45 is an obstacle
+cell 0,46 is an obstacle
+cell 1,46 is valid
+cell 2,46 is valid
+cell 3,46 is valid
+cell 4,46 is valid
+cell 5,46 is valid
+cell 6,46 is valid
+cell 7,46 is valid
+cell 8,46 is valid
+cell 9,46 is an obstacle
+cell 10,46 is an obstacle
+cell 11,46 is valid
+cell 12,46 is valid
+cell 13,46 is valid
+cell 14,46 is an obstacle
+cell 15,46 is an obstacle
+cell 16,46 is valid
+cell 17,46 is valid
+cell 18,46 is valid
+cell 19,46 is an obstacle
+cell 20,46 is an obstacle
+cell 21,46 is valid
+cell 22,46 is valid
+cell 23,46 is valid
+cell 24,46 is an obstacle
+cell 25,46 is an obstacle
+cell 26,46 is valid
+cell 27,46 is valid
+cell 28,46 is valid
+cell 29,46 is an obstacle
+cell 30,46 is an obstacle
+cell 31,46 is valid
+cell 32,46 is valid
+cell 33,46 is valid
+cell 34,46 is an obstacle
+cell 35,46 is an obstacle
+cell 36,46 is valid
+cell 37,46 is valid
+cell 38,46 is valid
+cell 39,46 is an obstacle
+cell 40,46 is an obstacle
+cell 41,46 is valid
+cell 42,46 is valid
+cell 43,46 is valid
+cell 44,46 is an obstacle
+cell 45,46 is an obstacle
+cell 46,46 is valid
+cell 47,46 is valid
+cell 48,46 is valid
+cell 49,46 is an obstacle
+cell 50,46 is an obstacle
+cell 51,46 is valid
+cell 52,46 is valid
+cell 53,46 is valid
+cell 54,46 is an obstacle
+cell 55,46 is an obstacle
+cell 56,46 is valid
+cell 57,46 is valid
+cell 58,46 is valid
+cell 59,46 is valid
+cell 60,46 is valid
+cell 61,46 is valid
+cell 62,46 is valid
+cell 63,46 is valid
+cell 64,46 is an obstacle
+cell 0,47 is an obstacle
+cell 1,47 is valid
+cell 2,47 is valid
+cell 3,47 is valid
+cell 4,47 is valid
+cell 5,47 is valid
+cell 6,47 is valid
+cell 7,47 is valid
+cell 8,47 is valid
+cell 9,47 is an obstacle
+cell 10,47 is an obstacle
+cell 11,47 is valid
+cell 12,47 is valid
+cell 13,47 is valid
+cell 14,47 is an obstacle
+cell 15,47 is an obstacle
+cell 16,47 is valid
+cell 17,47 is valid
+cell 18,47 is valid
+cell 19,47 is an obstacle
+cell 20,47 is an obstacle
+cell 21,47 is valid
+cell 22,47 is valid
+cell 23,47 is valid
+cell 24,47 is an obstacle
+cell 25,47 is an obstacle
+cell 26,47 is valid
+cell 27,47 is valid
+cell 28,47 is valid
+cell 29,47 is an obstacle
+cell 30,47 is an obstacle
+cell 31,47 is valid
+cell 32,47 is valid
+cell 33,47 is valid
+cell 34,47 is an obstacle
+cell 35,47 is an obstacle
+cell 36,47 is valid
+cell 37,47 is valid
+cell 38,47 is valid
+cell 39,47 is an obstacle
+cell 40,47 is an obstacle
+cell 41,47 is valid
+cell 42,47 is valid
+cell 43,47 is valid
+cell 44,47 is an obstacle
+cell 45,47 is an obstacle
+cell 46,47 is valid
+cell 47,47 is valid
+cell 48,47 is valid
+cell 49,47 is an obstacle
+cell 50,47 is an obstacle
+cell 51,47 is valid
+cell 52,47 is valid
+cell 53,47 is valid
+cell 54,47 is an obstacle
+cell 55,47 is an obstacle
+cell 56,47 is valid
+cell 57,47 is valid
+cell 58,47 is valid
+cell 59,47 is valid
+cell 60,47 is valid
+cell 61,47 is valid
+cell 62,47 is valid
+cell 63,47 is valid
+cell 64,47 is an obstacle
+cell 0,48 is an obstacle
+cell 1,48 is valid
+cell 2,48 is valid
+cell 3,48 is valid
+cell 4,48 is valid
+cell 5,48 is valid
+cell 6,48 is valid
+cell 7,48 is valid
+cell 8,48 is valid
+cell 9,48 is an obstacle
+cell 10,48 is an obstacle
+cell 11,48 is valid
+cell 12,48 is valid
+cell 13,48 is valid
+cell 14,48 is an obstacle
+cell 15,48 is an obstacle
+cell 16,48 is valid
+cell 17,48 is valid
+cell 18,48 is valid
+cell 19,48 is an obstacle
+cell 20,48 is an obstacle
+cell 21,48 is valid
+cell 22,48 is valid
+cell 23,48 is valid
+cell 24,48 is an obstacle
+cell 25,48 is an obstacle
+cell 26,48 is valid
+cell 27,48 is valid
+cell 28,48 is valid
+cell 29,48 is an obstacle
+cell 30,48 is an obstacle
+cell 31,48 is valid
+cell 32,48 is valid
+cell 33,48 is valid
+cell 34,48 is an obstacle
+cell 35,48 is an obstacle
+cell 36,48 is valid
+cell 37,48 is valid
+cell 38,48 is valid
+cell 39,48 is an obstacle
+cell 40,48 is an obstacle
+cell 41,48 is valid
+cell 42,48 is valid
+cell 43,48 is valid
+cell 44,48 is an obstacle
+cell 45,48 is an obstacle
+cell 46,48 is valid
+cell 47,48 is valid
+cell 48,48 is valid
+cell 49,48 is an obstacle
+cell 50,48 is an obstacle
+cell 51,48 is valid
+cell 52,48 is valid
+cell 53,48 is valid
+cell 54,48 is an obstacle
+cell 55,48 is an obstacle
+cell 56,48 is valid
+cell 57,48 is valid
+cell 58,48 is valid
+cell 59,48 is valid
+cell 60,48 is valid
+cell 61,48 is valid
+cell 62,48 is valid
+cell 63,48 is valid
+cell 64,48 is an obstacle
+cell 0,49 is an obstacle
+cell 1,49 is valid
+cell 2,49 is valid
+cell 3,49 is valid
+cell 4,49 is valid
+cell 5,49 is valid
+cell 6,49 is valid
+cell 7,49 is valid
+cell 8,49 is valid
+cell 9,49 is valid
+cell 10,49 is valid
+cell 11,49 is valid
+cell 12,49 is valid
+cell 13,49 is valid
+cell 14,49 is valid
+cell 15,49 is valid
+cell 16,49 is valid
+cell 17,49 is valid
+cell 18,49 is valid
+cell 19,49 is valid
+cell 20,49 is valid
+cell 21,49 is valid
+cell 22,49 is valid
+cell 23,49 is valid
+cell 24,49 is valid
+cell 25,49 is valid
+cell 26,49 is valid
+cell 27,49 is valid
+cell 28,49 is valid
+cell 29,49 is valid
+cell 30,49 is valid
+cell 31,49 is valid
+cell 32,49 is valid
+cell 33,49 is valid
+cell 34,49 is valid
+cell 35,49 is valid
+cell 36,49 is valid
+cell 37,49 is valid
+cell 38,49 is valid
+cell 39,49 is valid
+cell 40,49 is valid
+cell 41,49 is valid
+cell 42,49 is valid
+cell 43,49 is valid
+cell 44,49 is valid
+cell 45,49 is valid
+cell 46,49 is valid
+cell 47,49 is valid
+cell 48,49 is valid
+cell 49,49 is valid
+cell 50,49 is valid
+cell 51,49 is valid
+cell 52,49 is valid
+cell 53,49 is valid
+cell 54,49 is valid
+cell 55,49 is valid
+cell 56,49 is valid
+cell 57,49 is valid
+cell 58,49 is valid
+cell 59,49 is valid
+cell 60,49 is valid
+cell 61,49 is valid
+cell 62,49 is valid
+cell 63,49 is valid
+cell 64,49 is an obstacle
+cell 0,50 is an obstacle
+cell 1,50 is valid
+cell 2,50 is valid
+cell 3,50 is valid
+cell 4,50 is valid
+cell 5,50 is valid
+cell 6,50 is valid
+cell 7,50 is valid
+cell 8,50 is valid
+cell 9,50 is valid
+cell 10,50 is valid
+cell 11,50 is valid
+cell 12,50 is valid
+cell 13,50 is valid
+cell 14,50 is valid
+cell 15,50 is valid
+cell 16,50 is valid
+cell 17,50 is valid
+cell 18,50 is valid
+cell 19,50 is valid
+cell 20,50 is valid
+cell 21,50 is valid
+cell 22,50 is valid
+cell 23,50 is valid
+cell 24,50 is valid
+cell 25,50 is valid
+cell 26,50 is valid
+cell 27,50 is valid
+cell 28,50 is valid
+cell 29,50 is valid
+cell 30,50 is valid
+cell 31,50 is valid
+cell 32,50 is valid
+cell 33,50 is valid
+cell 34,50 is valid
+cell 35,50 is valid
+cell 36,50 is valid
+cell 37,50 is valid
+cell 38,50 is valid
+cell 39,50 is valid
+cell 40,50 is valid
+cell 41,50 is valid
+cell 42,50 is valid
+cell 43,50 is valid
+cell 44,50 is valid
+cell 45,50 is valid
+cell 46,50 is valid
+cell 47,50 is valid
+cell 48,50 is valid
+cell 49,50 is valid
+cell 50,50 is valid
+cell 51,50 is valid
+cell 52,50 is valid
+cell 53,50 is valid
+cell 54,50 is valid
+cell 55,50 is valid
+cell 56,50 is valid
+cell 57,50 is valid
+cell 58,50 is valid
+cell 59,50 is valid
+cell 60,50 is valid
+cell 61,50 is valid
+cell 62,50 is valid
+cell 63,50 is valid
+cell 64,50 is an obstacle
+cell 0,51 is an obstacle
+cell 1,51 is valid
+cell 2,51 is valid
+cell 3,51 is valid
+cell 4,51 is valid
+cell 5,51 is valid
+cell 6,51 is valid
+cell 7,51 is valid
+cell 8,51 is valid
+cell 9,51 is valid
+cell 10,51 is valid
+cell 11,51 is valid
+cell 12,51 is valid
+cell 13,51 is valid
+cell 14,51 is valid
+cell 15,51 is valid
+cell 16,51 is valid
+cell 17,51 is valid
+cell 18,51 is valid
+cell 19,51 is valid
+cell 20,51 is valid
+cell 21,51 is valid
+cell 22,51 is valid
+cell 23,51 is valid
+cell 24,51 is valid
+cell 25,51 is valid
+cell 26,51 is valid
+cell 27,51 is valid
+cell 28,51 is valid
+cell 29,51 is valid
+cell 30,51 is valid
+cell 31,51 is valid
+cell 32,51 is valid
+cell 33,51 is valid
+cell 34,51 is valid
+cell 35,51 is valid
+cell 36,51 is valid
+cell 37,51 is valid
+cell 38,51 is valid
+cell 39,51 is valid
+cell 40,51 is valid
+cell 41,51 is valid
+cell 42,51 is valid
+cell 43,51 is valid
+cell 44,51 is valid
+cell 45,51 is valid
+cell 46,51 is valid
+cell 47,51 is valid
+cell 48,51 is valid
+cell 49,51 is valid
+cell 50,51 is valid
+cell 51,51 is valid
+cell 52,51 is valid
+cell 53,51 is valid
+cell 54,51 is valid
+cell 55,51 is valid
+cell 56,51 is valid
+cell 57,51 is valid
+cell 58,51 is valid
+cell 59,51 is valid
+cell 60,51 is valid
+cell 61,51 is valid
+cell 62,51 is valid
+cell 63,51 is valid
+cell 64,51 is an obstacle
+cell 0,52 is an obstacle
+cell 1,52 is valid
+cell 2,52 is valid
+cell 3,52 is valid
+cell 4,52 is valid
+cell 5,52 is valid
+cell 6,52 is valid
+cell 7,52 is valid
+cell 8,52 is valid
+cell 9,52 is valid
+cell 10,52 is valid
+cell 11,52 is valid
+cell 12,52 is valid
+cell 13,52 is valid
+cell 14,52 is valid
+cell 15,52 is valid
+cell 16,52 is valid
+cell 17,52 is valid
+cell 18,52 is valid
+cell 19,52 is valid
+cell 20,52 is valid
+cell 21,52 is valid
+cell 22,52 is valid
+cell 23,52 is valid
+cell 24,52 is valid
+cell 25,52 is valid
+cell 26,52 is valid
+cell 27,52 is valid
+cell 28,52 is valid
+cell 29,52 is valid
+cell 30,52 is valid
+cell 31,52 is valid
+cell 32,52 is valid
+cell 33,52 is valid
+cell 34,52 is valid
+cell 35,52 is valid
+cell 36,52 is valid
+cell 37,52 is valid
+cell 38,52 is valid
+cell 39,52 is valid
+cell 40,52 is valid
+cell 41,52 is valid
+cell 42,52 is valid
+cell 43,52 is valid
+cell 44,52 is valid
+cell 45,52 is valid
+cell 46,52 is valid
+cell 47,52 is valid
+cell 48,52 is valid
+cell 49,52 is valid
+cell 50,52 is valid
+cell 51,52 is valid
+cell 52,52 is valid
+cell 53,52 is valid
+cell 54,52 is valid
+cell 55,52 is valid
+cell 56,52 is valid
+cell 57,52 is valid
+cell 58,52 is valid
+cell 59,52 is valid
+cell 60,52 is valid
+cell 61,52 is valid
+cell 62,52 is valid
+cell 63,52 is valid
+cell 64,52 is an obstacle
+cell 0,53 is an obstacle
+cell 1,53 is valid
+cell 2,53 is valid
+cell 3,53 is valid
+cell 4,53 is valid
+cell 5,53 is valid
+cell 6,53 is valid
+cell 7,53 is valid
+cell 8,53 is valid
+cell 9,53 is valid
+cell 10,53 is valid
+cell 11,53 is valid
+cell 12,53 is valid
+cell 13,53 is valid
+cell 14,53 is valid
+cell 15,53 is valid
+cell 16,53 is valid
+cell 17,53 is valid
+cell 18,53 is valid
+cell 19,53 is valid
+cell 20,53 is valid
+cell 21,53 is valid
+cell 22,53 is valid
+cell 23,53 is valid
+cell 24,53 is valid
+cell 25,53 is valid
+cell 26,53 is valid
+cell 27,53 is valid
+cell 28,53 is valid
+cell 29,53 is valid
+cell 30,53 is valid
+cell 31,53 is valid
+cell 32,53 is valid
+cell 33,53 is valid
+cell 34,53 is valid
+cell 35,53 is valid
+cell 36,53 is valid
+cell 37,53 is valid
+cell 38,53 is valid
+cell 39,53 is valid
+cell 40,53 is valid
+cell 41,53 is valid
+cell 42,53 is valid
+cell 43,53 is valid
+cell 44,53 is valid
+cell 45,53 is valid
+cell 46,53 is valid
+cell 47,53 is valid
+cell 48,53 is valid
+cell 49,53 is valid
+cell 50,53 is valid
+cell 51,53 is valid
+cell 52,53 is valid
+cell 53,53 is valid
+cell 54,53 is valid
+cell 55,53 is valid
+cell 56,53 is valid
+cell 57,53 is valid
+cell 58,53 is valid
+cell 59,53 is valid
+cell 60,53 is valid
+cell 61,53 is valid
+cell 62,53 is valid
+cell 63,53 is valid
+cell 64,53 is an obstacle
+cell 0,54 is an obstacle
+cell 1,54 is valid
+cell 2,54 is valid
+cell 3,54 is valid
+cell 4,54 is valid
+cell 5,54 is valid
+cell 6,54 is valid
+cell 7,54 is valid
+cell 8,54 is valid
+cell 9,54 is valid
+cell 10,54 is valid
+cell 11,54 is valid
+cell 12,54 is valid
+cell 13,54 is valid
+cell 14,54 is valid
+cell 15,54 is valid
+cell 16,54 is valid
+cell 17,54 is valid
+cell 18,54 is valid
+cell 19,54 is valid
+cell 20,54 is valid
+cell 21,54 is valid
+cell 22,54 is valid
+cell 23,54 is valid
+cell 24,54 is valid
+cell 25,54 is valid
+cell 26,54 is valid
+cell 27,54 is valid
+cell 28,54 is valid
+cell 29,54 is valid
+cell 30,54 is valid
+cell 31,54 is valid
+cell 32,54 is valid
+cell 33,54 is valid
+cell 34,54 is valid
+cell 35,54 is valid
+cell 36,54 is valid
+cell 37,54 is valid
+cell 38,54 is valid
+cell 39,54 is valid
+cell 40,54 is valid
+cell 41,54 is valid
+cell 42,54 is valid
+cell 43,54 is valid
+cell 44,54 is valid
+cell 45,54 is valid
+cell 46,54 is valid
+cell 47,54 is valid
+cell 48,54 is valid
+cell 49,54 is valid
+cell 50,54 is valid
+cell 51,54 is valid
+cell 52,54 is valid
+cell 53,54 is valid
+cell 54,54 is valid
+cell 55,54 is valid
+cell 56,54 is valid
+cell 57,54 is valid
+cell 58,54 is valid
+cell 59,54 is valid
+cell 60,54 is valid
+cell 61,54 is valid
+cell 62,54 is valid
+cell 63,54 is valid
+cell 64,54 is an obstacle
+cell 0,55 is an obstacle
+cell 1,55 is valid
+cell 2,55 is valid
+cell 3,55 is valid
+cell 4,55 is valid
+cell 5,55 is valid
+cell 6,55 is valid
+cell 7,55 is valid
+cell 8,55 is valid
+cell 9,55 is valid
+cell 10,55 is valid
+cell 11,55 is valid
+cell 12,55 is valid
+cell 13,55 is valid
+cell 14,55 is valid
+cell 15,55 is valid
+cell 16,55 is valid
+cell 17,55 is valid
+cell 18,55 is valid
+cell 19,55 is valid
+cell 20,55 is valid
+cell 21,55 is valid
+cell 22,55 is valid
+cell 23,55 is valid
+cell 24,55 is valid
+cell 25,55 is valid
+cell 26,55 is valid
+cell 27,55 is valid
+cell 28,55 is valid
+cell 29,55 is valid
+cell 30,55 is valid
+cell 31,55 is valid
+cell 32,55 is valid
+cell 33,55 is valid
+cell 34,55 is valid
+cell 35,55 is valid
+cell 36,55 is valid
+cell 37,55 is valid
+cell 38,55 is valid
+cell 39,55 is valid
+cell 40,55 is valid
+cell 41,55 is valid
+cell 42,55 is valid
+cell 43,55 is valid
+cell 44,55 is valid
+cell 45,55 is valid
+cell 46,55 is valid
+cell 47,55 is valid
+cell 48,55 is valid
+cell 49,55 is valid
+cell 50,55 is valid
+cell 51,55 is valid
+cell 52,55 is valid
+cell 53,55 is valid
+cell 54,55 is valid
+cell 55,55 is valid
+cell 56,55 is valid
+cell 57,55 is valid
+cell 58,55 is valid
+cell 59,55 is valid
+cell 60,55 is valid
+cell 61,55 is valid
+cell 62,55 is valid
+cell 63,55 is valid
+cell 64,55 is an obstacle
+cell 0,56 is an obstacle
+cell 1,56 is valid
+cell 2,56 is valid
+cell 3,56 is valid
+cell 4,56 is valid
+cell 5,56 is valid
+cell 6,56 is valid
+cell 7,56 is valid
+cell 8,56 is valid
+cell 9,56 is valid
+cell 10,56 is valid
+cell 11,56 is valid
+cell 12,56 is valid
+cell 13,56 is valid
+cell 14,56 is valid
+cell 15,56 is valid
+cell 16,56 is valid
+cell 17,56 is valid
+cell 18,56 is valid
+cell 19,56 is valid
+cell 20,56 is valid
+cell 21,56 is valid
+cell 22,56 is valid
+cell 23,56 is valid
+cell 24,56 is valid
+cell 25,56 is valid
+cell 26,56 is valid
+cell 27,56 is valid
+cell 28,56 is valid
+cell 29,56 is valid
+cell 30,56 is valid
+cell 31,56 is valid
+cell 32,56 is valid
+cell 33,56 is valid
+cell 34,56 is valid
+cell 35,56 is valid
+cell 36,56 is valid
+cell 37,56 is valid
+cell 38,56 is valid
+cell 39,56 is valid
+cell 40,56 is valid
+cell 41,56 is valid
+cell 42,56 is valid
+cell 43,56 is valid
+cell 44,56 is valid
+cell 45,56 is valid
+cell 46,56 is valid
+cell 47,56 is valid
+cell 48,56 is valid
+cell 49,56 is valid
+cell 50,56 is valid
+cell 51,56 is valid
+cell 52,56 is valid
+cell 53,56 is valid
+cell 54,56 is valid
+cell 55,56 is valid
+cell 56,56 is valid
+cell 57,56 is valid
+cell 58,56 is valid
+cell 59,56 is valid
+cell 60,56 is valid
+cell 61,56 is valid
+cell 62,56 is valid
+cell 63,56 is valid
+cell 64,56 is an obstacle
+cell 0,57 is an obstacle
+cell 1,57 is valid
+cell 2,57 is valid
+cell 3,57 is valid
+cell 4,57 is valid
+cell 5,57 is valid
+cell 6,57 is valid
+cell 7,57 is valid
+cell 8,57 is valid
+cell 9,57 is an obstacle
+cell 10,57 is an obstacle
+cell 11,57 is valid
+cell 12,57 is valid
+cell 13,57 is valid
+cell 14,57 is an obstacle
+cell 15,57 is an obstacle
+cell 16,57 is valid
+cell 17,57 is valid
+cell 18,57 is valid
+cell 19,57 is an obstacle
+cell 20,57 is an obstacle
+cell 21,57 is valid
+cell 22,57 is valid
+cell 23,57 is valid
+cell 24,57 is an obstacle
+cell 25,57 is an obstacle
+cell 26,57 is valid
+cell 27,57 is valid
+cell 28,57 is valid
+cell 29,57 is an obstacle
+cell 30,57 is an obstacle
+cell 31,57 is valid
+cell 32,57 is valid
+cell 33,57 is valid
+cell 34,57 is an obstacle
+cell 35,57 is an obstacle
+cell 36,57 is valid
+cell 37,57 is valid
+cell 38,57 is valid
+cell 39,57 is an obstacle
+cell 40,57 is an obstacle
+cell 41,57 is valid
+cell 42,57 is valid
+cell 43,57 is valid
+cell 44,57 is an obstacle
+cell 45,57 is an obstacle
+cell 46,57 is valid
+cell 47,57 is valid
+cell 48,57 is valid
+cell 49,57 is an obstacle
+cell 50,57 is an obstacle
+cell 51,57 is valid
+cell 52,57 is valid
+cell 53,57 is valid
+cell 54,57 is an obstacle
+cell 55,57 is an obstacle
+cell 56,57 is valid
+cell 57,57 is valid
+cell 58,57 is valid
+cell 59,57 is valid
+cell 60,57 is valid
+cell 61,57 is valid
+cell 62,57 is valid
+cell 63,57 is valid
+cell 64,57 is an obstacle
+cell 0,58 is an obstacle
+cell 1,58 is valid
+cell 2,58 is valid
+cell 3,58 is valid
+cell 4,58 is valid
+cell 5,58 is valid
+cell 6,58 is valid
+cell 7,58 is valid
+cell 8,58 is valid
+cell 9,58 is an obstacle
+cell 10,58 is an obstacle
+cell 11,58 is valid
+cell 12,58 is valid
+cell 13,58 is valid
+cell 14,58 is an obstacle
+cell 15,58 is an obstacle
+cell 16,58 is valid
+cell 17,58 is valid
+cell 18,58 is valid
+cell 19,58 is an obstacle
+cell 20,58 is an obstacle
+cell 21,58 is valid
+cell 22,58 is valid
+cell 23,58 is valid
+cell 24,58 is an obstacle
+cell 25,58 is an obstacle
+cell 26,58 is valid
+cell 27,58 is valid
+cell 28,58 is valid
+cell 29,58 is an obstacle
+cell 30,58 is an obstacle
+cell 31,58 is valid
+cell 32,58 is valid
+cell 33,58 is valid
+cell 34,58 is an obstacle
+cell 35,58 is an obstacle
+cell 36,58 is valid
+cell 37,58 is valid
+cell 38,58 is valid
+cell 39,58 is an obstacle
+cell 40,58 is an obstacle
+cell 41,58 is valid
+cell 42,58 is valid
+cell 43,58 is valid
+cell 44,58 is an obstacle
+cell 45,58 is an obstacle
+cell 46,58 is valid
+cell 47,58 is valid
+cell 48,58 is valid
+cell 49,58 is an obstacle
+cell 50,58 is an obstacle
+cell 51,58 is valid
+cell 52,58 is valid
+cell 53,58 is valid
+cell 54,58 is an obstacle
+cell 55,58 is an obstacle
+cell 56,58 is valid
+cell 57,58 is valid
+cell 58,58 is valid
+cell 59,58 is valid
+cell 60,58 is valid
+cell 61,58 is valid
+cell 62,58 is valid
+cell 63,58 is valid
+cell 64,58 is an obstacle
+cell 0,59 is an obstacle
+cell 1,59 is valid
+cell 2,59 is valid
+cell 3,59 is valid
+cell 4,59 is valid
+cell 5,59 is valid
+cell 6,59 is valid
+cell 7,59 is valid
+cell 8,59 is valid
+cell 9,59 is an obstacle
+cell 10,59 is an obstacle
+cell 11,59 is valid
+cell 12,59 is valid
+cell 13,59 is valid
+cell 14,59 is an obstacle
+cell 15,59 is an obstacle
+cell 16,59 is valid
+cell 17,59 is valid
+cell 18,59 is valid
+cell 19,59 is an obstacle
+cell 20,59 is an obstacle
+cell 21,59 is valid
+cell 22,59 is valid
+cell 23,59 is valid
+cell 24,59 is an obstacle
+cell 25,59 is an obstacle
+cell 26,59 is valid
+cell 27,59 is valid
+cell 28,59 is valid
+cell 29,59 is an obstacle
+cell 30,59 is an obstacle
+cell 31,59 is valid
+cell 32,59 is valid
+cell 33,59 is valid
+cell 34,59 is an obstacle
+cell 35,59 is an obstacle
+cell 36,59 is valid
+cell 37,59 is valid
+cell 38,59 is valid
+cell 39,59 is an obstacle
+cell 40,59 is an obstacle
+cell 41,59 is valid
+cell 42,59 is valid
+cell 43,59 is valid
+cell 44,59 is an obstacle
+cell 45,59 is an obstacle
+cell 46,59 is valid
+cell 47,59 is valid
+cell 48,59 is valid
+cell 49,59 is an obstacle
+cell 50,59 is an obstacle
+cell 51,59 is valid
+cell 52,59 is valid
+cell 53,59 is valid
+cell 54,59 is an obstacle
+cell 55,59 is an obstacle
+cell 56,59 is valid
+cell 57,59 is valid
+cell 58,59 is valid
+cell 59,59 is valid
+cell 60,59 is valid
+cell 61,59 is valid
+cell 62,59 is valid
+cell 63,59 is valid
+cell 64,59 is an obstacle
+cell 0,60 is an obstacle
+cell 1,60 is valid
+cell 2,60 is valid
+cell 3,60 is valid
+cell 4,60 is valid
+cell 5,60 is valid
+cell 6,60 is valid
+cell 7,60 is valid
+cell 8,60 is valid
+cell 9,60 is an obstacle
+cell 10,60 is an obstacle
+cell 11,60 is valid
+cell 12,60 is valid
+cell 13,60 is valid
+cell 14,60 is an obstacle
+cell 15,60 is an obstacle
+cell 16,60 is valid
+cell 17,60 is valid
+cell 18,60 is valid
+cell 19,60 is an obstacle
+cell 20,60 is an obstacle
+cell 21,60 is valid
+cell 22,60 is valid
+cell 23,60 is valid
+cell 24,60 is an obstacle
+cell 25,60 is an obstacle
+cell 26,60 is valid
+cell 27,60 is valid
+cell 28,60 is valid
+cell 29,60 is an obstacle
+cell 30,60 is an obstacle
+cell 31,60 is valid
+cell 32,60 is valid
+cell 33,60 is valid
+cell 34,60 is an obstacle
+cell 35,60 is an obstacle
+cell 36,60 is valid
+cell 37,60 is valid
+cell 38,60 is valid
+cell 39,60 is an obstacle
+cell 40,60 is an obstacle
+cell 41,60 is valid
+cell 42,60 is valid
+cell 43,60 is valid
+cell 44,60 is an obstacle
+cell 45,60 is an obstacle
+cell 46,60 is valid
+cell 47,60 is valid
+cell 48,60 is valid
+cell 49,60 is an obstacle
+cell 50,60 is an obstacle
+cell 51,60 is valid
+cell 52,60 is valid
+cell 53,60 is valid
+cell 54,60 is an obstacle
+cell 55,60 is an obstacle
+cell 56,60 is valid
+cell 57,60 is valid
+cell 58,60 is valid
+cell 59,60 is valid
+cell 60,60 is valid
+cell 61,60 is valid
+cell 62,60 is valid
+cell 63,60 is valid
+cell 64,60 is an obstacle
+cell 0,61 is an obstacle
+cell 1,61 is valid
+cell 2,61 is valid
+cell 3,61 is valid
+cell 4,61 is valid
+cell 5,61 is valid
+cell 6,61 is valid
+cell 7,61 is valid
+cell 8,61 is valid
+cell 9,61 is an obstacle
+cell 10,61 is an obstacle
+cell 11,61 is valid
+cell 12,61 is valid
+cell 13,61 is valid
+cell 14,61 is an obstacle
+cell 15,61 is an obstacle
+cell 16,61 is valid
+cell 17,61 is valid
+cell 18,61 is valid
+cell 19,61 is an obstacle
+cell 20,61 is an obstacle
+cell 21,61 is valid
+cell 22,61 is valid
+cell 23,61 is valid
+cell 24,61 is an obstacle
+cell 25,61 is an obstacle
+cell 26,61 is valid
+cell 27,61 is valid
+cell 28,61 is valid
+cell 29,61 is an obstacle
+cell 30,61 is an obstacle
+cell 31,61 is valid
+cell 32,61 is valid
+cell 33,61 is valid
+cell 34,61 is an obstacle
+cell 35,61 is an obstacle
+cell 36,61 is valid
+cell 37,61 is valid
+cell 38,61 is valid
+cell 39,61 is an obstacle
+cell 40,61 is an obstacle
+cell 41,61 is valid
+cell 42,61 is valid
+cell 43,61 is valid
+cell 44,61 is an obstacle
+cell 45,61 is an obstacle
+cell 46,61 is valid
+cell 47,61 is valid
+cell 48,61 is valid
+cell 49,61 is an obstacle
+cell 50,61 is an obstacle
+cell 51,61 is valid
+cell 52,61 is valid
+cell 53,61 is valid
+cell 54,61 is an obstacle
+cell 55,61 is an obstacle
+cell 56,61 is valid
+cell 57,61 is valid
+cell 58,61 is valid
+cell 59,61 is valid
+cell 60,61 is valid
+cell 61,61 is valid
+cell 62,61 is valid
+cell 63,61 is valid
+cell 64,61 is an obstacle
+cell 0,62 is an obstacle
+cell 1,62 is valid
+cell 2,62 is valid
+cell 3,62 is valid
+cell 4,62 is valid
+cell 5,62 is valid
+cell 6,62 is valid
+cell 7,62 is valid
+cell 8,62 is valid
+cell 9,62 is an obstacle
+cell 10,62 is an obstacle
+cell 11,62 is valid
+cell 12,62 is valid
+cell 13,62 is valid
+cell 14,62 is an obstacle
+cell 15,62 is an obstacle
+cell 16,62 is valid
+cell 17,62 is valid
+cell 18,62 is valid
+cell 19,62 is an obstacle
+cell 20,62 is an obstacle
+cell 21,62 is valid
+cell 22,62 is valid
+cell 23,62 is valid
+cell 24,62 is an obstacle
+cell 25,62 is an obstacle
+cell 26,62 is valid
+cell 27,62 is valid
+cell 28,62 is valid
+cell 29,62 is an obstacle
+cell 30,62 is an obstacle
+cell 31,62 is valid
+cell 32,62 is valid
+cell 33,62 is valid
+cell 34,62 is an obstacle
+cell 35,62 is an obstacle
+cell 36,62 is valid
+cell 37,62 is valid
+cell 38,62 is valid
+cell 39,62 is an obstacle
+cell 40,62 is an obstacle
+cell 41,62 is valid
+cell 42,62 is valid
+cell 43,62 is valid
+cell 44,62 is an obstacle
+cell 45,62 is an obstacle
+cell 46,62 is valid
+cell 47,62 is valid
+cell 48,62 is valid
+cell 49,62 is an obstacle
+cell 50,62 is an obstacle
+cell 51,62 is valid
+cell 52,62 is valid
+cell 53,62 is valid
+cell 54,62 is an obstacle
+cell 55,62 is an obstacle
+cell 56,62 is valid
+cell 57,62 is valid
+cell 58,62 is valid
+cell 59,62 is valid
+cell 60,62 is valid
+cell 61,62 is valid
+cell 62,62 is valid
+cell 63,62 is valid
+cell 64,62 is an obstacle
+cell 0,63 is an obstacle
+cell 1,63 is valid
+cell 2,63 is valid
+cell 3,63 is valid
+cell 4,63 is valid
+cell 5,63 is valid
+cell 6,63 is valid
+cell 7,63 is valid
+cell 8,63 is valid
+cell 9,63 is an obstacle
+cell 10,63 is an obstacle
+cell 11,63 is valid
+cell 12,63 is valid
+cell 13,63 is valid
+cell 14,63 is an obstacle
+cell 15,63 is an obstacle
+cell 16,63 is valid
+cell 17,63 is valid
+cell 18,63 is valid
+cell 19,63 is an obstacle
+cell 20,63 is an obstacle
+cell 21,63 is valid
+cell 22,63 is valid
+cell 23,63 is valid
+cell 24,63 is an obstacle
+cell 25,63 is an obstacle
+cell 26,63 is valid
+cell 27,63 is valid
+cell 28,63 is valid
+cell 29,63 is an obstacle
+cell 30,63 is an obstacle
+cell 31,63 is valid
+cell 32,63 is valid
+cell 33,63 is valid
+cell 34,63 is an obstacle
+cell 35,63 is an obstacle
+cell 36,63 is valid
+cell 37,63 is valid
+cell 38,63 is valid
+cell 39,63 is an obstacle
+cell 40,63 is an obstacle
+cell 41,63 is valid
+cell 42,63 is valid
+cell 43,63 is valid
+cell 44,63 is an obstacle
+cell 45,63 is an obstacle
+cell 46,63 is valid
+cell 47,63 is valid
+cell 48,63 is valid
+cell 49,63 is an obstacle
+cell 50,63 is an obstacle
+cell 51,63 is valid
+cell 52,63 is valid
+cell 53,63 is valid
+cell 54,63 is an obstacle
+cell 55,63 is an obstacle
+cell 56,63 is valid
+cell 57,63 is valid
+cell 58,63 is valid
+cell 59,63 is valid
+cell 60,63 is valid
+cell 61,63 is valid
+cell 62,63 is valid
+cell 63,63 is valid
+cell 64,63 is an obstacle
+cell 0,64 is an obstacle
+cell 1,64 is valid
+cell 2,64 is valid
+cell 3,64 is valid
+cell 4,64 is valid
+cell 5,64 is valid
+cell 6,64 is valid
+cell 7,64 is valid
+cell 8,64 is valid
+cell 9,64 is an obstacle
+cell 10,64 is an obstacle
+cell 11,64 is valid
+cell 12,64 is valid
+cell 13,64 is valid
+cell 14,64 is an obstacle
+cell 15,64 is an obstacle
+cell 16,64 is valid
+cell 17,64 is valid
+cell 18,64 is valid
+cell 19,64 is an obstacle
+cell 20,64 is an obstacle
+cell 21,64 is valid
+cell 22,64 is valid
+cell 23,64 is valid
+cell 24,64 is an obstacle
+cell 25,64 is an obstacle
+cell 26,64 is valid
+cell 27,64 is valid
+cell 28,64 is valid
+cell 29,64 is an obstacle
+cell 30,64 is an obstacle
+cell 31,64 is valid
+cell 32,64 is valid
+cell 33,64 is valid
+cell 34,64 is an obstacle
+cell 35,64 is an obstacle
+cell 36,64 is valid
+cell 37,64 is valid
+cell 38,64 is valid
+cell 39,64 is an obstacle
+cell 40,64 is an obstacle
+cell 41,64 is valid
+cell 42,64 is valid
+cell 43,64 is valid
+cell 44,64 is an obstacle
+cell 45,64 is an obstacle
+cell 46,64 is valid
+cell 47,64 is valid
+cell 48,64 is valid
+cell 49,64 is an obstacle
+cell 50,64 is an obstacle
+cell 51,64 is valid
+cell 52,64 is valid
+cell 53,64 is valid
+cell 54,64 is an obstacle
+cell 55,64 is an obstacle
+cell 56,64 is valid
+cell 57,64 is valid
+cell 58,64 is valid
+cell 59,64 is valid
+cell 60,64 is valid
+cell 61,64 is valid
+cell 62,64 is valid
+cell 63,64 is valid
+cell 64,64 is an obstacle
+cell 0,65 is an obstacle
+cell 1,65 is valid
+cell 2,65 is valid
+cell 3,65 is valid
+cell 4,65 is valid
+cell 5,65 is valid
+cell 6,65 is valid
+cell 7,65 is valid
+cell 8,65 is valid
+cell 9,65 is an obstacle
+cell 10,65 is an obstacle
+cell 11,65 is valid
+cell 12,65 is valid
+cell 13,65 is valid
+cell 14,65 is an obstacle
+cell 15,65 is an obstacle
+cell 16,65 is valid
+cell 17,65 is valid
+cell 18,65 is valid
+cell 19,65 is an obstacle
+cell 20,65 is an obstacle
+cell 21,65 is valid
+cell 22,65 is valid
+cell 23,65 is valid
+cell 24,65 is an obstacle
+cell 25,65 is an obstacle
+cell 26,65 is valid
+cell 27,65 is valid
+cell 28,65 is valid
+cell 29,65 is an obstacle
+cell 30,65 is an obstacle
+cell 31,65 is valid
+cell 32,65 is valid
+cell 33,65 is valid
+cell 34,65 is an obstacle
+cell 35,65 is an obstacle
+cell 36,65 is valid
+cell 37,65 is valid
+cell 38,65 is valid
+cell 39,65 is an obstacle
+cell 40,65 is an obstacle
+cell 41,65 is valid
+cell 42,65 is valid
+cell 43,65 is valid
+cell 44,65 is an obstacle
+cell 45,65 is an obstacle
+cell 46,65 is valid
+cell 47,65 is valid
+cell 48,65 is valid
+cell 49,65 is an obstacle
+cell 50,65 is an obstacle
+cell 51,65 is valid
+cell 52,65 is valid
+cell 53,65 is valid
+cell 54,65 is an obstacle
+cell 55,65 is an obstacle
+cell 56,65 is valid
+cell 57,65 is valid
+cell 58,65 is valid
+cell 59,65 is valid
+cell 60,65 is valid
+cell 61,65 is valid
+cell 62,65 is valid
+cell 63,65 is valid
+cell 64,65 is an obstacle
+cell 0,66 is an obstacle
+cell 1,66 is valid
+cell 2,66 is valid
+cell 3,66 is valid
+cell 4,66 is valid
+cell 5,66 is valid
+cell 6,66 is valid
+cell 7,66 is valid
+cell 8,66 is valid
+cell 9,66 is an obstacle
+cell 10,66 is an obstacle
+cell 11,66 is valid
+cell 12,66 is valid
+cell 13,66 is valid
+cell 14,66 is an obstacle
+cell 15,66 is an obstacle
+cell 16,66 is valid
+cell 17,66 is valid
+cell 18,66 is valid
+cell 19,66 is an obstacle
+cell 20,66 is an obstacle
+cell 21,66 is valid
+cell 22,66 is valid
+cell 23,66 is valid
+cell 24,66 is an obstacle
+cell 25,66 is an obstacle
+cell 26,66 is valid
+cell 27,66 is valid
+cell 28,66 is valid
+cell 29,66 is an obstacle
+cell 30,66 is an obstacle
+cell 31,66 is valid
+cell 32,66 is valid
+cell 33,66 is valid
+cell 34,66 is an obstacle
+cell 35,66 is an obstacle
+cell 36,66 is valid
+cell 37,66 is valid
+cell 38,66 is valid
+cell 39,66 is an obstacle
+cell 40,66 is an obstacle
+cell 41,66 is valid
+cell 42,66 is valid
+cell 43,66 is valid
+cell 44,66 is an obstacle
+cell 45,66 is an obstacle
+cell 46,66 is valid
+cell 47,66 is valid
+cell 48,66 is valid
+cell 49,66 is an obstacle
+cell 50,66 is an obstacle
+cell 51,66 is valid
+cell 52,66 is valid
+cell 53,66 is valid
+cell 54,66 is an obstacle
+cell 55,66 is an obstacle
+cell 56,66 is valid
+cell 57,66 is valid
+cell 58,66 is valid
+cell 59,66 is valid
+cell 60,66 is valid
+cell 61,66 is valid
+cell 62,66 is valid
+cell 63,66 is valid
+cell 64,66 is an obstacle
+cell 0,67 is an obstacle
+cell 1,67 is valid
+cell 2,67 is valid
+cell 3,67 is valid
+cell 4,67 is valid
+cell 5,67 is valid
+cell 6,67 is valid
+cell 7,67 is valid
+cell 8,67 is valid
+cell 9,67 is an obstacle
+cell 10,67 is an obstacle
+cell 11,67 is valid
+cell 12,67 is valid
+cell 13,67 is valid
+cell 14,67 is an obstacle
+cell 15,67 is an obstacle
+cell 16,67 is valid
+cell 17,67 is valid
+cell 18,67 is valid
+cell 19,67 is an obstacle
+cell 20,67 is an obstacle
+cell 21,67 is valid
+cell 22,67 is valid
+cell 23,67 is valid
+cell 24,67 is an obstacle
+cell 25,67 is an obstacle
+cell 26,67 is valid
+cell 27,67 is valid
+cell 28,67 is valid
+cell 29,67 is an obstacle
+cell 30,67 is an obstacle
+cell 31,67 is valid
+cell 32,67 is valid
+cell 33,67 is valid
+cell 34,67 is an obstacle
+cell 35,67 is an obstacle
+cell 36,67 is valid
+cell 37,67 is valid
+cell 38,67 is valid
+cell 39,67 is an obstacle
+cell 40,67 is an obstacle
+cell 41,67 is valid
+cell 42,67 is valid
+cell 43,67 is valid
+cell 44,67 is an obstacle
+cell 45,67 is an obstacle
+cell 46,67 is valid
+cell 47,67 is valid
+cell 48,67 is valid
+cell 49,67 is an obstacle
+cell 50,67 is an obstacle
+cell 51,67 is valid
+cell 52,67 is valid
+cell 53,67 is valid
+cell 54,67 is an obstacle
+cell 55,67 is an obstacle
+cell 56,67 is valid
+cell 57,67 is valid
+cell 58,67 is valid
+cell 59,67 is valid
+cell 60,67 is valid
+cell 61,67 is valid
+cell 62,67 is valid
+cell 63,67 is valid
+cell 64,67 is an obstacle
+cell 0,68 is an obstacle
+cell 1,68 is valid
+cell 2,68 is valid
+cell 3,68 is valid
+cell 4,68 is valid
+cell 5,68 is valid
+cell 6,68 is valid
+cell 7,68 is valid
+cell 8,68 is valid
+cell 9,68 is an obstacle
+cell 10,68 is an obstacle
+cell 11,68 is valid
+cell 12,68 is valid
+cell 13,68 is valid
+cell 14,68 is an obstacle
+cell 15,68 is an obstacle
+cell 16,68 is valid
+cell 17,68 is valid
+cell 18,68 is valid
+cell 19,68 is an obstacle
+cell 20,68 is an obstacle
+cell 21,68 is valid
+cell 22,68 is valid
+cell 23,68 is valid
+cell 24,68 is an obstacle
+cell 25,68 is an obstacle
+cell 26,68 is valid
+cell 27,68 is valid
+cell 28,68 is valid
+cell 29,68 is an obstacle
+cell 30,68 is an obstacle
+cell 31,68 is valid
+cell 32,68 is valid
+cell 33,68 is valid
+cell 34,68 is an obstacle
+cell 35,68 is an obstacle
+cell 36,68 is valid
+cell 37,68 is valid
+cell 38,68 is valid
+cell 39,68 is an obstacle
+cell 40,68 is an obstacle
+cell 41,68 is valid
+cell 42,68 is valid
+cell 43,68 is valid
+cell 44,68 is an obstacle
+cell 45,68 is an obstacle
+cell 46,68 is valid
+cell 47,68 is valid
+cell 48,68 is valid
+cell 49,68 is an obstacle
+cell 50,68 is an obstacle
+cell 51,68 is valid
+cell 52,68 is valid
+cell 53,68 is valid
+cell 54,68 is an obstacle
+cell 55,68 is an obstacle
+cell 56,68 is valid
+cell 57,68 is valid
+cell 58,68 is valid
+cell 59,68 is valid
+cell 60,68 is valid
+cell 61,68 is valid
+cell 62,68 is valid
+cell 63,68 is valid
+cell 64,68 is an obstacle
+cell 0,69 is an obstacle
+cell 1,69 is valid
+cell 2,69 is valid
+cell 3,69 is valid
+cell 4,69 is valid
+cell 5,69 is valid
+cell 6,69 is valid
+cell 7,69 is valid
+cell 8,69 is valid
+cell 9,69 is an obstacle
+cell 10,69 is an obstacle
+cell 11,69 is valid
+cell 12,69 is valid
+cell 13,69 is valid
+cell 14,69 is an obstacle
+cell 15,69 is an obstacle
+cell 16,69 is valid
+cell 17,69 is valid
+cell 18,69 is valid
+cell 19,69 is an obstacle
+cell 20,69 is an obstacle
+cell 21,69 is valid
+cell 22,69 is valid
+cell 23,69 is valid
+cell 24,69 is an obstacle
+cell 25,69 is an obstacle
+cell 26,69 is valid
+cell 27,69 is valid
+cell 28,69 is valid
+cell 29,69 is an obstacle
+cell 30,69 is an obstacle
+cell 31,69 is valid
+cell 32,69 is valid
+cell 33,69 is valid
+cell 34,69 is an obstacle
+cell 35,69 is an obstacle
+cell 36,69 is valid
+cell 37,69 is valid
+cell 38,69 is valid
+cell 39,69 is an obstacle
+cell 40,69 is an obstacle
+cell 41,69 is valid
+cell 42,69 is valid
+cell 43,69 is valid
+cell 44,69 is an obstacle
+cell 45,69 is an obstacle
+cell 46,69 is valid
+cell 47,69 is valid
+cell 48,69 is valid
+cell 49,69 is an obstacle
+cell 50,69 is an obstacle
+cell 51,69 is valid
+cell 52,69 is valid
+cell 53,69 is valid
+cell 54,69 is an obstacle
+cell 55,69 is an obstacle
+cell 56,69 is valid
+cell 57,69 is valid
+cell 58,69 is valid
+cell 59,69 is valid
+cell 60,69 is valid
+cell 61,69 is valid
+cell 62,69 is valid
+cell 63,69 is valid
+cell 64,69 is an obstacle
+cell 0,70 is an obstacle
+cell 1,70 is valid
+cell 2,70 is valid
+cell 3,70 is valid
+cell 4,70 is valid
+cell 5,70 is valid
+cell 6,70 is valid
+cell 7,70 is valid
+cell 8,70 is valid
+cell 9,70 is an obstacle
+cell 10,70 is an obstacle
+cell 11,70 is valid
+cell 12,70 is valid
+cell 13,70 is valid
+cell 14,70 is an obstacle
+cell 15,70 is an obstacle
+cell 16,70 is valid
+cell 17,70 is valid
+cell 18,70 is valid
+cell 19,70 is an obstacle
+cell 20,70 is an obstacle
+cell 21,70 is valid
+cell 22,70 is valid
+cell 23,70 is valid
+cell 24,70 is an obstacle
+cell 25,70 is an obstacle
+cell 26,70 is valid
+cell 27,70 is valid
+cell 28,70 is valid
+cell 29,70 is an obstacle
+cell 30,70 is an obstacle
+cell 31,70 is valid
+cell 32,70 is valid
+cell 33,70 is valid
+cell 34,70 is an obstacle
+cell 35,70 is an obstacle
+cell 36,70 is valid
+cell 37,70 is valid
+cell 38,70 is valid
+cell 39,70 is an obstacle
+cell 40,70 is an obstacle
+cell 41,70 is valid
+cell 42,70 is valid
+cell 43,70 is valid
+cell 44,70 is an obstacle
+cell 45,70 is an obstacle
+cell 46,70 is valid
+cell 47,70 is valid
+cell 48,70 is valid
+cell 49,70 is an obstacle
+cell 50,70 is an obstacle
+cell 51,70 is valid
+cell 52,70 is valid
+cell 53,70 is valid
+cell 54,70 is an obstacle
+cell 55,70 is an obstacle
+cell 56,70 is valid
+cell 57,70 is valid
+cell 58,70 is valid
+cell 59,70 is valid
+cell 60,70 is valid
+cell 61,70 is valid
+cell 62,70 is valid
+cell 63,70 is valid
+cell 64,70 is an obstacle
+cell 0,71 is an obstacle
+cell 1,71 is valid
+cell 2,71 is valid
+cell 3,71 is valid
+cell 4,71 is valid
+cell 5,71 is valid
+cell 6,71 is valid
+cell 7,71 is valid
+cell 8,71 is valid
+cell 9,71 is an obstacle
+cell 10,71 is an obstacle
+cell 11,71 is valid
+cell 12,71 is valid
+cell 13,71 is valid
+cell 14,71 is an obstacle
+cell 15,71 is an obstacle
+cell 16,71 is valid
+cell 17,71 is valid
+cell 18,71 is valid
+cell 19,71 is an obstacle
+cell 20,71 is an obstacle
+cell 21,71 is valid
+cell 22,71 is valid
+cell 23,71 is valid
+cell 24,71 is an obstacle
+cell 25,71 is an obstacle
+cell 26,71 is valid
+cell 27,71 is valid
+cell 28,71 is valid
+cell 29,71 is an obstacle
+cell 30,71 is an obstacle
+cell 31,71 is valid
+cell 32,71 is valid
+cell 33,71 is valid
+cell 34,71 is an obstacle
+cell 35,71 is an obstacle
+cell 36,71 is valid
+cell 37,71 is valid
+cell 38,71 is valid
+cell 39,71 is an obstacle
+cell 40,71 is an obstacle
+cell 41,71 is valid
+cell 42,71 is valid
+cell 43,71 is valid
+cell 44,71 is an obstacle
+cell 45,71 is an obstacle
+cell 46,71 is valid
+cell 47,71 is valid
+cell 48,71 is valid
+cell 49,71 is an obstacle
+cell 50,71 is an obstacle
+cell 51,71 is valid
+cell 52,71 is valid
+cell 53,71 is valid
+cell 54,71 is an obstacle
+cell 55,71 is an obstacle
+cell 56,71 is valid
+cell 57,71 is valid
+cell 58,71 is valid
+cell 59,71 is valid
+cell 60,71 is valid
+cell 61,71 is valid
+cell 62,71 is valid
+cell 63,71 is valid
+cell 64,71 is an obstacle
+cell 0,72 is an obstacle
+cell 1,72 is valid
+cell 2,72 is valid
+cell 3,72 is valid
+cell 4,72 is valid
+cell 5,72 is valid
+cell 6,72 is valid
+cell 7,72 is valid
+cell 8,72 is valid
+cell 9,72 is an obstacle
+cell 10,72 is an obstacle
+cell 11,72 is valid
+cell 12,72 is valid
+cell 13,72 is valid
+cell 14,72 is an obstacle
+cell 15,72 is an obstacle
+cell 16,72 is valid
+cell 17,72 is valid
+cell 18,72 is valid
+cell 19,72 is an obstacle
+cell 20,72 is an obstacle
+cell 21,72 is valid
+cell 22,72 is valid
+cell 23,72 is valid
+cell 24,72 is an obstacle
+cell 25,72 is an obstacle
+cell 26,72 is valid
+cell 27,72 is valid
+cell 28,72 is valid
+cell 29,72 is an obstacle
+cell 30,72 is an obstacle
+cell 31,72 is valid
+cell 32,72 is valid
+cell 33,72 is valid
+cell 34,72 is an obstacle
+cell 35,72 is an obstacle
+cell 36,72 is valid
+cell 37,72 is valid
+cell 38,72 is valid
+cell 39,72 is an obstacle
+cell 40,72 is an obstacle
+cell 41,72 is valid
+cell 42,72 is valid
+cell 43,72 is valid
+cell 44,72 is an obstacle
+cell 45,72 is an obstacle
+cell 46,72 is valid
+cell 47,72 is valid
+cell 48,72 is valid
+cell 49,72 is an obstacle
+cell 50,72 is an obstacle
+cell 51,72 is valid
+cell 52,72 is valid
+cell 53,72 is valid
+cell 54,72 is an obstacle
+cell 55,72 is an obstacle
+cell 56,72 is valid
+cell 57,72 is valid
+cell 58,72 is valid
+cell 59,72 is valid
+cell 60,72 is valid
+cell 61,72 is valid
+cell 62,72 is valid
+cell 63,72 is valid
+cell 64,72 is an obstacle
+cell 0,73 is an obstacle
+cell 1,73 is valid
+cell 2,73 is valid
+cell 3,73 is valid
+cell 4,73 is valid
+cell 5,73 is valid
+cell 6,73 is valid
+cell 7,73 is valid
+cell 8,73 is valid
+cell 9,73 is an obstacle
+cell 10,73 is an obstacle
+cell 11,73 is valid
+cell 12,73 is valid
+cell 13,73 is valid
+cell 14,73 is an obstacle
+cell 15,73 is an obstacle
+cell 16,73 is valid
+cell 17,73 is valid
+cell 18,73 is valid
+cell 19,73 is an obstacle
+cell 20,73 is an obstacle
+cell 21,73 is valid
+cell 22,73 is valid
+cell 23,73 is valid
+cell 24,73 is an obstacle
+cell 25,73 is an obstacle
+cell 26,73 is valid
+cell 27,73 is valid
+cell 28,73 is valid
+cell 29,73 is an obstacle
+cell 30,73 is an obstacle
+cell 31,73 is valid
+cell 32,73 is valid
+cell 33,73 is valid
+cell 34,73 is an obstacle
+cell 35,73 is an obstacle
+cell 36,73 is valid
+cell 37,73 is valid
+cell 38,73 is valid
+cell 39,73 is an obstacle
+cell 40,73 is an obstacle
+cell 41,73 is valid
+cell 42,73 is valid
+cell 43,73 is valid
+cell 44,73 is an obstacle
+cell 45,73 is an obstacle
+cell 46,73 is valid
+cell 47,73 is valid
+cell 48,73 is valid
+cell 49,73 is an obstacle
+cell 50,73 is an obstacle
+cell 51,73 is valid
+cell 52,73 is valid
+cell 53,73 is valid
+cell 54,73 is an obstacle
+cell 55,73 is an obstacle
+cell 56,73 is valid
+cell 57,73 is valid
+cell 58,73 is valid
+cell 59,73 is valid
+cell 60,73 is valid
+cell 61,73 is valid
+cell 62,73 is valid
+cell 63,73 is valid
+cell 64,73 is an obstacle
+cell 0,74 is an obstacle
+cell 1,74 is valid
+cell 2,74 is valid
+cell 3,74 is valid
+cell 4,74 is valid
+cell 5,74 is valid
+cell 6,74 is valid
+cell 7,74 is valid
+cell 8,74 is valid
+cell 9,74 is an obstacle
+cell 10,74 is an obstacle
+cell 11,74 is valid
+cell 12,74 is valid
+cell 13,74 is valid
+cell 14,74 is an obstacle
+cell 15,74 is an obstacle
+cell 16,74 is valid
+cell 17,74 is valid
+cell 18,74 is valid
+cell 19,74 is an obstacle
+cell 20,74 is an obstacle
+cell 21,74 is valid
+cell 22,74 is valid
+cell 23,74 is valid
+cell 24,74 is an obstacle
+cell 25,74 is an obstacle
+cell 26,74 is valid
+cell 27,74 is valid
+cell 28,74 is valid
+cell 29,74 is an obstacle
+cell 30,74 is an obstacle
+cell 31,74 is valid
+cell 32,74 is valid
+cell 33,74 is valid
+cell 34,74 is an obstacle
+cell 35,74 is an obstacle
+cell 36,74 is valid
+cell 37,74 is valid
+cell 38,74 is valid
+cell 39,74 is an obstacle
+cell 40,74 is an obstacle
+cell 41,74 is valid
+cell 42,74 is valid
+cell 43,74 is valid
+cell 44,74 is an obstacle
+cell 45,74 is an obstacle
+cell 46,74 is valid
+cell 47,74 is valid
+cell 48,74 is valid
+cell 49,74 is an obstacle
+cell 50,74 is an obstacle
+cell 51,74 is valid
+cell 52,74 is valid
+cell 53,74 is valid
+cell 54,74 is an obstacle
+cell 55,74 is an obstacle
+cell 56,74 is valid
+cell 57,74 is valid
+cell 58,74 is valid
+cell 59,74 is valid
+cell 60,74 is valid
+cell 61,74 is valid
+cell 62,74 is valid
+cell 63,74 is valid
+cell 64,74 is an obstacle
+cell 0,75 is an obstacle
+cell 1,75 is valid
+cell 2,75 is valid
+cell 3,75 is valid
+cell 4,75 is valid
+cell 5,75 is valid
+cell 6,75 is valid
+cell 7,75 is valid
+cell 8,75 is valid
+cell 9,75 is an obstacle
+cell 10,75 is an obstacle
+cell 11,75 is valid
+cell 12,75 is valid
+cell 13,75 is valid
+cell 14,75 is an obstacle
+cell 15,75 is an obstacle
+cell 16,75 is valid
+cell 17,75 is valid
+cell 18,75 is valid
+cell 19,75 is an obstacle
+cell 20,75 is an obstacle
+cell 21,75 is valid
+cell 22,75 is valid
+cell 23,75 is valid
+cell 24,75 is an obstacle
+cell 25,75 is an obstacle
+cell 26,75 is valid
+cell 27,75 is valid
+cell 28,75 is valid
+cell 29,75 is an obstacle
+cell 30,75 is an obstacle
+cell 31,75 is valid
+cell 32,75 is valid
+cell 33,75 is valid
+cell 34,75 is an obstacle
+cell 35,75 is an obstacle
+cell 36,75 is valid
+cell 37,75 is valid
+cell 38,75 is valid
+cell 39,75 is an obstacle
+cell 40,75 is an obstacle
+cell 41,75 is valid
+cell 42,75 is valid
+cell 43,75 is valid
+cell 44,75 is an obstacle
+cell 45,75 is an obstacle
+cell 46,75 is valid
+cell 47,75 is valid
+cell 48,75 is valid
+cell 49,75 is an obstacle
+cell 50,75 is an obstacle
+cell 51,75 is valid
+cell 52,75 is valid
+cell 53,75 is valid
+cell 54,75 is an obstacle
+cell 55,75 is an obstacle
+cell 56,75 is valid
+cell 57,75 is valid
+cell 58,75 is valid
+cell 59,75 is valid
+cell 60,75 is valid
+cell 61,75 is valid
+cell 62,75 is valid
+cell 63,75 is valid
+cell 64,75 is an obstacle
+cell 0,76 is an obstacle
+cell 1,76 is valid
+cell 2,76 is valid
+cell 3,76 is valid
+cell 4,76 is valid
+cell 5,76 is valid
+cell 6,76 is valid
+cell 7,76 is valid
+cell 8,76 is valid
+cell 9,76 is an obstacle
+cell 10,76 is an obstacle
+cell 11,76 is valid
+cell 12,76 is valid
+cell 13,76 is valid
+cell 14,76 is an obstacle
+cell 15,76 is an obstacle
+cell 16,76 is valid
+cell 17,76 is valid
+cell 18,76 is valid
+cell 19,76 is an obstacle
+cell 20,76 is an obstacle
+cell 21,76 is valid
+cell 22,76 is valid
+cell 23,76 is valid
+cell 24,76 is an obstacle
+cell 25,76 is an obstacle
+cell 26,76 is valid
+cell 27,76 is valid
+cell 28,76 is valid
+cell 29,76 is an obstacle
+cell 30,76 is an obstacle
+cell 31,76 is valid
+cell 32,76 is valid
+cell 33,76 is valid
+cell 34,76 is an obstacle
+cell 35,76 is an obstacle
+cell 36,76 is valid
+cell 37,76 is valid
+cell 38,76 is valid
+cell 39,76 is an obstacle
+cell 40,76 is an obstacle
+cell 41,76 is valid
+cell 42,76 is valid
+cell 43,76 is valid
+cell 44,76 is an obstacle
+cell 45,76 is an obstacle
+cell 46,76 is valid
+cell 47,76 is valid
+cell 48,76 is valid
+cell 49,76 is an obstacle
+cell 50,76 is an obstacle
+cell 51,76 is valid
+cell 52,76 is valid
+cell 53,76 is valid
+cell 54,76 is an obstacle
+cell 55,76 is an obstacle
+cell 56,76 is valid
+cell 57,76 is valid
+cell 58,76 is valid
+cell 59,76 is valid
+cell 60,76 is valid
+cell 61,76 is valid
+cell 62,76 is valid
+cell 63,76 is valid
+cell 64,76 is an obstacle
+cell 0,77 is an obstacle
+cell 1,77 is valid
+cell 2,77 is valid
+cell 3,77 is valid
+cell 4,77 is valid
+cell 5,77 is valid
+cell 6,77 is valid
+cell 7,77 is valid
+cell 8,77 is valid
+cell 9,77 is an obstacle
+cell 10,77 is an obstacle
+cell 11,77 is valid
+cell 12,77 is valid
+cell 13,77 is valid
+cell 14,77 is an obstacle
+cell 15,77 is an obstacle
+cell 16,77 is valid
+cell 17,77 is valid
+cell 18,77 is valid
+cell 19,77 is an obstacle
+cell 20,77 is an obstacle
+cell 21,77 is valid
+cell 22,77 is valid
+cell 23,77 is valid
+cell 24,77 is an obstacle
+cell 25,77 is an obstacle
+cell 26,77 is valid
+cell 27,77 is valid
+cell 28,77 is valid
+cell 29,77 is an obstacle
+cell 30,77 is an obstacle
+cell 31,77 is valid
+cell 32,77 is valid
+cell 33,77 is valid
+cell 34,77 is an obstacle
+cell 35,77 is an obstacle
+cell 36,77 is valid
+cell 37,77 is valid
+cell 38,77 is valid
+cell 39,77 is an obstacle
+cell 40,77 is an obstacle
+cell 41,77 is valid
+cell 42,77 is valid
+cell 43,77 is valid
+cell 44,77 is an obstacle
+cell 45,77 is an obstacle
+cell 46,77 is valid
+cell 47,77 is valid
+cell 48,77 is valid
+cell 49,77 is an obstacle
+cell 50,77 is an obstacle
+cell 51,77 is valid
+cell 52,77 is valid
+cell 53,77 is valid
+cell 54,77 is an obstacle
+cell 55,77 is an obstacle
+cell 56,77 is valid
+cell 57,77 is valid
+cell 58,77 is valid
+cell 59,77 is valid
+cell 60,77 is valid
+cell 61,77 is valid
+cell 62,77 is valid
+cell 63,77 is valid
+cell 64,77 is an obstacle
+cell 0,78 is an obstacle
+cell 1,78 is valid
+cell 2,78 is valid
+cell 3,78 is valid
+cell 4,78 is valid
+cell 5,78 is valid
+cell 6,78 is valid
+cell 7,78 is valid
+cell 8,78 is valid
+cell 9,78 is an obstacle
+cell 10,78 is an obstacle
+cell 11,78 is valid
+cell 12,78 is valid
+cell 13,78 is valid
+cell 14,78 is an obstacle
+cell 15,78 is an obstacle
+cell 16,78 is valid
+cell 17,78 is valid
+cell 18,78 is valid
+cell 19,78 is an obstacle
+cell 20,78 is an obstacle
+cell 21,78 is valid
+cell 22,78 is valid
+cell 23,78 is valid
+cell 24,78 is an obstacle
+cell 25,78 is an obstacle
+cell 26,78 is valid
+cell 27,78 is valid
+cell 28,78 is valid
+cell 29,78 is an obstacle
+cell 30,78 is an obstacle
+cell 31,78 is valid
+cell 32,78 is valid
+cell 33,78 is valid
+cell 34,78 is an obstacle
+cell 35,78 is an obstacle
+cell 36,78 is valid
+cell 37,78 is valid
+cell 38,78 is valid
+cell 39,78 is an obstacle
+cell 40,78 is an obstacle
+cell 41,78 is valid
+cell 42,78 is valid
+cell 43,78 is valid
+cell 44,78 is an obstacle
+cell 45,78 is an obstacle
+cell 46,78 is valid
+cell 47,78 is valid
+cell 48,78 is valid
+cell 49,78 is an obstacle
+cell 50,78 is an obstacle
+cell 51,78 is valid
+cell 52,78 is valid
+cell 53,78 is valid
+cell 54,78 is an obstacle
+cell 55,78 is an obstacle
+cell 56,78 is valid
+cell 57,78 is valid
+cell 58,78 is valid
+cell 59,78 is valid
+cell 60,78 is valid
+cell 61,78 is valid
+cell 62,78 is valid
+cell 63,78 is valid
+cell 64,78 is an obstacle
+cell 0,79 is an obstacle
+cell 1,79 is valid
+cell 2,79 is valid
+cell 3,79 is valid
+cell 4,79 is valid
+cell 5,79 is valid
+cell 6,79 is valid
+cell 7,79 is valid
+cell 8,79 is valid
+cell 9,79 is an obstacle
+cell 10,79 is an obstacle
+cell 11,79 is valid
+cell 12,79 is valid
+cell 13,79 is valid
+cell 14,79 is an obstacle
+cell 15,79 is an obstacle
+cell 16,79 is valid
+cell 17,79 is valid
+cell 18,79 is valid
+cell 19,79 is an obstacle
+cell 20,79 is an obstacle
+cell 21,79 is valid
+cell 22,79 is valid
+cell 23,79 is valid
+cell 24,79 is an obstacle
+cell 25,79 is an obstacle
+cell 26,79 is valid
+cell 27,79 is valid
+cell 28,79 is valid
+cell 29,79 is an obstacle
+cell 30,79 is an obstacle
+cell 31,79 is valid
+cell 32,79 is valid
+cell 33,79 is valid
+cell 34,79 is an obstacle
+cell 35,79 is an obstacle
+cell 36,79 is valid
+cell 37,79 is valid
+cell 38,79 is valid
+cell 39,79 is an obstacle
+cell 40,79 is an obstacle
+cell 41,79 is valid
+cell 42,79 is valid
+cell 43,79 is valid
+cell 44,79 is an obstacle
+cell 45,79 is an obstacle
+cell 46,79 is valid
+cell 47,79 is valid
+cell 48,79 is valid
+cell 49,79 is an obstacle
+cell 50,79 is an obstacle
+cell 51,79 is valid
+cell 52,79 is valid
+cell 53,79 is valid
+cell 54,79 is an obstacle
+cell 55,79 is an obstacle
+cell 56,79 is valid
+cell 57,79 is valid
+cell 58,79 is valid
+cell 59,79 is valid
+cell 60,79 is valid
+cell 61,79 is valid
+cell 62,79 is valid
+cell 63,79 is valid
+cell 64,79 is an obstacle
+cell 0,80 is an obstacle
+cell 1,80 is valid
+cell 2,80 is valid
+cell 3,80 is valid
+cell 4,80 is valid
+cell 5,80 is valid
+cell 6,80 is valid
+cell 7,80 is valid
+cell 8,80 is valid
+cell 9,80 is an obstacle
+cell 10,80 is an obstacle
+cell 11,80 is valid
+cell 12,80 is valid
+cell 13,80 is valid
+cell 14,80 is an obstacle
+cell 15,80 is an obstacle
+cell 16,80 is valid
+cell 17,80 is valid
+cell 18,80 is valid
+cell 19,80 is an obstacle
+cell 20,80 is an obstacle
+cell 21,80 is valid
+cell 22,80 is valid
+cell 23,80 is valid
+cell 24,80 is an obstacle
+cell 25,80 is an obstacle
+cell 26,80 is valid
+cell 27,80 is valid
+cell 28,80 is valid
+cell 29,80 is an obstacle
+cell 30,80 is an obstacle
+cell 31,80 is valid
+cell 32,80 is valid
+cell 33,80 is valid
+cell 34,80 is an obstacle
+cell 35,80 is an obstacle
+cell 36,80 is valid
+cell 37,80 is valid
+cell 38,80 is valid
+cell 39,80 is an obstacle
+cell 40,80 is an obstacle
+cell 41,80 is valid
+cell 42,80 is valid
+cell 43,80 is valid
+cell 44,80 is an obstacle
+cell 45,80 is an obstacle
+cell 46,80 is valid
+cell 47,80 is valid
+cell 48,80 is valid
+cell 49,80 is an obstacle
+cell 50,80 is an obstacle
+cell 51,80 is valid
+cell 52,80 is valid
+cell 53,80 is valid
+cell 54,80 is an obstacle
+cell 55,80 is an obstacle
+cell 56,80 is valid
+cell 57,80 is valid
+cell 58,80 is valid
+cell 59,80 is valid
+cell 60,80 is valid
+cell 61,80 is valid
+cell 62,80 is valid
+cell 63,80 is valid
+cell 64,80 is an obstacle
+cell 0,81 is an obstacle
+cell 1,81 is valid
+cell 2,81 is valid
+cell 3,81 is valid
+cell 4,81 is valid
+cell 5,81 is valid
+cell 6,81 is valid
+cell 7,81 is valid
+cell 8,81 is valid
+cell 9,81 is an obstacle
+cell 10,81 is an obstacle
+cell 11,81 is valid
+cell 12,81 is valid
+cell 13,81 is valid
+cell 14,81 is an obstacle
+cell 15,81 is an obstacle
+cell 16,81 is valid
+cell 17,81 is valid
+cell 18,81 is valid
+cell 19,81 is an obstacle
+cell 20,81 is an obstacle
+cell 21,81 is valid
+cell 22,81 is valid
+cell 23,81 is valid
+cell 24,81 is an obstacle
+cell 25,81 is an obstacle
+cell 26,81 is valid
+cell 27,81 is valid
+cell 28,81 is valid
+cell 29,81 is an obstacle
+cell 30,81 is an obstacle
+cell 31,81 is valid
+cell 32,81 is valid
+cell 33,81 is valid
+cell 34,81 is an obstacle
+cell 35,81 is an obstacle
+cell 36,81 is valid
+cell 37,81 is valid
+cell 38,81 is valid
+cell 39,81 is an obstacle
+cell 40,81 is an obstacle
+cell 41,81 is valid
+cell 42,81 is valid
+cell 43,81 is valid
+cell 44,81 is an obstacle
+cell 45,81 is an obstacle
+cell 46,81 is valid
+cell 47,81 is valid
+cell 48,81 is valid
+cell 49,81 is an obstacle
+cell 50,81 is an obstacle
+cell 51,81 is valid
+cell 52,81 is valid
+cell 53,81 is valid
+cell 54,81 is an obstacle
+cell 55,81 is an obstacle
+cell 56,81 is valid
+cell 57,81 is valid
+cell 58,81 is valid
+cell 59,81 is valid
+cell 60,81 is valid
+cell 61,81 is valid
+cell 62,81 is valid
+cell 63,81 is valid
+cell 64,81 is an obstacle
+cell 0,82 is an obstacle
+cell 1,82 is valid
+cell 2,82 is valid
+cell 3,82 is valid
+cell 4,82 is valid
+cell 5,82 is valid
+cell 6,82 is valid
+cell 7,82 is valid
+cell 8,82 is valid
+cell 9,82 is an obstacle
+cell 10,82 is an obstacle
+cell 11,82 is valid
+cell 12,82 is valid
+cell 13,82 is valid
+cell 14,82 is an obstacle
+cell 15,82 is an obstacle
+cell 16,82 is valid
+cell 17,82 is valid
+cell 18,82 is valid
+cell 19,82 is an obstacle
+cell 20,82 is an obstacle
+cell 21,82 is valid
+cell 22,82 is valid
+cell 23,82 is valid
+cell 24,82 is an obstacle
+cell 25,82 is an obstacle
+cell 26,82 is valid
+cell 27,82 is valid
+cell 28,82 is valid
+cell 29,82 is an obstacle
+cell 30,82 is an obstacle
+cell 31,82 is valid
+cell 32,82 is valid
+cell 33,82 is valid
+cell 34,82 is an obstacle
+cell 35,82 is an obstacle
+cell 36,82 is valid
+cell 37,82 is valid
+cell 38,82 is valid
+cell 39,82 is an obstacle
+cell 40,82 is an obstacle
+cell 41,82 is valid
+cell 42,82 is valid
+cell 43,82 is valid
+cell 44,82 is an obstacle
+cell 45,82 is an obstacle
+cell 46,82 is valid
+cell 47,82 is valid
+cell 48,82 is valid
+cell 49,82 is an obstacle
+cell 50,82 is an obstacle
+cell 51,82 is valid
+cell 52,82 is valid
+cell 53,82 is valid
+cell 54,82 is an obstacle
+cell 55,82 is an obstacle
+cell 56,82 is valid
+cell 57,82 is valid
+cell 58,82 is valid
+cell 59,82 is valid
+cell 60,82 is valid
+cell 61,82 is valid
+cell 62,82 is valid
+cell 63,82 is valid
+cell 64,82 is an obstacle
+cell 0,83 is an obstacle
+cell 1,83 is valid
+cell 2,83 is valid
+cell 3,83 is valid
+cell 4,83 is valid
+cell 5,83 is valid
+cell 6,83 is valid
+cell 7,83 is valid
+cell 8,83 is valid
+cell 9,83 is an obstacle
+cell 10,83 is an obstacle
+cell 11,83 is valid
+cell 12,83 is valid
+cell 13,83 is valid
+cell 14,83 is an obstacle
+cell 15,83 is an obstacle
+cell 16,83 is valid
+cell 17,83 is valid
+cell 18,83 is valid
+cell 19,83 is an obstacle
+cell 20,83 is an obstacle
+cell 21,83 is valid
+cell 22,83 is valid
+cell 23,83 is valid
+cell 24,83 is an obstacle
+cell 25,83 is an obstacle
+cell 26,83 is valid
+cell 27,83 is valid
+cell 28,83 is valid
+cell 29,83 is an obstacle
+cell 30,83 is an obstacle
+cell 31,83 is valid
+cell 32,83 is valid
+cell 33,83 is valid
+cell 34,83 is an obstacle
+cell 35,83 is an obstacle
+cell 36,83 is valid
+cell 37,83 is valid
+cell 38,83 is valid
+cell 39,83 is an obstacle
+cell 40,83 is an obstacle
+cell 41,83 is valid
+cell 42,83 is valid
+cell 43,83 is valid
+cell 44,83 is an obstacle
+cell 45,83 is an obstacle
+cell 46,83 is valid
+cell 47,83 is valid
+cell 48,83 is valid
+cell 49,83 is an obstacle
+cell 50,83 is an obstacle
+cell 51,83 is valid
+cell 52,83 is valid
+cell 53,83 is valid
+cell 54,83 is an obstacle
+cell 55,83 is an obstacle
+cell 56,83 is valid
+cell 57,83 is valid
+cell 58,83 is valid
+cell 59,83 is valid
+cell 60,83 is valid
+cell 61,83 is valid
+cell 62,83 is valid
+cell 63,83 is valid
+cell 64,83 is an obstacle
+cell 0,84 is an obstacle
+cell 1,84 is valid
+cell 2,84 is valid
+cell 3,84 is valid
+cell 4,84 is valid
+cell 5,84 is valid
+cell 6,84 is valid
+cell 7,84 is valid
+cell 8,84 is valid
+cell 9,84 is an obstacle
+cell 10,84 is an obstacle
+cell 11,84 is valid
+cell 12,84 is valid
+cell 13,84 is valid
+cell 14,84 is an obstacle
+cell 15,84 is an obstacle
+cell 16,84 is valid
+cell 17,84 is valid
+cell 18,84 is valid
+cell 19,84 is an obstacle
+cell 20,84 is an obstacle
+cell 21,84 is valid
+cell 22,84 is valid
+cell 23,84 is valid
+cell 24,84 is an obstacle
+cell 25,84 is an obstacle
+cell 26,84 is valid
+cell 27,84 is valid
+cell 28,84 is valid
+cell 29,84 is an obstacle
+cell 30,84 is an obstacle
+cell 31,84 is valid
+cell 32,84 is valid
+cell 33,84 is valid
+cell 34,84 is an obstacle
+cell 35,84 is an obstacle
+cell 36,84 is valid
+cell 37,84 is valid
+cell 38,84 is valid
+cell 39,84 is an obstacle
+cell 40,84 is an obstacle
+cell 41,84 is valid
+cell 42,84 is valid
+cell 43,84 is valid
+cell 44,84 is an obstacle
+cell 45,84 is an obstacle
+cell 46,84 is valid
+cell 47,84 is valid
+cell 48,84 is valid
+cell 49,84 is an obstacle
+cell 50,84 is an obstacle
+cell 51,84 is valid
+cell 52,84 is valid
+cell 53,84 is valid
+cell 54,84 is an obstacle
+cell 55,84 is an obstacle
+cell 56,84 is valid
+cell 57,84 is valid
+cell 58,84 is valid
+cell 59,84 is valid
+cell 60,84 is valid
+cell 61,84 is valid
+cell 62,84 is valid
+cell 63,84 is valid
+cell 64,84 is an obstacle
+cell 0,85 is an obstacle
+cell 1,85 is valid
+cell 2,85 is valid
+cell 3,85 is valid
+cell 4,85 is valid
+cell 5,85 is valid
+cell 6,85 is valid
+cell 7,85 is valid
+cell 8,85 is valid
+cell 9,85 is an obstacle
+cell 10,85 is an obstacle
+cell 11,85 is valid
+cell 12,85 is valid
+cell 13,85 is valid
+cell 14,85 is an obstacle
+cell 15,85 is an obstacle
+cell 16,85 is valid
+cell 17,85 is valid
+cell 18,85 is valid
+cell 19,85 is an obstacle
+cell 20,85 is an obstacle
+cell 21,85 is valid
+cell 22,85 is valid
+cell 23,85 is valid
+cell 24,85 is an obstacle
+cell 25,85 is an obstacle
+cell 26,85 is valid
+cell 27,85 is valid
+cell 28,85 is valid
+cell 29,85 is an obstacle
+cell 30,85 is an obstacle
+cell 31,85 is valid
+cell 32,85 is valid
+cell 33,85 is valid
+cell 34,85 is an obstacle
+cell 35,85 is an obstacle
+cell 36,85 is valid
+cell 37,85 is valid
+cell 38,85 is valid
+cell 39,85 is an obstacle
+cell 40,85 is an obstacle
+cell 41,85 is valid
+cell 42,85 is valid
+cell 43,85 is valid
+cell 44,85 is an obstacle
+cell 45,85 is an obstacle
+cell 46,85 is valid
+cell 47,85 is valid
+cell 48,85 is valid
+cell 49,85 is an obstacle
+cell 50,85 is an obstacle
+cell 51,85 is valid
+cell 52,85 is valid
+cell 53,85 is valid
+cell 54,85 is an obstacle
+cell 55,85 is an obstacle
+cell 56,85 is valid
+cell 57,85 is valid
+cell 58,85 is valid
+cell 59,85 is valid
+cell 60,85 is valid
+cell 61,85 is valid
+cell 62,85 is valid
+cell 63,85 is valid
+cell 64,85 is an obstacle
+cell 0,86 is an obstacle
+cell 1,86 is valid
+cell 2,86 is valid
+cell 3,86 is valid
+cell 4,86 is valid
+cell 5,86 is valid
+cell 6,86 is valid
+cell 7,86 is valid
+cell 8,86 is valid
+cell 9,86 is an obstacle
+cell 10,86 is an obstacle
+cell 11,86 is valid
+cell 12,86 is valid
+cell 13,86 is valid
+cell 14,86 is an obstacle
+cell 15,86 is an obstacle
+cell 16,86 is valid
+cell 17,86 is valid
+cell 18,86 is valid
+cell 19,86 is an obstacle
+cell 20,86 is an obstacle
+cell 21,86 is valid
+cell 22,86 is valid
+cell 23,86 is valid
+cell 24,86 is an obstacle
+cell 25,86 is an obstacle
+cell 26,86 is valid
+cell 27,86 is valid
+cell 28,86 is valid
+cell 29,86 is an obstacle
+cell 30,86 is an obstacle
+cell 31,86 is valid
+cell 32,86 is valid
+cell 33,86 is valid
+cell 34,86 is an obstacle
+cell 35,86 is an obstacle
+cell 36,86 is valid
+cell 37,86 is valid
+cell 38,86 is valid
+cell 39,86 is an obstacle
+cell 40,86 is an obstacle
+cell 41,86 is valid
+cell 42,86 is valid
+cell 43,86 is valid
+cell 44,86 is an obstacle
+cell 45,86 is an obstacle
+cell 46,86 is valid
+cell 47,86 is valid
+cell 48,86 is valid
+cell 49,86 is an obstacle
+cell 50,86 is an obstacle
+cell 51,86 is valid
+cell 52,86 is valid
+cell 53,86 is valid
+cell 54,86 is an obstacle
+cell 55,86 is an obstacle
+cell 56,86 is valid
+cell 57,86 is valid
+cell 58,86 is valid
+cell 59,86 is valid
+cell 60,86 is valid
+cell 61,86 is valid
+cell 62,86 is valid
+cell 63,86 is valid
+cell 64,86 is an obstacle
+cell 0,87 is an obstacle
+cell 1,87 is valid
+cell 2,87 is valid
+cell 3,87 is valid
+cell 4,87 is valid
+cell 5,87 is valid
+cell 6,87 is valid
+cell 7,87 is valid
+cell 8,87 is valid
+cell 9,87 is an obstacle
+cell 10,87 is an obstacle
+cell 11,87 is valid
+cell 12,87 is valid
+cell 13,87 is valid
+cell 14,87 is an obstacle
+cell 15,87 is an obstacle
+cell 16,87 is valid
+cell 17,87 is valid
+cell 18,87 is valid
+cell 19,87 is an obstacle
+cell 20,87 is an obstacle
+cell 21,87 is valid
+cell 22,87 is valid
+cell 23,87 is valid
+cell 24,87 is an obstacle
+cell 25,87 is an obstacle
+cell 26,87 is valid
+cell 27,87 is valid
+cell 28,87 is valid
+cell 29,87 is an obstacle
+cell 30,87 is an obstacle
+cell 31,87 is valid
+cell 32,87 is valid
+cell 33,87 is valid
+cell 34,87 is an obstacle
+cell 35,87 is an obstacle
+cell 36,87 is valid
+cell 37,87 is valid
+cell 38,87 is valid
+cell 39,87 is an obstacle
+cell 40,87 is an obstacle
+cell 41,87 is valid
+cell 42,87 is valid
+cell 43,87 is valid
+cell 44,87 is an obstacle
+cell 45,87 is an obstacle
+cell 46,87 is valid
+cell 47,87 is valid
+cell 48,87 is valid
+cell 49,87 is an obstacle
+cell 50,87 is an obstacle
+cell 51,87 is valid
+cell 52,87 is valid
+cell 53,87 is valid
+cell 54,87 is an obstacle
+cell 55,87 is an obstacle
+cell 56,87 is valid
+cell 57,87 is valid
+cell 58,87 is valid
+cell 59,87 is valid
+cell 60,87 is valid
+cell 61,87 is valid
+cell 62,87 is valid
+cell 63,87 is valid
+cell 64,87 is an obstacle
+cell 0,88 is an obstacle
+cell 1,88 is valid
+cell 2,88 is valid
+cell 3,88 is valid
+cell 4,88 is valid
+cell 5,88 is valid
+cell 6,88 is valid
+cell 7,88 is valid
+cell 8,88 is valid
+cell 9,88 is an obstacle
+cell 10,88 is an obstacle
+cell 11,88 is valid
+cell 12,88 is valid
+cell 13,88 is valid
+cell 14,88 is an obstacle
+cell 15,88 is an obstacle
+cell 16,88 is valid
+cell 17,88 is valid
+cell 18,88 is valid
+cell 19,88 is an obstacle
+cell 20,88 is an obstacle
+cell 21,88 is valid
+cell 22,88 is valid
+cell 23,88 is valid
+cell 24,88 is an obstacle
+cell 25,88 is an obstacle
+cell 26,88 is valid
+cell 27,88 is valid
+cell 28,88 is valid
+cell 29,88 is an obstacle
+cell 30,88 is an obstacle
+cell 31,88 is valid
+cell 32,88 is valid
+cell 33,88 is valid
+cell 34,88 is an obstacle
+cell 35,88 is an obstacle
+cell 36,88 is valid
+cell 37,88 is valid
+cell 38,88 is valid
+cell 39,88 is an obstacle
+cell 40,88 is an obstacle
+cell 41,88 is valid
+cell 42,88 is valid
+cell 43,88 is valid
+cell 44,88 is an obstacle
+cell 45,88 is an obstacle
+cell 46,88 is valid
+cell 47,88 is valid
+cell 48,88 is valid
+cell 49,88 is an obstacle
+cell 50,88 is an obstacle
+cell 51,88 is valid
+cell 52,88 is valid
+cell 53,88 is valid
+cell 54,88 is an obstacle
+cell 55,88 is an obstacle
+cell 56,88 is valid
+cell 57,88 is valid
+cell 58,88 is valid
+cell 59,88 is valid
+cell 60,88 is valid
+cell 61,88 is valid
+cell 62,88 is valid
+cell 63,88 is valid
+cell 64,88 is an obstacle
+cell 0,89 is an obstacle
+cell 1,89 is valid
+cell 2,89 is valid
+cell 3,89 is valid
+cell 4,89 is valid
+cell 5,89 is valid
+cell 6,89 is valid
+cell 7,89 is valid
+cell 8,89 is valid
+cell 9,89 is an obstacle
+cell 10,89 is an obstacle
+cell 11,89 is valid
+cell 12,89 is valid
+cell 13,89 is valid
+cell 14,89 is an obstacle
+cell 15,89 is an obstacle
+cell 16,89 is valid
+cell 17,89 is valid
+cell 18,89 is valid
+cell 19,89 is an obstacle
+cell 20,89 is an obstacle
+cell 21,89 is valid
+cell 22,89 is valid
+cell 23,89 is valid
+cell 24,89 is an obstacle
+cell 25,89 is an obstacle
+cell 26,89 is valid
+cell 27,89 is valid
+cell 28,89 is valid
+cell 29,89 is an obstacle
+cell 30,89 is an obstacle
+cell 31,89 is valid
+cell 32,89 is valid
+cell 33,89 is valid
+cell 34,89 is an obstacle
+cell 35,89 is an obstacle
+cell 36,89 is valid
+cell 37,89 is valid
+cell 38,89 is valid
+cell 39,89 is an obstacle
+cell 40,89 is an obstacle
+cell 41,89 is valid
+cell 42,89 is valid
+cell 43,89 is valid
+cell 44,89 is an obstacle
+cell 45,89 is an obstacle
+cell 46,89 is valid
+cell 47,89 is valid
+cell 48,89 is valid
+cell 49,89 is an obstacle
+cell 50,89 is an obstacle
+cell 51,89 is valid
+cell 52,89 is valid
+cell 53,89 is valid
+cell 54,89 is an obstacle
+cell 55,89 is an obstacle
+cell 56,89 is valid
+cell 57,89 is valid
+cell 58,89 is valid
+cell 59,89 is valid
+cell 60,89 is valid
+cell 61,89 is valid
+cell 62,89 is valid
+cell 63,89 is valid
+cell 64,89 is an obstacle
+cell 0,90 is an obstacle
+cell 1,90 is valid
+cell 2,90 is valid
+cell 3,90 is valid
+cell 4,90 is valid
+cell 5,90 is valid
+cell 6,90 is valid
+cell 7,90 is valid
+cell 8,90 is valid
+cell 9,90 is an obstacle
+cell 10,90 is an obstacle
+cell 11,90 is valid
+cell 12,90 is valid
+cell 13,90 is valid
+cell 14,90 is an obstacle
+cell 15,90 is an obstacle
+cell 16,90 is valid
+cell 17,90 is valid
+cell 18,90 is valid
+cell 19,90 is an obstacle
+cell 20,90 is an obstacle
+cell 21,90 is valid
+cell 22,90 is valid
+cell 23,90 is valid
+cell 24,90 is an obstacle
+cell 25,90 is an obstacle
+cell 26,90 is valid
+cell 27,90 is valid
+cell 28,90 is valid
+cell 29,90 is an obstacle
+cell 30,90 is an obstacle
+cell 31,90 is valid
+cell 32,90 is valid
+cell 33,90 is valid
+cell 34,90 is an obstacle
+cell 35,90 is an obstacle
+cell 36,90 is valid
+cell 37,90 is valid
+cell 38,90 is valid
+cell 39,90 is an obstacle
+cell 40,90 is an obstacle
+cell 41,90 is valid
+cell 42,90 is valid
+cell 43,90 is valid
+cell 44,90 is an obstacle
+cell 45,90 is an obstacle
+cell 46,90 is valid
+cell 47,90 is valid
+cell 48,90 is valid
+cell 49,90 is an obstacle
+cell 50,90 is an obstacle
+cell 51,90 is valid
+cell 52,90 is valid
+cell 53,90 is valid
+cell 54,90 is an obstacle
+cell 55,90 is an obstacle
+cell 56,90 is valid
+cell 57,90 is valid
+cell 58,90 is valid
+cell 59,90 is valid
+cell 60,90 is valid
+cell 61,90 is valid
+cell 62,90 is valid
+cell 63,90 is valid
+cell 64,90 is an obstacle
+cell 0,91 is an obstacle
+cell 1,91 is valid
+cell 2,91 is valid
+cell 3,91 is valid
+cell 4,91 is valid
+cell 5,91 is valid
+cell 6,91 is valid
+cell 7,91 is valid
+cell 8,91 is valid
+cell 9,91 is an obstacle
+cell 10,91 is an obstacle
+cell 11,91 is valid
+cell 12,91 is valid
+cell 13,91 is valid
+cell 14,91 is an obstacle
+cell 15,91 is an obstacle
+cell 16,91 is valid
+cell 17,91 is valid
+cell 18,91 is valid
+cell 19,91 is an obstacle
+cell 20,91 is an obstacle
+cell 21,91 is valid
+cell 22,91 is valid
+cell 23,91 is valid
+cell 24,91 is an obstacle
+cell 25,91 is an obstacle
+cell 26,91 is valid
+cell 27,91 is valid
+cell 28,91 is valid
+cell 29,91 is an obstacle
+cell 30,91 is an obstacle
+cell 31,91 is valid
+cell 32,91 is valid
+cell 33,91 is valid
+cell 34,91 is an obstacle
+cell 35,91 is an obstacle
+cell 36,91 is valid
+cell 37,91 is valid
+cell 38,91 is valid
+cell 39,91 is an obstacle
+cell 40,91 is an obstacle
+cell 41,91 is valid
+cell 42,91 is valid
+cell 43,91 is valid
+cell 44,91 is an obstacle
+cell 45,91 is an obstacle
+cell 46,91 is valid
+cell 47,91 is valid
+cell 48,91 is valid
+cell 49,91 is an obstacle
+cell 50,91 is an obstacle
+cell 51,91 is valid
+cell 52,91 is valid
+cell 53,91 is valid
+cell 54,91 is an obstacle
+cell 55,91 is an obstacle
+cell 56,91 is valid
+cell 57,91 is valid
+cell 58,91 is valid
+cell 59,91 is valid
+cell 60,91 is valid
+cell 61,91 is valid
+cell 62,91 is valid
+cell 63,91 is valid
+cell 64,91 is an obstacle
+cell 0,92 is an obstacle
+cell 1,92 is valid
+cell 2,92 is valid
+cell 3,92 is valid
+cell 4,92 is valid
+cell 5,92 is valid
+cell 6,92 is valid
+cell 7,92 is valid
+cell 8,92 is valid
+cell 9,92 is an obstacle
+cell 10,92 is an obstacle
+cell 11,92 is valid
+cell 12,92 is valid
+cell 13,92 is valid
+cell 14,92 is an obstacle
+cell 15,92 is an obstacle
+cell 16,92 is valid
+cell 17,92 is valid
+cell 18,92 is valid
+cell 19,92 is an obstacle
+cell 20,92 is an obstacle
+cell 21,92 is valid
+cell 22,92 is valid
+cell 23,92 is valid
+cell 24,92 is an obstacle
+cell 25,92 is an obstacle
+cell 26,92 is valid
+cell 27,92 is valid
+cell 28,92 is valid
+cell 29,92 is an obstacle
+cell 30,92 is an obstacle
+cell 31,92 is valid
+cell 32,92 is valid
+cell 33,92 is valid
+cell 34,92 is an obstacle
+cell 35,92 is an obstacle
+cell 36,92 is valid
+cell 37,92 is valid
+cell 38,92 is valid
+cell 39,92 is an obstacle
+cell 40,92 is an obstacle
+cell 41,92 is valid
+cell 42,92 is valid
+cell 43,92 is valid
+cell 44,92 is an obstacle
+cell 45,92 is an obstacle
+cell 46,92 is valid
+cell 47,92 is valid
+cell 48,92 is valid
+cell 49,92 is an obstacle
+cell 50,92 is an obstacle
+cell 51,92 is valid
+cell 52,92 is valid
+cell 53,92 is valid
+cell 54,92 is an obstacle
+cell 55,92 is an obstacle
+cell 56,92 is valid
+cell 57,92 is valid
+cell 58,92 is valid
+cell 59,92 is valid
+cell 60,92 is valid
+cell 61,92 is valid
+cell 62,92 is valid
+cell 63,92 is valid
+cell 64,92 is an obstacle
+cell 0,93 is an obstacle
+cell 1,93 is valid
+cell 2,93 is valid
+cell 3,93 is valid
+cell 4,93 is valid
+cell 5,93 is valid
+cell 6,93 is valid
+cell 7,93 is valid
+cell 8,93 is valid
+cell 9,93 is an obstacle
+cell 10,93 is an obstacle
+cell 11,93 is valid
+cell 12,93 is valid
+cell 13,93 is valid
+cell 14,93 is an obstacle
+cell 15,93 is an obstacle
+cell 16,93 is valid
+cell 17,93 is valid
+cell 18,93 is valid
+cell 19,93 is an obstacle
+cell 20,93 is an obstacle
+cell 21,93 is valid
+cell 22,93 is valid
+cell 23,93 is valid
+cell 24,93 is an obstacle
+cell 25,93 is an obstacle
+cell 26,93 is valid
+cell 27,93 is valid
+cell 28,93 is valid
+cell 29,93 is an obstacle
+cell 30,93 is an obstacle
+cell 31,93 is valid
+cell 32,93 is valid
+cell 33,93 is valid
+cell 34,93 is an obstacle
+cell 35,93 is an obstacle
+cell 36,93 is valid
+cell 37,93 is valid
+cell 38,93 is valid
+cell 39,93 is an obstacle
+cell 40,93 is an obstacle
+cell 41,93 is valid
+cell 42,93 is valid
+cell 43,93 is valid
+cell 44,93 is an obstacle
+cell 45,93 is an obstacle
+cell 46,93 is valid
+cell 47,93 is valid
+cell 48,93 is valid
+cell 49,93 is an obstacle
+cell 50,93 is an obstacle
+cell 51,93 is valid
+cell 52,93 is valid
+cell 53,93 is valid
+cell 54,93 is an obstacle
+cell 55,93 is an obstacle
+cell 56,93 is valid
+cell 57,93 is valid
+cell 58,93 is valid
+cell 59,93 is valid
+cell 60,93 is valid
+cell 61,93 is valid
+cell 62,93 is valid
+cell 63,93 is valid
+cell 64,93 is an obstacle
+cell 0,94 is an obstacle
+cell 1,94 is valid
+cell 2,94 is valid
+cell 3,94 is valid
+cell 4,94 is valid
+cell 5,94 is valid
+cell 6,94 is valid
+cell 7,94 is valid
+cell 8,94 is valid
+cell 9,94 is an obstacle
+cell 10,94 is an obstacle
+cell 11,94 is valid
+cell 12,94 is valid
+cell 13,94 is valid
+cell 14,94 is an obstacle
+cell 15,94 is an obstacle
+cell 16,94 is valid
+cell 17,94 is valid
+cell 18,94 is valid
+cell 19,94 is an obstacle
+cell 20,94 is an obstacle
+cell 21,94 is valid
+cell 22,94 is valid
+cell 23,94 is valid
+cell 24,94 is an obstacle
+cell 25,94 is an obstacle
+cell 26,94 is valid
+cell 27,94 is valid
+cell 28,94 is valid
+cell 29,94 is an obstacle
+cell 30,94 is an obstacle
+cell 31,94 is valid
+cell 32,94 is valid
+cell 33,94 is valid
+cell 34,94 is an obstacle
+cell 35,94 is an obstacle
+cell 36,94 is valid
+cell 37,94 is valid
+cell 38,94 is valid
+cell 39,94 is an obstacle
+cell 40,94 is an obstacle
+cell 41,94 is valid
+cell 42,94 is valid
+cell 43,94 is valid
+cell 44,94 is an obstacle
+cell 45,94 is an obstacle
+cell 46,94 is valid
+cell 47,94 is valid
+cell 48,94 is valid
+cell 49,94 is an obstacle
+cell 50,94 is an obstacle
+cell 51,94 is valid
+cell 52,94 is valid
+cell 53,94 is valid
+cell 54,94 is an obstacle
+cell 55,94 is an obstacle
+cell 56,94 is valid
+cell 57,94 is valid
+cell 58,94 is valid
+cell 59,94 is valid
+cell 60,94 is valid
+cell 61,94 is valid
+cell 62,94 is valid
+cell 63,94 is valid
+cell 64,94 is an obstacle
+cell 0,95 is an obstacle
+cell 1,95 is valid
+cell 2,95 is valid
+cell 3,95 is valid
+cell 4,95 is valid
+cell 5,95 is valid
+cell 6,95 is valid
+cell 7,95 is valid
+cell 8,95 is valid
+cell 9,95 is an obstacle
+cell 10,95 is an obstacle
+cell 11,95 is valid
+cell 12,95 is valid
+cell 13,95 is valid
+cell 14,95 is an obstacle
+cell 15,95 is an obstacle
+cell 16,95 is valid
+cell 17,95 is valid
+cell 18,95 is valid
+cell 19,95 is an obstacle
+cell 20,95 is an obstacle
+cell 21,95 is valid
+cell 22,95 is valid
+cell 23,95 is valid
+cell 24,95 is an obstacle
+cell 25,95 is an obstacle
+cell 26,95 is valid
+cell 27,95 is valid
+cell 28,95 is valid
+cell 29,95 is an obstacle
+cell 30,95 is an obstacle
+cell 31,95 is valid
+cell 32,95 is valid
+cell 33,95 is valid
+cell 34,95 is an obstacle
+cell 35,95 is an obstacle
+cell 36,95 is valid
+cell 37,95 is valid
+cell 38,95 is valid
+cell 39,95 is an obstacle
+cell 40,95 is an obstacle
+cell 41,95 is valid
+cell 42,95 is valid
+cell 43,95 is valid
+cell 44,95 is an obstacle
+cell 45,95 is an obstacle
+cell 46,95 is valid
+cell 47,95 is valid
+cell 48,95 is valid
+cell 49,95 is an obstacle
+cell 50,95 is an obstacle
+cell 51,95 is valid
+cell 52,95 is valid
+cell 53,95 is valid
+cell 54,95 is an obstacle
+cell 55,95 is an obstacle
+cell 56,95 is valid
+cell 57,95 is valid
+cell 58,95 is valid
+cell 59,95 is valid
+cell 60,95 is valid
+cell 61,95 is valid
+cell 62,95 is valid
+cell 63,95 is valid
+cell 64,95 is an obstacle
+cell 0,96 is an obstacle
+cell 1,96 is valid
+cell 2,96 is valid
+cell 3,96 is valid
+cell 4,96 is valid
+cell 5,96 is valid
+cell 6,96 is valid
+cell 7,96 is valid
+cell 8,96 is valid
+cell 9,96 is an obstacle
+cell 10,96 is an obstacle
+cell 11,96 is valid
+cell 12,96 is valid
+cell 13,96 is valid
+cell 14,96 is an obstacle
+cell 15,96 is an obstacle
+cell 16,96 is valid
+cell 17,96 is valid
+cell 18,96 is valid
+cell 19,96 is an obstacle
+cell 20,96 is an obstacle
+cell 21,96 is valid
+cell 22,96 is valid
+cell 23,96 is valid
+cell 24,96 is an obstacle
+cell 25,96 is an obstacle
+cell 26,96 is valid
+cell 27,96 is valid
+cell 28,96 is valid
+cell 29,96 is an obstacle
+cell 30,96 is an obstacle
+cell 31,96 is valid
+cell 32,96 is valid
+cell 33,96 is valid
+cell 34,96 is an obstacle
+cell 35,96 is an obstacle
+cell 36,96 is valid
+cell 37,96 is valid
+cell 38,96 is valid
+cell 39,96 is an obstacle
+cell 40,96 is an obstacle
+cell 41,96 is valid
+cell 42,96 is valid
+cell 43,96 is valid
+cell 44,96 is an obstacle
+cell 45,96 is an obstacle
+cell 46,96 is valid
+cell 47,96 is valid
+cell 48,96 is valid
+cell 49,96 is an obstacle
+cell 50,96 is an obstacle
+cell 51,96 is valid
+cell 52,96 is valid
+cell 53,96 is valid
+cell 54,96 is an obstacle
+cell 55,96 is an obstacle
+cell 56,96 is valid
+cell 57,96 is valid
+cell 58,96 is valid
+cell 59,96 is valid
+cell 60,96 is valid
+cell 61,96 is valid
+cell 62,96 is valid
+cell 63,96 is valid
+cell 64,96 is an obstacle
+cell 0,97 is an obstacle
+cell 1,97 is valid
+cell 2,97 is valid
+cell 3,97 is valid
+cell 4,97 is valid
+cell 5,97 is valid
+cell 6,97 is valid
+cell 7,97 is valid
+cell 8,97 is valid
+cell 9,97 is valid
+cell 10,97 is valid
+cell 11,97 is valid
+cell 12,97 is valid
+cell 13,97 is valid
+cell 14,97 is valid
+cell 15,97 is valid
+cell 16,97 is valid
+cell 17,97 is valid
+cell 18,97 is valid
+cell 19,97 is valid
+cell 20,97 is valid
+cell 21,97 is valid
+cell 22,97 is valid
+cell 23,97 is valid
+cell 24,97 is valid
+cell 25,97 is valid
+cell 26,97 is valid
+cell 27,97 is valid
+cell 28,97 is valid
+cell 29,97 is valid
+cell 30,97 is valid
+cell 31,97 is valid
+cell 32,97 is valid
+cell 33,97 is valid
+cell 34,97 is valid
+cell 35,97 is valid
+cell 36,97 is valid
+cell 37,97 is valid
+cell 38,97 is valid
+cell 39,97 is valid
+cell 40,97 is valid
+cell 41,97 is valid
+cell 42,97 is valid
+cell 43,97 is valid
+cell 44,97 is valid
+cell 45,97 is valid
+cell 46,97 is valid
+cell 47,97 is valid
+cell 48,97 is valid
+cell 49,97 is valid
+cell 50,97 is valid
+cell 51,97 is valid
+cell 52,97 is valid
+cell 53,97 is valid
+cell 54,97 is valid
+cell 55,97 is valid
+cell 56,97 is valid
+cell 57,97 is valid
+cell 58,97 is valid
+cell 59,97 is valid
+cell 60,97 is valid
+cell 61,97 is valid
+cell 62,97 is valid
+cell 63,97 is valid
+cell 64,97 is an obstacle
+cell 0,98 is an obstacle
+cell 1,98 is valid
+cell 2,98 is valid
+cell 3,98 is valid
+cell 4,98 is valid
+cell 5,98 is valid
+cell 6,98 is valid
+cell 7,98 is valid
+cell 8,98 is valid
+cell 9,98 is valid
+cell 10,98 is valid
+cell 11,98 is valid
+cell 12,98 is valid
+cell 13,98 is valid
+cell 14,98 is valid
+cell 15,98 is valid
+cell 16,98 is valid
+cell 17,98 is valid
+cell 18,98 is valid
+cell 19,98 is valid
+cell 20,98 is valid
+cell 21,98 is valid
+cell 22,98 is valid
+cell 23,98 is valid
+cell 24,98 is valid
+cell 25,98 is valid
+cell 26,98 is valid
+cell 27,98 is valid
+cell 28,98 is valid
+cell 29,98 is valid
+cell 30,98 is valid
+cell 31,98 is valid
+cell 32,98 is valid
+cell 33,98 is valid
+cell 34,98 is valid
+cell 35,98 is valid
+cell 36,98 is valid
+cell 37,98 is valid
+cell 38,98 is valid
+cell 39,98 is valid
+cell 40,98 is valid
+cell 41,98 is valid
+cell 42,98 is valid
+cell 43,98 is valid
+cell 44,98 is valid
+cell 45,98 is valid
+cell 46,98 is valid
+cell 47,98 is valid
+cell 48,98 is valid
+cell 49,98 is valid
+cell 50,98 is valid
+cell 51,98 is valid
+cell 52,98 is valid
+cell 53,98 is valid
+cell 54,98 is valid
+cell 55,98 is valid
+cell 56,98 is valid
+cell 57,98 is valid
+cell 58,98 is valid
+cell 59,98 is valid
+cell 60,98 is valid
+cell 61,98 is valid
+cell 62,98 is valid
+cell 63,98 is valid
+cell 64,98 is an obstacle
+cell 0,99 is an obstacle
+cell 1,99 is valid
+cell 2,99 is valid
+cell 3,99 is valid
+cell 4,99 is valid
+cell 5,99 is valid
+cell 6,99 is valid
+cell 7,99 is valid
+cell 8,99 is valid
+cell 9,99 is valid
+cell 10,99 is valid
+cell 11,99 is valid
+cell 12,99 is valid
+cell 13,99 is valid
+cell 14,99 is valid
+cell 15,99 is valid
+cell 16,99 is valid
+cell 17,99 is valid
+cell 18,99 is valid
+cell 19,99 is valid
+cell 20,99 is valid
+cell 21,99 is valid
+cell 22,99 is valid
+cell 23,99 is valid
+cell 24,99 is valid
+cell 25,99 is valid
+cell 26,99 is valid
+cell 27,99 is valid
+cell 28,99 is valid
+cell 29,99 is valid
+cell 30,99 is valid
+cell 31,99 is valid
+cell 32,99 is valid
+cell 33,99 is valid
+cell 34,99 is valid
+cell 35,99 is valid
+cell 36,99 is valid
+cell 37,99 is valid
+cell 38,99 is valid
+cell 39,99 is valid
+cell 40,99 is valid
+cell 41,99 is valid
+cell 42,99 is valid
+cell 43,99 is valid
+cell 44,99 is valid
+cell 45,99 is valid
+cell 46,99 is valid
+cell 47,99 is valid
+cell 48,99 is valid
+cell 49,99 is valid
+cell 50,99 is valid
+cell 51,99 is valid
+cell 52,99 is valid
+cell 53,99 is valid
+cell 54,99 is valid
+cell 55,99 is valid
+cell 56,99 is valid
+cell 57,99 is valid
+cell 58,99 is valid
+cell 59,99 is valid
+cell 60,99 is valid
+cell 61,99 is valid
+cell 62,99 is valid
+cell 63,99 is valid
+cell 64,99 is an obstacle
+cell 0,100 is an obstacle
+cell 1,100 is valid
+cell 2,100 is valid
+cell 3,100 is valid
+cell 4,100 is valid
+cell 5,100 is valid
+cell 6,100 is valid
+cell 7,100 is valid
+cell 8,100 is valid
+cell 9,100 is valid
+cell 10,100 is valid
+cell 11,100 is valid
+cell 12,100 is valid
+cell 13,100 is valid
+cell 14,100 is valid
+cell 15,100 is valid
+cell 16,100 is valid
+cell 17,100 is valid
+cell 18,100 is valid
+cell 19,100 is valid
+cell 20,100 is valid
+cell 21,100 is valid
+cell 22,100 is valid
+cell 23,100 is valid
+cell 24,100 is valid
+cell 25,100 is valid
+cell 26,100 is valid
+cell 27,100 is valid
+cell 28,100 is valid
+cell 29,100 is valid
+cell 30,100 is valid
+cell 31,100 is valid
+cell 32,100 is valid
+cell 33,100 is valid
+cell 34,100 is valid
+cell 35,100 is valid
+cell 36,100 is valid
+cell 37,100 is valid
+cell 38,100 is valid
+cell 39,100 is valid
+cell 40,100 is valid
+cell 41,100 is valid
+cell 42,100 is valid
+cell 43,100 is valid
+cell 44,100 is valid
+cell 45,100 is valid
+cell 46,100 is valid
+cell 47,100 is valid
+cell 48,100 is valid
+cell 49,100 is valid
+cell 50,100 is valid
+cell 51,100 is valid
+cell 52,100 is valid
+cell 53,100 is valid
+cell 54,100 is valid
+cell 55,100 is valid
+cell 56,100 is valid
+cell 57,100 is valid
+cell 58,100 is valid
+cell 59,100 is valid
+cell 60,100 is valid
+cell 61,100 is valid
+cell 62,100 is valid
+cell 63,100 is valid
+cell 64,100 is an obstacle
+cell 0,101 is an obstacle
+cell 1,101 is valid
+cell 2,101 is valid
+cell 3,101 is valid
+cell 4,101 is valid
+cell 5,101 is valid
+cell 6,101 is valid
+cell 7,101 is valid
+cell 8,101 is valid
+cell 9,101 is valid
+cell 10,101 is valid
+cell 11,101 is valid
+cell 12,101 is valid
+cell 13,101 is valid
+cell 14,101 is valid
+cell 15,101 is valid
+cell 16,101 is valid
+cell 17,101 is valid
+cell 18,101 is valid
+cell 19,101 is valid
+cell 20,101 is valid
+cell 21,101 is valid
+cell 22,101 is valid
+cell 23,101 is valid
+cell 24,101 is valid
+cell 25,101 is valid
+cell 26,101 is valid
+cell 27,101 is valid
+cell 28,101 is valid
+cell 29,101 is valid
+cell 30,101 is valid
+cell 31,101 is valid
+cell 32,101 is valid
+cell 33,101 is valid
+cell 34,101 is valid
+cell 35,101 is valid
+cell 36,101 is valid
+cell 37,101 is valid
+cell 38,101 is valid
+cell 39,101 is valid
+cell 40,101 is valid
+cell 41,101 is valid
+cell 42,101 is valid
+cell 43,101 is valid
+cell 44,101 is valid
+cell 45,101 is valid
+cell 46,101 is valid
+cell 47,101 is valid
+cell 48,101 is valid
+cell 49,101 is valid
+cell 50,101 is valid
+cell 51,101 is valid
+cell 52,101 is valid
+cell 53,101 is valid
+cell 54,101 is valid
+cell 55,101 is valid
+cell 56,101 is valid
+cell 57,101 is valid
+cell 58,101 is valid
+cell 59,101 is valid
+cell 60,101 is valid
+cell 61,101 is valid
+cell 62,101 is valid
+cell 63,101 is valid
+cell 64,101 is an obstacle
+cell 0,102 is an obstacle
+cell 1,102 is valid
+cell 2,102 is valid
+cell 3,102 is valid
+cell 4,102 is valid
+cell 5,102 is valid
+cell 6,102 is valid
+cell 7,102 is valid
+cell 8,102 is valid
+cell 9,102 is valid
+cell 10,102 is valid
+cell 11,102 is valid
+cell 12,102 is valid
+cell 13,102 is valid
+cell 14,102 is valid
+cell 15,102 is valid
+cell 16,102 is valid
+cell 17,102 is valid
+cell 18,102 is valid
+cell 19,102 is valid
+cell 20,102 is valid
+cell 21,102 is valid
+cell 22,102 is valid
+cell 23,102 is valid
+cell 24,102 is valid
+cell 25,102 is valid
+cell 26,102 is valid
+cell 27,102 is valid
+cell 28,102 is valid
+cell 29,102 is valid
+cell 30,102 is valid
+cell 31,102 is valid
+cell 32,102 is valid
+cell 33,102 is valid
+cell 34,102 is valid
+cell 35,102 is valid
+cell 36,102 is valid
+cell 37,102 is valid
+cell 38,102 is valid
+cell 39,102 is valid
+cell 40,102 is valid
+cell 41,102 is valid
+cell 42,102 is valid
+cell 43,102 is valid
+cell 44,102 is valid
+cell 45,102 is valid
+cell 46,102 is valid
+cell 47,102 is valid
+cell 48,102 is valid
+cell 49,102 is valid
+cell 50,102 is valid
+cell 51,102 is valid
+cell 52,102 is valid
+cell 53,102 is valid
+cell 54,102 is valid
+cell 55,102 is valid
+cell 56,102 is valid
+cell 57,102 is valid
+cell 58,102 is valid
+cell 59,102 is valid
+cell 60,102 is valid
+cell 61,102 is valid
+cell 62,102 is valid
+cell 63,102 is valid
+cell 64,102 is an obstacle
+cell 0,103 is an obstacle
+cell 1,103 is valid
+cell 2,103 is valid
+cell 3,103 is valid
+cell 4,103 is valid
+cell 5,103 is valid
+cell 6,103 is valid
+cell 7,103 is valid
+cell 8,103 is valid
+cell 9,103 is valid
+cell 10,103 is valid
+cell 11,103 is valid
+cell 12,103 is valid
+cell 13,103 is valid
+cell 14,103 is valid
+cell 15,103 is valid
+cell 16,103 is valid
+cell 17,103 is valid
+cell 18,103 is valid
+cell 19,103 is valid
+cell 20,103 is valid
+cell 21,103 is valid
+cell 22,103 is valid
+cell 23,103 is valid
+cell 24,103 is valid
+cell 25,103 is valid
+cell 26,103 is valid
+cell 27,103 is valid
+cell 28,103 is valid
+cell 29,103 is valid
+cell 30,103 is valid
+cell 31,103 is valid
+cell 32,103 is valid
+cell 33,103 is valid
+cell 34,103 is valid
+cell 35,103 is valid
+cell 36,103 is valid
+cell 37,103 is valid
+cell 38,103 is valid
+cell 39,103 is valid
+cell 40,103 is valid
+cell 41,103 is valid
+cell 42,103 is valid
+cell 43,103 is valid
+cell 44,103 is valid
+cell 45,103 is valid
+cell 46,103 is valid
+cell 47,103 is valid
+cell 48,103 is valid
+cell 49,103 is valid
+cell 50,103 is valid
+cell 51,103 is valid
+cell 52,103 is valid
+cell 53,103 is valid
+cell 54,103 is valid
+cell 55,103 is valid
+cell 56,103 is valid
+cell 57,103 is valid
+cell 58,103 is valid
+cell 59,103 is valid
+cell 60,103 is valid
+cell 61,103 is valid
+cell 62,103 is valid
+cell 63,103 is valid
+cell 64,103 is an obstacle
+cell 0,104 is an obstacle
+cell 1,104 is valid
+cell 2,104 is valid
+cell 3,104 is valid
+cell 4,104 is valid
+cell 5,104 is valid
+cell 6,104 is valid
+cell 7,104 is valid
+cell 8,104 is valid
+cell 9,104 is valid
+cell 10,104 is valid
+cell 11,104 is valid
+cell 12,104 is valid
+cell 13,104 is valid
+cell 14,104 is valid
+cell 15,104 is valid
+cell 16,104 is valid
+cell 17,104 is valid
+cell 18,104 is valid
+cell 19,104 is valid
+cell 20,104 is valid
+cell 21,104 is valid
+cell 22,104 is valid
+cell 23,104 is valid
+cell 24,104 is valid
+cell 25,104 is valid
+cell 26,104 is valid
+cell 27,104 is valid
+cell 28,104 is valid
+cell 29,104 is valid
+cell 30,104 is valid
+cell 31,104 is valid
+cell 32,104 is valid
+cell 33,104 is valid
+cell 34,104 is valid
+cell 35,104 is valid
+cell 36,104 is valid
+cell 37,104 is valid
+cell 38,104 is valid
+cell 39,104 is valid
+cell 40,104 is valid
+cell 41,104 is valid
+cell 42,104 is valid
+cell 43,104 is valid
+cell 44,104 is valid
+cell 45,104 is valid
+cell 46,104 is valid
+cell 47,104 is valid
+cell 48,104 is valid
+cell 49,104 is valid
+cell 50,104 is valid
+cell 51,104 is valid
+cell 52,104 is valid
+cell 53,104 is valid
+cell 54,104 is valid
+cell 55,104 is valid
+cell 56,104 is valid
+cell 57,104 is valid
+cell 58,104 is valid
+cell 59,104 is valid
+cell 60,104 is valid
+cell 61,104 is valid
+cell 62,104 is valid
+cell 63,104 is valid
+cell 64,104 is an obstacle
+cell 0,105 is an obstacle
+cell 1,105 is valid
+cell 2,105 is valid
+cell 3,105 is valid
+cell 4,105 is valid
+cell 5,105 is valid
+cell 6,105 is valid
+cell 7,105 is valid
+cell 8,105 is valid
+cell 9,105 is valid
+cell 10,105 is valid
+cell 11,105 is valid
+cell 12,105 is valid
+cell 13,105 is valid
+cell 14,105 is valid
+cell 15,105 is valid
+cell 16,105 is valid
+cell 17,105 is valid
+cell 18,105 is valid
+cell 19,105 is valid
+cell 20,105 is valid
+cell 21,105 is valid
+cell 22,105 is valid
+cell 23,105 is valid
+cell 24,105 is valid
+cell 25,105 is valid
+cell 26,105 is valid
+cell 27,105 is valid
+cell 28,105 is valid
+cell 29,105 is valid
+cell 30,105 is valid
+cell 31,105 is valid
+cell 32,105 is valid
+cell 33,105 is valid
+cell 34,105 is valid
+cell 35,105 is valid
+cell 36,105 is valid
+cell 37,105 is valid
+cell 38,105 is valid
+cell 39,105 is valid
+cell 40,105 is valid
+cell 41,105 is valid
+cell 42,105 is valid
+cell 43,105 is valid
+cell 44,105 is valid
+cell 45,105 is valid
+cell 46,105 is valid
+cell 47,105 is valid
+cell 48,105 is valid
+cell 49,105 is valid
+cell 50,105 is valid
+cell 51,105 is valid
+cell 52,105 is valid
+cell 53,105 is valid
+cell 54,105 is valid
+cell 55,105 is valid
+cell 56,105 is valid
+cell 57,105 is valid
+cell 58,105 is valid
+cell 59,105 is valid
+cell 60,105 is valid
+cell 61,105 is valid
+cell 62,105 is valid
+cell 63,105 is valid
+cell 64,105 is an obstacle
+cell 0,106 is an obstacle
+cell 1,106 is valid
+cell 2,106 is valid
+cell 3,106 is valid
+cell 4,106 is valid
+cell 5,106 is valid
+cell 6,106 is valid
+cell 7,106 is valid
+cell 8,106 is valid
+cell 9,106 is an obstacle
+cell 10,106 is an obstacle
+cell 11,106 is an obstacle
+cell 12,106 is an obstacle
+cell 13,106 is an obstacle
+cell 14,106 is an obstacle
+cell 15,106 is an obstacle
+cell 16,106 is an obstacle
+cell 17,106 is an obstacle
+cell 18,106 is an obstacle
+cell 19,106 is an obstacle
+cell 20,106 is an obstacle
+cell 21,106 is an obstacle
+cell 22,106 is an obstacle
+cell 23,106 is an obstacle
+cell 24,106 is an obstacle
+cell 25,106 is an obstacle
+cell 26,106 is an obstacle
+cell 27,106 is an obstacle
+cell 28,106 is an obstacle
+cell 29,106 is an obstacle
+cell 30,106 is an obstacle
+cell 31,106 is an obstacle
+cell 32,106 is an obstacle
+cell 33,106 is an obstacle
+cell 34,106 is an obstacle
+cell 35,106 is an obstacle
+cell 36,106 is an obstacle
+cell 37,106 is an obstacle
+cell 38,106 is an obstacle
+cell 39,106 is an obstacle
+cell 40,106 is an obstacle
+cell 41,106 is an obstacle
+cell 42,106 is an obstacle
+cell 43,106 is an obstacle
+cell 44,106 is an obstacle
+cell 45,106 is an obstacle
+cell 46,106 is an obstacle
+cell 47,106 is an obstacle
+cell 48,106 is an obstacle
+cell 49,106 is an obstacle
+cell 50,106 is an obstacle
+cell 51,106 is an obstacle
+cell 52,106 is an obstacle
+cell 53,106 is an obstacle
+cell 54,106 is an obstacle
+cell 55,106 is an obstacle
+cell 56,106 is valid
+cell 57,106 is valid
+cell 58,106 is valid
+cell 59,106 is valid
+cell 60,106 is valid
+cell 61,106 is valid
+cell 62,106 is valid
+cell 63,106 is valid
+cell 64,106 is an obstacle
+cell 0,107 is an obstacle
+cell 1,107 is valid
+cell 2,107 is valid
+cell 3,107 is valid
+cell 4,107 is valid
+cell 5,107 is valid
+cell 6,107 is valid
+cell 7,107 is valid
+cell 8,107 is valid
+cell 9,107 is an obstacle
+cell 10,107 is an obstacle
+cell 11,107 is an obstacle
+cell 12,107 is an obstacle
+cell 13,107 is an obstacle
+cell 14,107 is an obstacle
+cell 15,107 is an obstacle
+cell 16,107 is an obstacle
+cell 17,107 is an obstacle
+cell 18,107 is an obstacle
+cell 19,107 is an obstacle
+cell 20,107 is an obstacle
+cell 21,107 is an obstacle
+cell 22,107 is an obstacle
+cell 23,107 is an obstacle
+cell 24,107 is an obstacle
+cell 25,107 is an obstacle
+cell 26,107 is an obstacle
+cell 27,107 is an obstacle
+cell 28,107 is an obstacle
+cell 29,107 is an obstacle
+cell 30,107 is an obstacle
+cell 31,107 is an obstacle
+cell 32,107 is an obstacle
+cell 33,107 is an obstacle
+cell 34,107 is an obstacle
+cell 35,107 is an obstacle
+cell 36,107 is an obstacle
+cell 37,107 is an obstacle
+cell 38,107 is an obstacle
+cell 39,107 is an obstacle
+cell 40,107 is an obstacle
+cell 41,107 is an obstacle
+cell 42,107 is an obstacle
+cell 43,107 is an obstacle
+cell 44,107 is an obstacle
+cell 45,107 is an obstacle
+cell 46,107 is an obstacle
+cell 47,107 is an obstacle
+cell 48,107 is an obstacle
+cell 49,107 is an obstacle
+cell 50,107 is an obstacle
+cell 51,107 is an obstacle
+cell 52,107 is an obstacle
+cell 53,107 is an obstacle
+cell 54,107 is an obstacle
+cell 55,107 is an obstacle
+cell 56,107 is valid
+cell 57,107 is valid
+cell 58,107 is valid
+cell 59,107 is valid
+cell 60,107 is valid
+cell 61,107 is valid
+cell 62,107 is valid
+cell 63,107 is valid
+cell 64,107 is an obstacle
+cell 0,108 is an obstacle
+cell 1,108 is valid
+cell 2,108 is valid
+cell 3,108 is valid
+cell 4,108 is valid
+cell 5,108 is valid
+cell 6,108 is valid
+cell 7,108 is valid
+cell 8,108 is valid
+cell 9,108 is an obstacle
+cell 10,108 is an obstacle
+cell 11,108 is an obstacle
+cell 12,108 is an obstacle
+cell 13,108 is an obstacle
+cell 14,108 is an obstacle
+cell 15,108 is an obstacle
+cell 16,108 is an obstacle
+cell 17,108 is an obstacle
+cell 18,108 is an obstacle
+cell 19,108 is an obstacle
+cell 20,108 is an obstacle
+cell 21,108 is an obstacle
+cell 22,108 is an obstacle
+cell 23,108 is an obstacle
+cell 24,108 is an obstacle
+cell 25,108 is an obstacle
+cell 26,108 is an obstacle
+cell 27,108 is an obstacle
+cell 28,108 is an obstacle
+cell 29,108 is an obstacle
+cell 30,108 is an obstacle
+cell 31,108 is an obstacle
+cell 32,108 is an obstacle
+cell 33,108 is an obstacle
+cell 34,108 is an obstacle
+cell 35,108 is an obstacle
+cell 36,108 is an obstacle
+cell 37,108 is an obstacle
+cell 38,108 is an obstacle
+cell 39,108 is an obstacle
+cell 40,108 is an obstacle
+cell 41,108 is an obstacle
+cell 42,108 is an obstacle
+cell 43,108 is an obstacle
+cell 44,108 is an obstacle
+cell 45,108 is an obstacle
+cell 46,108 is an obstacle
+cell 47,108 is an obstacle
+cell 48,108 is an obstacle
+cell 49,108 is an obstacle
+cell 50,108 is an obstacle
+cell 51,108 is an obstacle
+cell 52,108 is an obstacle
+cell 53,108 is an obstacle
+cell 54,108 is an obstacle
+cell 55,108 is an obstacle
+cell 56,108 is valid
+cell 57,108 is valid
+cell 58,108 is valid
+cell 59,108 is valid
+cell 60,108 is valid
+cell 61,108 is valid
+cell 62,108 is valid
+cell 63,108 is valid
+cell 64,108 is an obstacle
+cell 0,109 is an obstacle
+cell 1,109 is valid
+cell 2,109 is valid
+cell 3,109 is valid
+cell 4,109 is valid
+cell 5,109 is valid
+cell 6,109 is valid
+cell 7,109 is valid
+cell 8,109 is valid
+cell 9,109 is an obstacle
+cell 10,109 is an obstacle
+cell 11,109 is an obstacle
+cell 12,109 is an obstacle
+cell 13,109 is an obstacle
+cell 14,109 is an obstacle
+cell 15,109 is an obstacle
+cell 16,109 is an obstacle
+cell 17,109 is an obstacle
+cell 18,109 is an obstacle
+cell 19,109 is an obstacle
+cell 20,109 is an obstacle
+cell 21,109 is an obstacle
+cell 22,109 is an obstacle
+cell 23,109 is an obstacle
+cell 24,109 is an obstacle
+cell 25,109 is an obstacle
+cell 26,109 is an obstacle
+cell 27,109 is an obstacle
+cell 28,109 is an obstacle
+cell 29,109 is an obstacle
+cell 30,109 is an obstacle
+cell 31,109 is an obstacle
+cell 32,109 is an obstacle
+cell 33,109 is an obstacle
+cell 34,109 is an obstacle
+cell 35,109 is an obstacle
+cell 36,109 is an obstacle
+cell 37,109 is an obstacle
+cell 38,109 is an obstacle
+cell 39,109 is an obstacle
+cell 40,109 is an obstacle
+cell 41,109 is an obstacle
+cell 42,109 is an obstacle
+cell 43,109 is an obstacle
+cell 44,109 is an obstacle
+cell 45,109 is an obstacle
+cell 46,109 is an obstacle
+cell 47,109 is an obstacle
+cell 48,109 is an obstacle
+cell 49,109 is an obstacle
+cell 50,109 is an obstacle
+cell 51,109 is an obstacle
+cell 52,109 is an obstacle
+cell 53,109 is an obstacle
+cell 54,109 is an obstacle
+cell 55,109 is an obstacle
+cell 56,109 is valid
+cell 57,109 is valid
+cell 58,109 is valid
+cell 59,109 is valid
+cell 60,109 is valid
+cell 61,109 is valid
+cell 62,109 is valid
+cell 63,109 is valid
+cell 64,109 is an obstacle
+cell 0,110 is an obstacle
+cell 1,110 is valid
+cell 2,110 is valid
+cell 3,110 is valid
+cell 4,110 is valid
+cell 5,110 is valid
+cell 6,110 is valid
+cell 7,110 is valid
+cell 8,110 is valid
+cell 9,110 is valid
+cell 10,110 is valid
+cell 11,110 is valid
+cell 12,110 is valid
+cell 13,110 is valid
+cell 14,110 is valid
+cell 15,110 is valid
+cell 16,110 is valid
+cell 17,110 is valid
+cell 18,110 is valid
+cell 19,110 is valid
+cell 20,110 is valid
+cell 21,110 is valid
+cell 22,110 is valid
+cell 23,110 is valid
+cell 24,110 is valid
+cell 25,110 is valid
+cell 26,110 is valid
+cell 27,110 is valid
+cell 28,110 is valid
+cell 29,110 is valid
+cell 30,110 is valid
+cell 31,110 is valid
+cell 32,110 is valid
+cell 33,110 is valid
+cell 34,110 is valid
+cell 35,110 is valid
+cell 36,110 is valid
+cell 37,110 is valid
+cell 38,110 is valid
+cell 39,110 is valid
+cell 40,110 is valid
+cell 41,110 is valid
+cell 42,110 is valid
+cell 43,110 is valid
+cell 44,110 is valid
+cell 45,110 is valid
+cell 46,110 is valid
+cell 47,110 is valid
+cell 48,110 is valid
+cell 49,110 is valid
+cell 50,110 is valid
+cell 51,110 is valid
+cell 52,110 is valid
+cell 53,110 is valid
+cell 54,110 is valid
+cell 55,110 is valid
+cell 56,110 is valid
+cell 57,110 is valid
+cell 58,110 is valid
+cell 59,110 is valid
+cell 60,110 is valid
+cell 61,110 is valid
+cell 62,110 is valid
+cell 63,110 is valid
+cell 64,110 is an obstacle
+cell 0,111 is an obstacle
+cell 1,111 is valid
+cell 2,111 is valid
+cell 3,111 is valid
+cell 4,111 is valid
+cell 5,111 is valid
+cell 6,111 is valid
+cell 7,111 is valid
+cell 8,111 is valid
+cell 9,111 is valid
+cell 10,111 is valid
+cell 11,111 is valid
+cell 12,111 is valid
+cell 13,111 is valid
+cell 14,111 is valid
+cell 15,111 is valid
+cell 16,111 is valid
+cell 17,111 is valid
+cell 18,111 is valid
+cell 19,111 is valid
+cell 20,111 is valid
+cell 21,111 is valid
+cell 22,111 is valid
+cell 23,111 is valid
+cell 24,111 is valid
+cell 25,111 is valid
+cell 26,111 is valid
+cell 27,111 is valid
+cell 28,111 is valid
+cell 29,111 is valid
+cell 30,111 is valid
+cell 31,111 is valid
+cell 32,111 is valid
+cell 33,111 is valid
+cell 34,111 is valid
+cell 35,111 is valid
+cell 36,111 is valid
+cell 37,111 is valid
+cell 38,111 is valid
+cell 39,111 is valid
+cell 40,111 is valid
+cell 41,111 is valid
+cell 42,111 is valid
+cell 43,111 is valid
+cell 44,111 is valid
+cell 45,111 is valid
+cell 46,111 is valid
+cell 47,111 is valid
+cell 48,111 is valid
+cell 49,111 is valid
+cell 50,111 is valid
+cell 51,111 is valid
+cell 52,111 is valid
+cell 53,111 is valid
+cell 54,111 is valid
+cell 55,111 is valid
+cell 56,111 is valid
+cell 57,111 is valid
+cell 58,111 is valid
+cell 59,111 is valid
+cell 60,111 is valid
+cell 61,111 is valid
+cell 62,111 is valid
+cell 63,111 is valid
+cell 64,111 is an obstacle
+cell 0,112 is an obstacle
+cell 1,112 is valid
+cell 2,112 is valid
+cell 3,112 is valid
+cell 4,112 is valid
+cell 5,112 is valid
+cell 6,112 is valid
+cell 7,112 is valid
+cell 8,112 is valid
+cell 9,112 is valid
+cell 10,112 is valid
+cell 11,112 is valid
+cell 12,112 is valid
+cell 13,112 is valid
+cell 14,112 is valid
+cell 15,112 is valid
+cell 16,112 is valid
+cell 17,112 is valid
+cell 18,112 is valid
+cell 19,112 is valid
+cell 20,112 is valid
+cell 21,112 is valid
+cell 22,112 is valid
+cell 23,112 is valid
+cell 24,112 is valid
+cell 25,112 is valid
+cell 26,112 is valid
+cell 27,112 is valid
+cell 28,112 is valid
+cell 29,112 is valid
+cell 30,112 is valid
+cell 31,112 is valid
+cell 32,112 is valid
+cell 33,112 is valid
+cell 34,112 is valid
+cell 35,112 is valid
+cell 36,112 is valid
+cell 37,112 is valid
+cell 38,112 is valid
+cell 39,112 is valid
+cell 40,112 is valid
+cell 41,112 is valid
+cell 42,112 is valid
+cell 43,112 is valid
+cell 44,112 is valid
+cell 45,112 is valid
+cell 46,112 is valid
+cell 47,112 is valid
+cell 48,112 is valid
+cell 49,112 is valid
+cell 50,112 is valid
+cell 51,112 is valid
+cell 52,112 is valid
+cell 53,112 is valid
+cell 54,112 is valid
+cell 55,112 is valid
+cell 56,112 is valid
+cell 57,112 is valid
+cell 58,112 is valid
+cell 59,112 is valid
+cell 60,112 is valid
+cell 61,112 is valid
+cell 62,112 is valid
+cell 63,112 is valid
+cell 64,112 is an obstacle
+cell 0,113 is an obstacle
+cell 1,113 is an obstacle
+cell 2,113 is an obstacle
+cell 3,113 is an obstacle
+cell 4,113 is an obstacle
+cell 5,113 is an obstacle
+cell 6,113 is an obstacle
+cell 7,113 is an obstacle
+cell 8,113 is an obstacle
+cell 9,113 is an obstacle
+cell 10,113 is an obstacle
+cell 11,113 is an obstacle
+cell 12,113 is an obstacle
+cell 13,113 is an obstacle
+cell 14,113 is an obstacle
+cell 15,113 is an obstacle
+cell 16,113 is an obstacle
+cell 17,113 is an obstacle
+cell 18,113 is an obstacle
+cell 19,113 is an obstacle
+cell 20,113 is an obstacle
+cell 21,113 is an obstacle
+cell 22,113 is an obstacle
+cell 23,113 is an obstacle
+cell 24,113 is an obstacle
+cell 25,113 is an obstacle
+cell 26,113 is an obstacle
+cell 27,113 is an obstacle
+cell 28,113 is an obstacle
+cell 29,113 is an obstacle
+cell 30,113 is an obstacle
+cell 31,113 is an obstacle
+cell 32,113 is an obstacle
+cell 33,113 is an obstacle
+cell 34,113 is an obstacle
+cell 35,113 is an obstacle
+cell 36,113 is an obstacle
+cell 37,113 is an obstacle
+cell 38,113 is an obstacle
+cell 39,113 is an obstacle
+cell 40,113 is an obstacle
+cell 41,113 is an obstacle
+cell 42,113 is an obstacle
+cell 43,113 is an obstacle
+cell 44,113 is an obstacle
+cell 45,113 is an obstacle
+cell 46,113 is an obstacle
+cell 47,113 is an obstacle
+cell 48,113 is an obstacle
+cell 49,113 is an obstacle
+cell 50,113 is an obstacle
+cell 51,113 is an obstacle
+cell 52,113 is an obstacle
+cell 53,113 is an obstacle
+cell 54,113 is an obstacle
+cell 55,113 is an obstacle
+cell 56,113 is an obstacle
+cell 57,113 is an obstacle
+cell 58,113 is an obstacle
+cell 59,113 is an obstacle
+cell 60,113 is an obstacle
+cell 61,113 is an obstacle
+cell 62,113 is an obstacle
+cell 63,113 is an obstacle
+cell 64,113 is an obstacle
